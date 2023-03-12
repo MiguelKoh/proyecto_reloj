@@ -1,0 +1,881 @@
+claveempleado,dia,horario,idasignatura,idgrado,asignaturalab,seccion,semestre,nombre_materia
+406,1,13,156,2,0,9,3,Los seres vivos y su diversidad
+406,1,14,156,2,0,9,3,Los seres vivos y su diversidad
+406,1,15,156,2,0,5,3,Los seres vivos y su diversidad
+406,1,16,156,2,0,5,3,Los seres vivos y su diversidad
+406,3,11,156,2,0,9,3,Los seres vivos y su diversidad
+406,3,12,156,2,0,9,3,Los seres vivos y su diversidad
+406,3,13,156,2,0,5,3,Los seres vivos y su diversidad
+406,3,14,156,2,0,5,3,Los seres vivos y su diversidad
+406,4,11,160,2,0,25,3,Adjunto Los seres vivos y su diversidad
+406,4,12,160,2,0,25,3,Adjunto Los seres vivos y su diversidad
+406,5,12,156,2,0,9,3,Los seres vivos y su diversidad
+406,5,13,156,2,0,5,3,Los seres vivos y su diversidad
+421,1,11,159,2,0,13,3,Beneficios de las actividades físico deportivas y artisticas
+421,1,11,159,2,0,21,3,Beneficios de las actividades físico deportivas y artisticas
+421,1,12,159,2,0,21,3,Beneficios de las actividades físico deportivas y artisticas
+421,1,13,159,2,0,22,3,Beneficios de las actividades físico deportivas y artisticas
+421,1,14,159,2,0,22,3,Beneficios de las actividades físico deportivas y artisticas
+421,2,11,159,2,0,12,3,Beneficios de las actividades físico deportivas y artisticas
+421,2,12,159,2,0,12,3,Beneficios de las actividades físico deportivas y artisticas
+421,2,13,159,2,0,13,3,Beneficios de las actividades físico deportivas y artisticas
+421,2,14,159,2,0,13,3,Beneficios de las actividades físico deportivas y artisticas
+421,3,9,159,2,0,8,3,Beneficios de las actividades físico deportivas y artisticas
+421,3,10,159,2,0,8,3,Beneficios de las actividades físico deportivas y artisticas
+421,4,9,159,2,0,26,3,Beneficios de las actividades físico deportivas y artisticas
+421,4,10,159,2,0,26,3,Beneficios de las actividades físico deportivas y artisticas
+421,5,9,159,2,0,15,3,Beneficios de las actividades físico deportivas y artisticas
+421,5,10,159,2,0,15,3,Beneficios de las actividades físico deportivas y artisticas
+430,1,11,160,2,0,27,3,Adjunto Los seres vivos y su diversidad
+430,1,12,160,2,0,27,3,Adjunto Los seres vivos y su diversidad
+430,2,11,160,2,0,24,3,Adjunto Los seres vivos y su diversidad
+430,2,12,160,2,0,24,3,Adjunto Los seres vivos y su diversidad
+430,2,13,160,2,0,19,3,Adjunto Los seres vivos y su diversidad
+430,2,14,160,2,0,19,3,Adjunto Los seres vivos y su diversidad
+430,3,13,160,2,0,26,3,Adjunto Los seres vivos y su diversidad
+430,3,14,160,2,0,26,3,Adjunto Los seres vivos y su diversidad
+430,3,15,160,2,0,28,3,Adjunto Los seres vivos y su diversidad
+430,3,16,160,2,0,28,3,Adjunto Los seres vivos y su diversidad
+430,4,15,160,2,0,21,3,Adjunto Los seres vivos y su diversidad
+430,4,16,160,2,0,21,3,Adjunto Los seres vivos y su diversidad
+430,5,11,160,2,0,8,3,Adjunto Los seres vivos y su diversidad
+430,5,12,160,2,0,8,3,Adjunto Los seres vivos y su diversidad
+430,5,13,160,2,0,29,3,Adjunto Los seres vivos y su diversidad
+430,5,14,160,2,0,29,3,Adjunto Los seres vivos y su diversidad
+577,1,1,90,1,0,1,1,Beginner I
+577,1,2,90,1,0,1,1,Beginner I
+577,1,3,90,1,0,8,1,Beginner I
+577,1,4,90,1,0,8,1,Beginner I
+577,1,5,90,1,0,5,1,Beginner I
+577,1,6,90,1,0,5,1,Beginner I
+577,1,7,90,1,0,2,1,Beginner I
+577,1,8,90,1,0,2,1,Beginner I
+577,2,1,90,1,0,23,1,Beginner I
+577,2,2,90,1,0,23,1,Beginner I
+577,2,7,90,1,0,21,1,Beginner I
+577,2,8,90,1,0,21,1,Beginner I
+577,3,1,90,1,0,7,1,Beginner I
+577,3,2,90,1,0,7,1,Beginner I
+577,3,3,90,1,0,8,1,Beginner I
+577,3,4,90,1,0,8,1,Beginner I
+577,3,5,90,1,0,1,1,Beginner I
+577,3,6,90,1,0,1,1,Beginner I
+577,4,1,90,1,0,7,1,Beginner I
+577,4,2,90,1,0,7,1,Beginner I
+577,4,3,90,1,0,5,1,Beginner I
+577,4,4,90,1,0,5,1,Beginner I
+577,4,5,90,1,0,21,1,Beginner I
+577,4,6,90,1,0,21,1,Beginner I
+577,4,7,90,1,0,22,1,Beginner I
+577,4,8,90,1,0,22,1,Beginner I
+577,5,3,90,1,0,22,1,Beginner I
+577,5,4,90,1,0,22,1,Beginner I
+577,5,5,90,1,0,23,1,Beginner I
+577,5,6,90,1,0,23,1,Beginner I
+577,5,7,90,1,0,2,1,Beginner I
+577,5,8,90,1,0,2,1,Beginner I
+838,1,1,91,1,0,10,1,Organización de la Información
+838,1,2,91,1,0,10,1,Organización de la Información
+838,1,3,91,1,0,12,1,Organización de la Información
+838,1,4,91,1,0,12,1,Organización de la Información
+838,1,5,91,1,0,8,1,Organización de la Información
+838,1,6,91,1,0,8,1,Organización de la Información
+838,2,3,91,1,0,16,1,Organización de la Información
+838,2,4,91,1,0,16,1,Organización de la Información
+838,2,5,91,1,0,20,1,Organización de la Información
+838,2,6,91,1,0,20,1,Organización de la Información
+838,2,7,91,1,0,27,1,Organización de la Información
+838,2,8,91,1,0,27,1,Organización de la Información
+838,3,1,91,1,0,20,1,Organización de la Información
+838,3,2,91,1,0,20,1,Organización de la Información
+838,3,3,91,1,0,7,1,Organización de la Información
+838,3,4,91,1,0,7,1,Organización de la Información
+838,3,5,91,1,0,8,1,Organización de la Información
+838,3,6,91,1,0,8,1,Organización de la Información
+838,3,9,38,3,0,12,5,Análisis Literario 3
+838,3,10,38,3,0,12,5,Análisis Literario 3
+838,4,1,91,1,0,10,1,Organización de la Información
+838,4,2,91,1,0,10,1,Organización de la Información
+838,4,3,91,1,0,4,1,Organización de la Información
+838,4,4,91,1,0,4,1,Organización de la Información
+838,4,5,91,1,0,16,1,Organización de la Información
+838,4,6,91,1,0,16,1,Organización de la Información
+838,5,1,91,1,0,7,1,Organización de la Información
+838,5,2,91,1,0,7,1,Organización de la Información
+838,5,3,91,1,0,12,1,Organización de la Información
+838,5,4,91,1,0,12,1,Organización de la Información
+838,5,5,91,1,0,4,1,Organización de la Información
+838,5,6,91,1,0,4,1,Organización de la Información
+838,5,7,91,1,0,27,1,Organización de la Información
+838,5,8,91,1,0,27,1,Organización de la Información
+838,5,9,38,3,0,12,5,Análisis Literario 3
+838,5,10,38,3,0,12,5,Análisis Literario 3
+1033,5,13,159,2,0,27,3,Beneficios de las actividades físico deportivas y artisticas
+1033,5,14,159,2,0,27,3,Beneficios de las actividades físico deportivas y artisticas
+1033,5,15,159,2,0,29,3,Beneficios de las actividades físico deportivas y artisticas
+1033,5,16,159,2,0,29,3,Beneficios de las actividades físico deportivas y artisticas
+1258,2,11,152,2,0,17,3,Beginner III
+1258,2,12,152,2,0,17,3,Beginner III
+1258,3,11,152,2,0,17,3,Beginner III
+1258,3,12,152,2,0,17,3,Beginner III
+1418,1,1,40,3,0,2,5,Lengua Extranjera 5 (Inglés)
+1418,1,2,40,3,0,2,5,Lengua Extranjera 5 (Inglés)
+1418,1,9,152,2,0,22,3,Beginner III
+1418,1,10,152,2,0,22,3,Beginner III
+1418,1,13,152,2,0,10,3,Beginner III
+1418,1,14,152,2,0,10,3,Beginner III
+1418,1,15,152,2,0,21,3,Beginner III
+1418,1,16,152,2,0,21,3,Beginner III
+1418,2,3,96,1,0,18,1,Química en la Vida Cotidiana
+1418,2,5,40,3,0,8,5,Lengua Extranjera 5 (Inglés)
+1418,2,6,40,3,0,8,5,Lengua Extranjera 5 (Inglés)
+1418,2,9,152,2,0,7,3,Beginner III
+1418,2,10,152,2,0,7,3,Beginner III
+1418,2,11,152,2,0,10,3,Beginner III
+1418,2,12,152,2,0,10,3,Beginner III
+1418,2,13,152,2,0,21,3,Beginner III
+1418,2,14,152,2,0,21,3,Beginner III
+1418,3,1,40,3,0,8,5,Lengua Extranjera 5 (Inglés)
+1418,3,2,40,3,0,8,5,Lengua Extranjera 5 (Inglés)
+1418,3,3,40,3,0,4,5,Lengua Extranjera 5 (Inglés)
+1418,3,4,40,3,0,4,5,Lengua Extranjera 5 (Inglés)
+1418,3,5,96,1,0,18,1,Química en la Vida Cotidiana
+1418,3,6,96,1,0,18,1,Química en la Vida Cotidiana
+1418,3,11,152,2,0,22,3,Beginner III
+1418,3,12,152,2,0,22,3,Beginner III
+1418,4,1,40,3,0,4,5,Lengua Extranjera 5 (Inglés)
+1418,4,2,40,3,0,4,5,Lengua Extranjera 5 (Inglés)
+1418,4,13,152,2,0,16,3,Beginner III
+1418,4,14,152,2,0,16,3,Beginner III
+1418,5,3,96,1,0,18,1,Química en la Vida Cotidiana
+1418,5,4,96,1,0,18,1,Química en la Vida Cotidiana
+1418,5,7,40,3,0,2,5,Lengua Extranjera 5 (Inglés)
+1418,5,8,40,3,0,2,5,Lengua Extranjera 5 (Inglés)
+1418,5,9,152,2,0,16,3,Beginner III
+1418,5,10,152,2,0,16,3,Beginner III
+1418,5,13,152,2,0,7,3,Beginner III
+1418,5,14,152,2,0,7,3,Beginner III
+1654,1,1,151,1,0,11,1,Conformación histórica del mundo occidental
+1654,1,2,151,1,0,11,1,Conformación histórica del mundo occidental
+1654,1,3,151,1,0,24,1,Conformación histórica del mundo occidental
+1654,1,4,151,1,0,24,1,Conformación histórica del mundo occidental
+1654,1,5,151,1,0,7,1,Conformación histórica del mundo occidental
+1654,1,6,151,1,0,7,1,Conformación histórica del mundo occidental
+1654,2,1,151,1,0,25,1,Conformación histórica del mundo occidental
+1654,2,2,151,1,0,25,1,Conformación histórica del mundo occidental
+1654,2,3,151,1,0,6,1,Conformación histórica del mundo occidental
+1654,2,4,151,1,0,6,1,Conformación histórica del mundo occidental
+1654,2,5,151,1,0,22,1,Conformación histórica del mundo occidental
+1654,2,6,151,1,0,22,1,Conformación histórica del mundo occidental
+1654,2,7,151,1,0,7,1,Conformación histórica del mundo occidental
+1654,2,8,151,1,0,7,1,Conformación histórica del mundo occidental
+1654,3,1,151,1,0,23,1,Conformación histórica del mundo occidental
+1654,3,2,151,1,0,23,1,Conformación histórica del mundo occidental
+1654,3,3,151,1,0,22,1,Conformación histórica del mundo occidental
+1654,3,4,151,1,0,22,1,Conformación histórica del mundo occidental
+1654,3,5,151,1,0,24,1,Conformación histórica del mundo occidental
+1654,3,6,151,1,0,24,1,Conformación histórica del mundo occidental
+1654,3,7,151,1,0,16,1,Conformación histórica del mundo occidental
+1654,3,8,151,1,0,16,1,Conformación histórica del mundo occidental
+1654,4,5,151,1,0,23,1,Conformación histórica del mundo occidental
+1654,4,6,151,1,0,23,1,Conformación histórica del mundo occidental
+1654,5,1,151,1,0,11,1,Conformación histórica del mundo occidental
+1654,5,2,151,1,0,11,1,Conformación histórica del mundo occidental
+1654,5,3,151,1,0,6,1,Conformación histórica del mundo occidental
+1654,5,4,151,1,0,6,1,Conformación histórica del mundo occidental
+1654,5,5,151,1,0,16,1,Conformación histórica del mundo occidental
+1654,5,6,151,1,0,16,1,Conformación histórica del mundo occidental
+1654,5,7,151,1,0,25,1,Conformación histórica del mundo occidental
+1654,5,8,151,1,0,25,1,Conformación histórica del mundo occidental
+1710,1,11,40,3,0,11,5,Lengua Extranjera 5 (Inglés)
+1710,1,12,40,3,0,11,5,Lengua Extranjera 5 (Inglés)
+1710,1,15,152,2,0,23,3,Beginner III
+1710,1,16,152,2,0,23,3,Beginner III
+1710,2,9,152,2,0,19,3,Beginner III
+1710,2,10,152,2,0,19,3,Beginner III
+1710,2,11,152,2,0,18,3,Beginner III
+1710,2,12,152,2,0,18,3,Beginner III
+1710,2,13,40,3,0,17,5,Lengua Extranjera 5 (Inglés)
+1710,2,14,40,3,0,17,5,Lengua Extranjera 5 (Inglés)
+1710,2,15,40,3,0,12,5,Lengua Extranjera 5 (Inglés)
+1710,2,16,40,3,0,12,5,Lengua Extranjera 5 (Inglés)
+1710,3,9,152,2,0,18,3,Beginner III
+1710,3,10,152,2,0,18,3,Beginner III
+1710,3,11,40,3,0,12,5,Lengua Extranjera 5 (Inglés)
+1710,3,12,40,3,0,12,5,Lengua Extranjera 5 (Inglés)
+1710,3,15,152,2,0,15,3,Beginner III
+1710,3,16,152,2,0,15,3,Beginner III
+1710,4,9,40,3,0,17,5,Lengua Extranjera 5 (Inglés)
+1710,4,10,40,3,0,17,5,Lengua Extranjera 5 (Inglés)
+1710,4,11,40,3,0,11,5,Lengua Extranjera 5 (Inglés)
+1710,4,12,40,3,0,11,5,Lengua Extranjera 5 (Inglés)
+1710,4,13,152,2,0,23,3,Beginner III
+1710,4,14,152,2,0,23,3,Beginner III
+1710,4,15,40,3,0,14,5,Lengua Extranjera 5 (Inglés)
+1710,4,16,40,3,0,14,5,Lengua Extranjera 5 (Inglés)
+1710,5,11,40,3,0,14,5,Lengua Extranjera 5 (Inglés)
+1710,5,12,40,3,0,14,5,Lengua Extranjera 5 (Inglés)
+1710,5,13,152,2,0,19,3,Beginner III
+1710,5,14,152,2,0,19,3,Beginner III
+1710,5,15,152,2,0,15,3,Beginner III
+1710,5,16,152,2,0,15,3,Beginner III
+1737,1,1,94,1,0,21,1,Las Matemáticas en mi Entorno
+1737,1,2,94,1,0,21,1,Las Matemáticas en mi Entorno
+1737,1,3,94,1,0,10,1,Las Matemáticas en mi Entorno
+1737,1,4,94,1,0,10,1,Las Matemáticas en mi Entorno
+1737,1,5,94,1,0,1,1,Las Matemáticas en mi Entorno
+1737,1,6,94,1,0,1,1,Las Matemáticas en mi Entorno
+1737,1,8,94,1,0,9,1,Las Matemáticas en mi Entorno
+1737,2,2,94,1,0,21,1,Las Matemáticas en mi Entorno
+1737,2,3,94,1,0,3,1,Las Matemáticas en mi Entorno
+1737,2,5,94,1,0,9,1,Las Matemáticas en mi Entorno
+1737,2,6,94,1,0,9,1,Las Matemáticas en mi Entorno
+1737,2,7,94,1,0,14,1,Las Matemáticas en mi Entorno
+1737,2,8,94,1,0,14,1,Las Matemáticas en mi Entorno
+1737,3,1,94,1,0,9,1,Las Matemáticas en mi Entorno
+1737,3,2,94,1,0,9,1,Las Matemáticas en mi Entorno
+1737,3,4,94,1,0,10,1,Las Matemáticas en mi Entorno
+1737,3,5,94,1,0,14,1,Las Matemáticas en mi Entorno
+1737,3,6,94,1,0,14,1,Las Matemáticas en mi Entorno
+1737,3,7,94,1,0,12,1,Las Matemáticas en mi Entorno
+1737,3,8,94,1,0,12,1,Las Matemáticas en mi Entorno
+1737,4,1,94,1,0,1,1,Las Matemáticas en mi Entorno
+1737,4,2,94,1,0,1,1,Las Matemáticas en mi Entorno
+1737,4,4,94,1,0,14,1,Las Matemáticas en mi Entorno
+1737,4,5,94,1,0,3,1,Las Matemáticas en mi Entorno
+1737,4,6,94,1,0,3,1,Las Matemáticas en mi Entorno
+1737,4,7,94,1,0,12,1,Las Matemáticas en mi Entorno
+1737,4,8,94,1,0,12,1,Las Matemáticas en mi Entorno
+1737,5,1,94,1,0,21,1,Las Matemáticas en mi Entorno
+1737,5,2,94,1,0,21,1,Las Matemáticas en mi Entorno
+1737,5,3,94,1,0,3,1,Las Matemáticas en mi Entorno
+1737,5,4,94,1,0,3,1,Las Matemáticas en mi Entorno
+1737,5,5,94,1,0,10,1,Las Matemáticas en mi Entorno
+1737,5,6,94,1,0,10,1,Las Matemáticas en mi Entorno
+1737,5,7,94,1,0,12,1,Las Matemáticas en mi Entorno
+1737,5,8,94,1,0,1,1,Las Matemáticas en mi Entorno
+1754,1,9,153,2,0,24,3,Investigación y sociedad
+1754,1,10,153,2,0,24,3,Investigación y sociedad
+1754,1,11,153,2,0,26,3,Investigación y sociedad
+1754,1,12,153,2,0,26,3,Investigación y sociedad
+1754,1,13,153,2,0,13,3,Investigación y sociedad
+1754,1,14,153,2,0,13,3,Investigación y sociedad
+1754,2,9,153,2,0,21,3,Investigación y sociedad
+1754,2,10,153,2,0,21,3,Investigación y sociedad
+1754,2,13,153,2,0,22,3,Investigación y sociedad
+1754,2,14,153,2,0,22,3,Investigación y sociedad
+1754,2,15,153,2,0,9,3,Investigación y sociedad
+1754,2,16,153,2,0,9,3,Investigación y sociedad
+1754,3,9,153,2,0,13,3,Investigación y sociedad
+1754,3,10,153,2,0,13,3,Investigación y sociedad
+1754,3,11,153,2,0,26,3,Investigación y sociedad
+1754,3,12,153,2,0,26,3,Investigación y sociedad
+1754,3,13,153,2,0,21,3,Investigación y sociedad
+1754,3,14,153,2,0,21,3,Investigación y sociedad
+1754,3,15,153,2,0,27,3,Investigación y sociedad
+1754,3,16,153,2,0,27,3,Investigación y sociedad
+1754,4,9,153,2,0,27,3,Investigación y sociedad
+1754,4,10,153,2,0,27,3,Investigación y sociedad
+1754,4,11,153,2,0,10,3,Investigación y sociedad
+1754,4,12,153,2,0,10,3,Investigación y sociedad
+1754,4,13,153,2,0,24,3,Investigación y sociedad
+1754,4,14,153,2,0,24,3,Investigación y sociedad
+1754,4,15,153,2,0,9,3,Investigación y sociedad
+1754,4,16,153,2,0,9,3,Investigación y sociedad
+1754,5,9,153,2,0,22,3,Investigación y sociedad
+1754,5,10,153,2,0,22,3,Investigación y sociedad
+1754,5,11,153,2,0,10,3,Investigación y sociedad
+1754,5,12,153,2,0,10,3,Investigación y sociedad
+1775,1,11,122,2,0,7,3,Psicología del desarrollo humano
+1775,1,12,122,2,0,7,3,Psicología del desarrollo humano
+1775,1,15,122,2,0,29,3,Psicología del desarrollo humano
+1775,1,16,122,2,0,29,3,Psicología del desarrollo humano
+1775,2,9,122,2,0,8,3,Psicología del desarrollo humano
+1775,2,10,122,2,0,8,3,Psicología del desarrollo humano
+1775,2,11,122,2,0,26,3,Psicología del desarrollo humano
+1775,2,12,122,2,0,26,3,Psicología del desarrollo humano
+1775,2,13,122,2,0,9,3,Psicología del desarrollo humano
+1775,2,14,122,2,0,9,3,Psicología del desarrollo humano
+1775,2,15,122,2,0,27,3,Psicología del desarrollo humano
+1775,2,16,122,2,0,27,3,Psicología del desarrollo humano
+1775,3,9,122,2,0,29,3,Psicología del desarrollo humano
+1775,3,10,122,2,0,29,3,Psicología del desarrollo humano
+1775,3,11,122,2,0,28,3,Psicología del desarrollo humano
+1775,3,12,122,2,0,28,3,Psicología del desarrollo humano
+1775,3,13,122,2,0,27,3,Psicología del desarrollo humano
+1775,3,14,122,2,0,27,3,Psicología del desarrollo humano
+1775,3,15,122,2,0,8,3,Psicología del desarrollo humano
+1775,3,16,122,2,0,8,3,Psicología del desarrollo humano
+1775,4,11,122,2,0,28,3,Psicología del desarrollo humano
+1775,4,12,122,2,0,28,3,Psicología del desarrollo humano
+1775,4,15,122,2,0,26,3,Psicología del desarrollo humano
+1775,4,16,122,2,0,26,3,Psicología del desarrollo humano
+1775,5,9,122,2,0,7,3,Psicología del desarrollo humano
+1775,5,10,122,2,0,7,3,Psicología del desarrollo humano
+1775,5,15,122,2,0,9,3,Psicología del desarrollo humano
+1775,5,16,122,2,0,9,3,Psicología del desarrollo humano
+1867,2,11,38,3,0,16,5,Análisis Literario 3
+1867,2,12,38,3,0,16,5,Análisis Literario 3
+1867,5,11,38,3,0,16,5,Análisis Literario 3
+1867,5,12,38,3,0,16,5,Análisis Literario 3
+2143,1,1,94,1,0,22,1,Las Matemáticas en mi Entorno
+2143,1,2,94,1,0,22,1,Las Matemáticas en mi Entorno
+2143,1,3,94,1,0,18,1,Las Matemáticas en mi Entorno
+2143,1,4,94,1,0,18,1,Las Matemáticas en mi Entorno
+2143,2,1,94,1,0,2,1,Las Matemáticas en mi Entorno
+2143,2,2,94,1,0,2,1,Las Matemáticas en mi Entorno
+2143,2,4,94,1,0,18,1,Las Matemáticas en mi Entorno
+2143,3,1,94,1,0,2,1,Las Matemáticas en mi Entorno
+2143,3,2,94,1,0,2,1,Las Matemáticas en mi Entorno
+2143,3,3,94,1,0,18,1,Las Matemáticas en mi Entorno
+2143,3,4,94,1,0,18,1,Las Matemáticas en mi Entorno
+2143,4,1,94,1,0,2,1,Las Matemáticas en mi Entorno
+2143,4,2,94,1,0,22,1,Las Matemáticas en mi Entorno
+2143,5,1,94,1,0,22,1,Las Matemáticas en mi Entorno
+2143,5,2,94,1,0,22,1,Las Matemáticas en mi Entorno
+2148,1,3,98,1,0,22,1,Responsabilidad Social Universitaria
+2148,1,4,98,1,0,22,1,Responsabilidad Social Universitaria
+2148,1,5,98,1,0,16,1,Responsabilidad Social Universitaria
+2148,1,6,98,1,0,16,1,Responsabilidad Social Universitaria
+2148,1,7,98,1,0,26,1,Responsabilidad Social Universitaria
+2148,2,1,98,1,0,21,1,Responsabilidad Social Universitaria
+2148,2,2,98,1,0,15,1,Responsabilidad Social Universitaria
+2148,2,3,98,1,0,9,1,Responsabilidad Social Universitaria
+2148,2,4,98,1,0,9,1,Responsabilidad Social Universitaria
+2148,2,5,98,1,0,26,1,Responsabilidad Social Universitaria
+2148,2,6,98,1,0,26,1,Responsabilidad Social Universitaria
+2148,2,7,98,1,0,17,1,Responsabilidad Social Universitaria
+2148,2,8,98,1,0,17,1,Responsabilidad Social Universitaria
+2148,3,2,98,1,0,16,1,Responsabilidad Social Universitaria
+2148,3,3,98,1,0,28,1,Responsabilidad Social Universitaria
+2148,3,4,98,1,0,28,1,Responsabilidad Social Universitaria
+2148,3,5,98,1,0,21,1,Responsabilidad Social Universitaria
+2148,3,6,98,1,0,21,1,Responsabilidad Social Universitaria
+2148,4,2,98,1,0,28,1,Responsabilidad Social Universitaria
+2148,4,3,98,1,0,29,1,Responsabilidad Social Universitaria
+2148,4,4,98,1,0,29,1,Responsabilidad Social Universitaria
+2148,4,5,98,1,0,17,1,Responsabilidad Social Universitaria
+2148,4,6,98,1,0,24,1,Responsabilidad Social Universitaria
+2148,4,7,98,1,0,9,1,Responsabilidad Social Universitaria
+2148,4,8,98,1,0,8,1,Responsabilidad Social Universitaria
+2148,5,1,98,1,0,24,1,Responsabilidad Social Universitaria
+2148,5,2,98,1,0,24,1,Responsabilidad Social Universitaria
+2148,5,3,98,1,0,8,1,Responsabilidad Social Universitaria
+2148,5,4,98,1,0,8,1,Responsabilidad Social Universitaria
+2148,5,5,98,1,0,15,1,Responsabilidad Social Universitaria
+2148,5,6,98,1,0,15,1,Responsabilidad Social Universitaria
+2148,5,7,98,1,0,22,1,Responsabilidad Social Universitaria
+2148,5,8,98,1,0,29,1,Responsabilidad Social Universitaria
+2157,1,1,100,1,0,2,1,Mi Expresión Física y Artistica
+2157,1,2,100,1,0,2,1,Mi Expresión Física y Artistica
+2157,1,3,100,1,0,16,1,Mi Expresión Física y Artistica
+2157,1,4,100,1,0,16,1,Mi Expresión Física y Artistica
+2157,2,3,100,1,0,8,1,Mi Expresión Física y Artistica
+2157,2,4,100,1,0,8,1,Mi Expresión Física y Artistica
+2157,2,7,100,1,0,19,1,Mi Expresión Física y Artistica
+2157,2,8,100,1,0,19,1,Mi Expresión Física y Artistica
+2157,3,7,100,1,0,23,1,Mi Expresión Física y Artistica
+2157,3,8,100,1,0,23,1,Mi Expresión Física y Artistica
+2157,5,3,100,1,0,9,1,Mi Expresión Física y Artistica
+2157,5,4,100,1,0,9,1,Mi Expresión Física y Artistica
+2170,1,1,151,1,0,5,1,Conformación histórica del mundo occidental
+2170,1,2,151,1,0,5,1,Conformación histórica del mundo occidental
+2170,1,3,151,1,0,20,1,Conformación histórica del mundo occidental
+2170,1,4,151,1,0,20,1,Conformación histórica del mundo occidental
+2170,1,7,151,1,0,15,1,Conformación histórica del mundo occidental
+2170,1,8,151,1,0,15,1,Conformación histórica del mundo occidental
+2170,2,3,151,1,0,4,1,Conformación histórica del mundo occidental
+2170,2,4,151,1,0,4,1,Conformación histórica del mundo occidental
+2170,2,5,151,1,0,1,1,Conformación histórica del mundo occidental
+2170,2,6,151,1,0,1,1,Conformación histórica del mundo occidental
+2170,2,7,151,1,0,10,1,Conformación histórica del mundo occidental
+2170,2,8,151,1,0,10,1,Conformación histórica del mundo occidental
+2170,3,1,151,1,0,3,1,Conformación histórica del mundo occidental
+2170,3,2,151,1,0,3,1,Conformación histórica del mundo occidental
+2170,3,3,151,1,0,12,1,Conformación histórica del mundo occidental
+2170,3,4,151,1,0,12,1,Conformación histórica del mundo occidental
+2170,3,5,151,1,0,15,1,Conformación histórica del mundo occidental
+2170,3,6,151,1,0,15,1,Conformación histórica del mundo occidental
+2170,4,1,151,1,0,12,1,Conformación histórica del mundo occidental
+2170,4,2,151,1,0,12,1,Conformación histórica del mundo occidental
+2170,4,3,151,1,0,3,1,Conformación histórica del mundo occidental
+2170,4,4,151,1,0,3,1,Conformación histórica del mundo occidental
+2170,4,5,151,1,0,5,1,Conformación histórica del mundo occidental
+2170,4,6,151,1,0,5,1,Conformación histórica del mundo occidental
+2170,4,7,151,1,0,4,1,Conformación histórica del mundo occidental
+2170,4,8,151,1,0,4,1,Conformación histórica del mundo occidental
+2170,5,3,151,1,0,20,1,Conformación histórica del mundo occidental
+2170,5,4,151,1,0,20,1,Conformación histórica del mundo occidental
+2170,5,5,151,1,0,1,1,Conformación histórica del mundo occidental
+2170,5,6,151,1,0,1,1,Conformación histórica del mundo occidental
+2170,5,7,151,1,0,10,1,Conformación histórica del mundo occidental
+2170,5,8,151,1,0,10,1,Conformación histórica del mundo occidental
+2173,1,9,160,2,0,3,3,Adjunto Los seres vivos y su diversidad
+2173,1,10,160,2,0,3,3,Adjunto Los seres vivos y su diversidad
+2173,1,11,160,2,0,20,3,Adjunto Los seres vivos y su diversidad
+2173,1,12,160,2,0,20,3,Adjunto Los seres vivos y su diversidad
+2173,1,13,160,2,0,9,3,Adjunto Los seres vivos y su diversidad
+2173,1,14,160,2,0,9,3,Adjunto Los seres vivos y su diversidad
+2173,1,15,160,2,0,2,3,Adjunto Los seres vivos y su diversidad
+2173,1,16,160,2,0,2,3,Adjunto Los seres vivos y su diversidad
+2173,2,3,96,1,0,24,1,Química en la Vida Cotidiana
+2173,2,4,96,1,0,24,1,Química en la Vida Cotidiana
+2173,2,5,96,1,0,23,1,Química en la Vida Cotidiana
+2173,2,6,96,1,0,23,1,Química en la Vida Cotidiana
+2173,2,9,160,2,0,16,3,Adjunto Los seres vivos y su diversidad
+2173,2,10,160,2,0,16,3,Adjunto Los seres vivos y su diversidad
+2173,2,11,160,2,0,13,3,Adjunto Los seres vivos y su diversidad
+2173,2,12,160,2,0,13,3,Adjunto Los seres vivos y su diversidad
+2173,2,13,160,2,0,7,3,Adjunto Los seres vivos y su diversidad
+2173,2,14,160,2,0,7,3,Adjunto Los seres vivos y su diversidad
+2173,2,15,160,2,0,18,3,Adjunto Los seres vivos y su diversidad
+2173,2,16,160,2,0,18,3,Adjunto Los seres vivos y su diversidad
+2173,3,9,160,2,0,17,3,Adjunto Los seres vivos y su diversidad
+2173,3,10,160,2,0,17,3,Adjunto Los seres vivos y su diversidad
+2173,3,11,160,2,0,15,3,Adjunto Los seres vivos y su diversidad
+2173,3,12,160,2,0,15,3,Adjunto Los seres vivos y su diversidad
+2173,3,13,160,2,0,5,3,Adjunto Los seres vivos y su diversidad
+2173,3,14,160,2,0,5,3,Adjunto Los seres vivos y su diversidad
+2173,3,15,160,2,0,10,3,Adjunto Los seres vivos y su diversidad
+2173,3,16,160,2,0,10,3,Adjunto Los seres vivos y su diversidad
+2173,4,3,96,1,0,23,1,Química en la Vida Cotidiana
+2173,4,5,96,1,0,24,1,Química en la Vida Cotidiana
+2173,4,7,103,1,0,26,1,Adjunto Química en la Vida Cotidiana
+2173,4,8,103,1,0,26,1,Adjunto Química en la Vida Cotidiana
+2173,4,9,160,2,0,4,3,Adjunto Los seres vivos y su diversidad
+2173,4,10,160,2,0,4,3,Adjunto Los seres vivos y su diversidad
+2173,4,11,160,2,0,11,3,Adjunto Los seres vivos y su diversidad
+2173,4,12,160,2,0,11,3,Adjunto Los seres vivos y su diversidad
+2173,4,13,160,2,0,12,3,Adjunto Los seres vivos y su diversidad
+2173,4,14,160,2,0,12,3,Adjunto Los seres vivos y su diversidad
+2173,5,3,96,1,0,23,1,Química en la Vida Cotidiana
+2173,5,4,96,1,0,23,1,Química en la Vida Cotidiana
+2173,5,5,96,1,0,24,1,Química en la Vida Cotidiana
+2173,5,6,96,1,0,24,1,Química en la Vida Cotidiana
+2176,1,1,96,1,0,15,1,Química en la Vida Cotidiana
+2176,1,2,96,1,0,15,1,Química en la Vida Cotidiana
+2176,1,3,96,1,0,21,1,Química en la Vida Cotidiana
+2176,1,4,96,1,0,21,1,Química en la Vida Cotidiana
+2176,1,5,103,1,0,3,1,Adjunto Química en la Vida Cotidiana
+2176,1,6,103,1,0,3,1,Adjunto Química en la Vida Cotidiana
+2176,1,7,103,1,0,10,1,Adjunto Química en la Vida Cotidiana
+2176,1,8,103,1,0,10,1,Adjunto Química en la Vida Cotidiana
+2176,2,1,96,1,0,13,1,Química en la Vida Cotidiana
+2176,2,2,96,1,0,13,1,Química en la Vida Cotidiana
+2176,2,3,96,1,0,22,1,Química en la Vida Cotidiana
+2176,2,4,96,1,0,22,1,Química en la Vida Cotidiana
+2176,2,5,96,1,0,14,1,Química en la Vida Cotidiana
+2176,2,6,96,1,0,14,1,Química en la Vida Cotidiana
+2176,3,1,96,1,0,21,1,Química en la Vida Cotidiana
+2176,3,2,96,1,0,21,1,Química en la Vida Cotidiana
+2176,3,3,103,1,0,6,1,Adjunto Química en la Vida Cotidiana
+2176,3,4,103,1,0,6,1,Adjunto Química en la Vida Cotidiana
+2176,3,5,96,1,0,22,1,Química en la Vida Cotidiana
+2176,3,6,96,1,0,22,1,Química en la Vida Cotidiana
+2176,3,7,96,1,0,13,1,Química en la Vida Cotidiana
+2176,3,8,96,1,0,15,1,Química en la Vida Cotidiana
+2176,4,1,96,1,0,22,1,Química en la Vida Cotidiana
+2176,4,2,96,1,0,21,1,Química en la Vida Cotidiana
+2176,4,3,96,1,0,14,1,Química en la Vida Cotidiana
+2176,4,7,96,1,0,15,1,Química en la Vida Cotidiana
+2176,4,8,96,1,0,15,1,Química en la Vida Cotidiana
+2176,5,1,103,1,0,16,1,Adjunto Química en la Vida Cotidiana
+2176,5,2,103,1,0,16,1,Adjunto Química en la Vida Cotidiana
+2176,5,3,96,1,0,14,1,Química en la Vida Cotidiana
+2176,5,4,96,1,0,14,1,Química en la Vida Cotidiana
+2176,5,5,103,1,0,8,1,Adjunto Química en la Vida Cotidiana
+2176,5,6,103,1,0,8,1,Adjunto Química en la Vida Cotidiana
+2176,5,7,96,1,0,13,1,Química en la Vida Cotidiana
+2176,5,8,96,1,0,13,1,Química en la Vida Cotidiana
+2203,1,9,164,3,0,18,5,Tutor de Tercero
+2203,1,10,164,3,0,18,5,Tutor de Tercero
+2203,1,13,157,2,0,25,3,Relaciones humanas efectivas
+2203,1,13,163,2,0,25,3,Tutor de Segundo
+2203,1,14,157,2,0,25,3,Relaciones humanas efectivas
+2203,1,14,163,2,0,25,3,Tutor de Segundo
+2203,2,11,163,2,0,11,3,Tutor de Segundo
+2203,2,12,163,2,0,11,3,Tutor de Segundo
+2203,2,13,163,2,0,17,3,Tutor de Segundo
+2203,2,14,163,2,0,17,3,Tutor de Segundo
+2203,3,11,164,3,0,15,5,Tutor de Tercero
+2203,3,12,164,3,0,15,5,Tutor de Tercero
+2203,3,13,163,2,0,2,3,Tutor de Segundo
+2203,3,14,163,2,0,2,3,Tutor de Segundo
+2203,3,15,164,3,0,19,5,Tutor de Tercero
+2203,3,16,164,3,0,19,5,Tutor de Tercero
+2203,4,9,164,3,0,20,5,Tutor de Tercero
+2203,4,10,164,3,0,20,5,Tutor de Tercero
+2203,4,11,163,2,0,29,3,Tutor de Segundo
+2203,4,12,163,2,0,29,3,Tutor de Segundo
+2203,4,13,163,2,0,21,3,Tutor de Segundo
+2203,4,14,163,2,0,21,3,Tutor de Segundo
+2203,5,11,163,2,0,22,3,Tutor de Segundo
+2203,5,12,163,2,0,22,3,Tutor de Segundo
+2203,5,13,163,2,0,6,3,Tutor de Segundo
+2203,5,14,163,2,0,6,3,Tutor de Segundo
+2204,1,11,57,3,87,18,5,Química 3
+2204,1,12,57,3,87,18,5,Química 3
+2204,1,13,57,3,87,16,5,Química 3
+2204,1,14,57,3,87,16,5,Química 3
+2204,2,9,57,3,87,22,5,Química 3
+2204,2,10,57,3,87,22,5,Química 3
+2204,2,15,57,3,87,19,5,Química 3
+2204,2,16,57,3,87,19,5,Química 3
+2204,3,9,57,3,87,22,5,Química 3
+2204,3,10,57,3,87,22,5,Química 3
+2204,3,11,57,3,87,17,5,Química 3
+2204,3,12,57,3,87,17,5,Química 3
+2204,3,13,57,3,87,18,5,Química 3
+2204,3,14,57,3,87,18,5,Química 3
+2204,3,15,57,3,87,14,5,Química 3
+2204,3,16,57,3,87,14,5,Química 3
+2204,4,15,57,3,87,17,5,Química 3
+2204,4,16,57,3,87,17,5,Química 3
+2204,5,11,57,3,87,19,5,Química 3
+2204,5,12,57,3,87,19,5,Química 3
+2204,5,13,57,3,87,16,5,Química 3
+2204,5,14,57,3,87,16,5,Química 3
+2204,5,15,57,3,87,14,5,Química 3
+2204,5,16,57,3,87,14,5,Química 3
+2242,1,9,40,3,0,15,5,Lengua Extranjera 5 (Inglés)
+2242,1,10,40,3,0,15,5,Lengua Extranjera 5 (Inglés)
+2242,1,11,40,3,0,16,5,Lengua Extranjera 5 (Inglés)
+2242,1,12,40,3,0,16,5,Lengua Extranjera 5 (Inglés)
+2242,1,13,40,3,0,19,5,Lengua Extranjera 5 (Inglés)
+2242,1,14,40,3,0,19,5,Lengua Extranjera 5 (Inglés)
+2242,1,15,152,2,0,27,3,Beginner III
+2242,1,16,152,2,0,27,3,Beginner III
+2242,2,11,40,3,0,15,5,Lengua Extranjera 5 (Inglés)
+2242,2,12,40,3,0,15,5,Lengua Extranjera 5 (Inglés)
+2242,2,15,152,2,0,26,3,Beginner III
+2242,2,16,152,2,0,26,3,Beginner III
+2242,3,9,152,2,0,28,3,Beginner III
+2242,3,10,152,2,0,28,3,Beginner III
+2242,3,11,40,3,0,20,5,Lengua Extranjera 5 (Inglés)
+2242,3,12,40,3,0,20,5,Lengua Extranjera 5 (Inglés)
+2242,4,9,40,3,0,18,5,Lengua Extranjera 5 (Inglés)
+2242,4,10,40,3,0,18,5,Lengua Extranjera 5 (Inglés)
+2242,4,11,40,3,0,16,5,Lengua Extranjera 5 (Inglés)
+2242,4,12,40,3,0,16,5,Lengua Extranjera 5 (Inglés)
+2242,4,13,152,2,0,28,3,Beginner III
+2242,4,14,152,2,0,28,3,Beginner III
+2242,4,15,40,3,0,20,5,Lengua Extranjera 5 (Inglés)
+2242,4,16,40,3,0,20,5,Lengua Extranjera 5 (Inglés)
+2242,5,9,152,2,0,26,3,Beginner III
+2242,5,10,152,2,0,26,3,Beginner III
+2242,5,11,152,2,0,27,3,Beginner III
+2242,5,12,152,2,0,27,3,Beginner III
+2242,5,13,40,3,0,18,5,Lengua Extranjera 5 (Inglés)
+2242,5,14,40,3,0,18,5,Lengua Extranjera 5 (Inglés)
+2242,5,15,40,3,0,19,5,Lengua Extranjera 5 (Inglés)
+2242,5,16,40,3,0,19,5,Lengua Extranjera 5 (Inglés)
+2364,1,9,122,2,0,25,3,Psicología del desarrollo humano
+2364,1,10,122,2,0,25,3,Psicología del desarrollo humano
+2364,3,9,122,2,0,25,3,Psicología del desarrollo humano
+2364,3,10,122,2,0,25,3,Psicología del desarrollo humano
+2406,1,13,154,2,0,19,3,La representación matemática y sus aplicaciones
+2406,1,14,154,2,0,17,3,La representación matemática y sus aplicaciones
+2406,1,15,154,2,0,15,3,La representación matemática y sus aplicaciones
+2406,1,16,154,2,0,15,3,La representación matemática y sus aplicaciones
+2406,2,13,154,2,0,15,3,La representación matemática y sus aplicaciones
+2406,2,14,154,2,0,15,3,La representación matemática y sus aplicaciones
+2406,2,15,154,2,0,17,3,La representación matemática y sus aplicaciones
+2406,2,16,154,2,0,17,3,La representación matemática y sus aplicaciones
+2406,3,15,154,2,0,19,3,La representación matemática y sus aplicaciones
+2406,3,16,154,2,0,19,3,La representación matemática y sus aplicaciones
+2406,4,9,154,2,0,19,3,La representación matemática y sus aplicaciones
+2406,4,10,154,2,0,19,3,La representación matemática y sus aplicaciones
+2406,4,12,154,2,0,15,3,La representación matemática y sus aplicaciones
+2406,4,13,154,2,0,17,3,La representación matemática y sus aplicaciones
+2406,4,14,154,2,0,17,3,La representación matemática y sus aplicaciones
+2473,1,9,158,2,0,19,3,Diagnóstico comunitario participativo
+2473,1,10,158,2,0,19,3,Diagnóstico comunitario participativo
+2473,1,11,158,2,0,13,3,Diagnóstico comunitario participativo
+2473,1,12,158,2,0,13,3,Diagnóstico comunitario participativo
+2473,1,13,158,2,0,11,3,Diagnóstico comunitario participativo
+2473,1,14,158,2,0,11,3,Diagnóstico comunitario participativo
+2473,1,15,158,2,0,1,3,Diagnóstico comunitario participativo
+2473,1,16,158,2,0,1,3,Diagnóstico comunitario participativo
+2473,2,9,158,2,0,18,3,Diagnóstico comunitario participativo
+2473,2,10,158,2,0,18,3,Diagnóstico comunitario participativo
+2473,2,11,158,2,0,15,3,Diagnóstico comunitario participativo
+2473,2,12,158,2,0,15,3,Diagnóstico comunitario participativo
+2473,3,11,158,2,0,1,3,Diagnóstico comunitario participativo
+2473,3,12,158,2,0,1,3,Diagnóstico comunitario participativo
+2473,3,13,158,2,0,11,3,Diagnóstico comunitario participativo
+2473,3,14,158,2,0,11,3,Diagnóstico comunitario participativo
+2473,3,15,158,2,0,6,3,Diagnóstico comunitario participativo
+2473,3,16,158,2,0,6,3,Diagnóstico comunitario participativo
+2473,4,9,158,2,0,6,3,Diagnóstico comunitario participativo
+2473,4,10,158,2,0,6,3,Diagnóstico comunitario participativo
+2473,4,11,158,2,0,19,3,Diagnóstico comunitario participativo
+2473,4,12,158,2,0,19,3,Diagnóstico comunitario participativo
+2473,4,13,158,2,0,2,3,Diagnóstico comunitario participativo
+2473,4,14,158,2,0,2,3,Diagnóstico comunitario participativo
+2473,4,15,158,2,0,13,3,Diagnóstico comunitario participativo
+2473,4,16,158,2,0,13,3,Diagnóstico comunitario participativo
+2473,5,9,158,2,0,18,3,Diagnóstico comunitario participativo
+2473,5,10,158,2,0,18,3,Diagnóstico comunitario participativo
+2473,5,11,158,2,0,15,3,Diagnóstico comunitario participativo
+2473,5,12,158,2,0,15,3,Diagnóstico comunitario participativo
+2473,5,13,158,2,0,2,3,Diagnóstico comunitario participativo
+2473,5,14,158,2,0,2,3,Diagnóstico comunitario participativo
+2482,1,1,92,1,0,18,1,Etimologías I
+2482,1,2,92,1,0,18,1,Etimologías I
+2482,1,5,92,1,0,25,1,Etimologías I
+2482,1,6,92,1,0,25,1,Etimologías I
+2482,2,1,92,1,0,22,1,Etimologías I
+2482,2,2,92,1,0,22,1,Etimologías I
+2482,2,3,92,1,0,15,1,Etimologías I
+2482,2,4,92,1,0,15,1,Etimologías I
+2482,3,1,92,1,0,18,1,Etimologías I
+2482,3,2,92,1,0,18,1,Etimologías I
+2482,3,3,92,1,0,19,1,Etimologías I
+2482,3,4,92,1,0,19,1,Etimologías I
+2482,3,5,92,1,0,26,1,Etimologías I
+2482,3,6,92,1,0,26,1,Etimologías I
+2482,4,1,92,1,0,25,1,Etimologías I
+2482,4,2,92,1,0,25,1,Etimologías I
+2482,4,3,92,1,0,15,1,Etimologías I
+2482,4,4,92,1,0,15,1,Etimologías I
+2482,4,5,92,1,0,22,1,Etimologías I
+2482,4,6,92,1,0,22,1,Etimologías I
+2482,5,1,92,1,0,26,1,Etimologías I
+2482,5,2,92,1,0,26,1,Etimologías I
+2482,5,5,92,1,0,19,1,Etimologías I
+2482,5,6,92,1,0,19,1,Etimologías I
+2550,1,9,37,3,0,16,5,Matemáticas 5
+2550,1,10,37,3,0,16,5,Matemáticas 5
+2550,1,11,37,3,0,20,5,Matemáticas 5
+2550,1,12,37,3,0,20,5,Matemáticas 5
+2550,1,13,37,3,0,15,5,Matemáticas 5
+2550,1,14,37,3,0,15,5,Matemáticas 5
+2550,1,15,37,3,0,10,5,Matemáticas 5
+2550,1,16,37,3,0,10,5,Matemáticas 5
+2550,2,9,37,3,0,16,5,Matemáticas 5
+2550,2,10,37,3,0,16,5,Matemáticas 5
+2550,2,11,37,3,0,20,5,Matemáticas 5
+2550,2,12,37,3,0,20,5,Matemáticas 5
+2550,2,15,37,3,0,17,5,Matemáticas 5
+2550,2,16,37,3,0,17,5,Matemáticas 5
+2550,3,9,37,3,0,17,5,Matemáticas 5
+2550,3,10,37,3,0,17,5,Matemáticas 5
+2550,3,11,37,3,0,16,5,Matemáticas 5
+2550,3,12,37,3,0,16,5,Matemáticas 5
+2550,3,13,37,3,0,15,5,Matemáticas 5
+2550,3,14,37,3,0,15,5,Matemáticas 5
+2550,3,15,37,3,0,18,5,Matemáticas 5
+2550,3,16,37,3,0,18,5,Matemáticas 5
+2550,4,9,37,3,0,15,5,Matemáticas 5
+2550,4,10,37,3,0,15,5,Matemáticas 5
+2550,4,11,37,3,0,10,5,Matemáticas 5
+2550,4,12,37,3,0,10,5,Matemáticas 5
+2550,4,13,37,3,0,18,5,Matemáticas 5
+2550,4,14,37,3,0,18,5,Matemáticas 5
+2550,5,9,37,3,0,17,5,Matemáticas 5
+2550,5,10,37,3,0,17,5,Matemáticas 5
+2550,5,11,37,3,0,20,5,Matemáticas 5
+2550,5,12,37,3,0,20,5,Matemáticas 5
+2550,5,13,37,3,0,10,5,Matemáticas 5
+2550,5,14,37,3,0,10,5,Matemáticas 5
+2550,5,15,37,3,0,18,5,Matemáticas 5
+2550,5,16,37,3,0,18,5,Matemáticas 5
+2575,1,1,96,1,0,10,1,Química en la Vida Cotidiana
+2575,1,1,103,1,0,12,1,Adjunto Química en la Vida Cotidiana
+2575,1,1,103,1,0,15,1,Adjunto Química en la Vida Cotidiana
+2575,1,2,103,1,0,12,1,Adjunto Química en la Vida Cotidiana
+2575,1,2,103,1,0,15,1,Adjunto Química en la Vida Cotidiana
+2575,1,3,96,1,0,19,1,Química en la Vida Cotidiana
+2575,1,4,96,1,0,19,1,Química en la Vida Cotidiana
+2575,1,5,96,1,0,3,1,Química en la Vida Cotidiana
+2575,1,6,96,1,0,3,1,Química en la Vida Cotidiana
+2575,1,7,96,1,0,10,1,Química en la Vida Cotidiana
+2575,1,8,96,1,0,10,1,Química en la Vida Cotidiana
+2575,2,4,96,1,0,3,1,Química en la Vida Cotidiana
+2575,2,5,96,1,0,10,1,Química en la Vida Cotidiana
+2575,2,6,96,1,0,10,1,Química en la Vida Cotidiana
+2575,2,7,96,1,0,2,1,Química en la Vida Cotidiana
+2575,2,8,96,1,0,2,1,Química en la Vida Cotidiana
+2575,3,1,96,1,0,4,1,Química en la Vida Cotidiana
+2575,3,2,96,1,0,19,1,Química en la Vida Cotidiana
+2575,3,3,96,1,0,10,1,Química en la Vida Cotidiana
+2575,3,5,103,1,0,7,1,Adjunto Química en la Vida Cotidiana
+2575,3,6,103,1,0,7,1,Adjunto Química en la Vida Cotidiana
+2575,3,7,96,1,0,4,1,Química en la Vida Cotidiana
+2575,3,8,96,1,0,4,1,Química en la Vida Cotidiana
+2575,4,2,96,1,0,2,1,Química en la Vida Cotidiana
+2575,4,3,103,1,0,27,1,Adjunto Química en la Vida Cotidiana
+2575,4,4,103,1,0,27,1,Adjunto Química en la Vida Cotidiana
+2575,4,5,96,1,0,4,1,Química en la Vida Cotidiana
+2575,4,6,96,1,0,4,1,Química en la Vida Cotidiana
+2575,4,7,103,1,0,15,1,Adjunto Química en la Vida Cotidiana
+2575,4,8,103,1,0,15,1,Adjunto Química en la Vida Cotidiana
+2575,5,1,103,1,0,29,1,Adjunto Química en la Vida Cotidiana
+2575,5,2,103,1,0,29,1,Adjunto Química en la Vida Cotidiana
+2575,5,3,96,1,0,2,1,Química en la Vida Cotidiana
+2575,5,4,96,1,0,2,1,Química en la Vida Cotidiana
+2575,5,5,96,1,0,3,1,Química en la Vida Cotidiana
+2575,5,6,96,1,0,3,1,Química en la Vida Cotidiana
+2575,5,7,96,1,0,19,1,Química en la Vida Cotidiana
+2575,5,8,96,1,0,19,1,Química en la Vida Cotidiana
+2643,1,13,39,3,0,17,5,Derecho 1
+2643,1,14,39,3,0,17,5,Derecho 1
+2643,1,15,39,3,0,16,5,Derecho 1
+2643,1,16,39,3,0,16,5,Derecho 1
+2643,2,13,39,3,0,19,5,Derecho 1
+2643,2,14,39,3,0,19,5,Derecho 1
+2643,2,15,39,3,0,18,5,Derecho 1
+2643,2,16,39,3,0,18,5,Derecho 1
+2643,3,13,39,3,0,19,5,Derecho 1
+2643,3,14,39,3,0,19,5,Derecho 1
+2643,3,15,39,3,0,16,5,Derecho 1
+2643,3,16,39,3,0,16,5,Derecho 1
+2643,4,13,39,3,0,17,5,Derecho 1
+2643,4,14,39,3,0,17,5,Derecho 1
+2643,4,15,39,3,0,18,5,Derecho 1
+2643,4,16,39,3,0,18,5,Derecho 1
+2780,1,10,154,2,0,10,3,La representación matemática y sus aplicaciones
+2780,1,12,154,2,0,12,3,La representación matemática y sus aplicaciones
+2780,1,13,154,2,0,4,3,La representación matemática y sus aplicaciones
+2780,1,14,154,2,0,4,3,La representación matemática y sus aplicaciones
+2780,2,1,50,3,0,3,5,Temas de Álgebra
+2780,2,2,50,3,0,3,5,Temas de Álgebra
+2780,2,3,50,3,0,2,5,Temas de Álgebra
+2780,2,4,50,3,0,2,5,Temas de Álgebra
+2780,2,10,154,2,0,20,3,La representación matemática y sus aplicaciones
+2780,2,13,154,2,0,10,3,La representación matemática y sus aplicaciones
+2780,2,14,154,2,0,10,3,La representación matemática y sus aplicaciones
+2780,3,3,50,3,0,1,5,Temas de Álgebra
+2780,3,4,50,3,0,1,5,Temas de Álgebra
+2780,3,9,154,2,0,12,3,La representación matemática y sus aplicaciones
+2780,3,10,154,2,0,12,3,La representación matemática y sus aplicaciones
+2780,3,11,154,2,0,4,3,La representación matemática y sus aplicaciones
+2780,3,12,154,2,0,4,3,La representación matemática y sus aplicaciones
+2780,4,1,50,3,0,3,5,Temas de Álgebra
+2780,4,2,50,3,0,3,5,Temas de Álgebra
+2780,4,3,50,3,0,2,5,Temas de Álgebra
+2780,4,4,50,3,0,2,5,Temas de Álgebra
+2780,4,5,50,3,0,1,5,Temas de Álgebra
+2780,4,6,50,3,0,1,5,Temas de Álgebra
+2780,4,9,154,2,0,12,3,La representación matemática y sus aplicaciones
+2780,4,10,154,2,0,12,3,La representación matemática y sus aplicaciones
+2780,4,11,154,2,0,4,3,La representación matemática y sus aplicaciones
+2780,4,13,154,2,0,20,3,La representación matemática y sus aplicaciones
+2780,4,14,154,2,0,20,3,La representación matemática y sus aplicaciones
+2780,5,1,50,3,0,3,5,Temas de Álgebra
+2780,5,2,50,3,0,3,5,Temas de Álgebra
+2780,5,3,50,3,0,1,5,Temas de Álgebra
+2780,5,4,50,3,0,1,5,Temas de Álgebra
+2780,5,5,50,3,0,2,5,Temas de Álgebra
+2780,5,6,50,3,0,2,5,Temas de Álgebra
+2780,5,9,154,2,0,10,3,La representación matemática y sus aplicaciones
+2780,5,10,154,2,0,10,3,La representación matemática y sus aplicaciones
+2780,5,11,154,2,0,20,3,La representación matemática y sus aplicaciones
+2780,5,12,154,2,0,20,3,La representación matemática y sus aplicaciones
+2782,1,9,155,2,0,17,3,Administración contemporánea y liderazgo emprendedor
+2782,1,10,155,2,0,17,3,Administración contemporánea y liderazgo emprendedor
+2782,1,11,69,3,0,12,5,Fundamentos de Administración
+2782,1,12,69,3,0,12,5,Fundamentos de Administración
+2782,1,13,155,2,0,18,3,Administración contemporánea y liderazgo emprendedor
+2782,1,14,155,2,0,18,3,Administración contemporánea y liderazgo emprendedor
+2782,1,15,69,3,0,11,5,Fundamentos de Administración
+2782,1,16,69,3,0,11,5,Fundamentos de Administración
+2782,2,1,69,3,0,8,5,Fundamentos de Administración
+2782,2,2,69,3,0,8,5,Fundamentos de Administración
+2782,2,3,69,3,0,5,5,Fundamentos de Administración
+2782,2,4,69,3,0,5,5,Fundamentos de Administración
+2782,2,5,69,3,0,6,5,Fundamentos de Administración
+2782,2,6,69,3,0,6,5,Fundamentos de Administración
+2782,2,7,69,3,0,7,5,Fundamentos de Administración
+2782,2,8,69,3,0,7,5,Fundamentos de Administración
+2782,3,5,69,3,0,6,5,Fundamentos de Administración
+2782,3,6,69,3,0,6,5,Fundamentos de Administración
+2782,3,7,69,3,0,5,5,Fundamentos de Administración
+2782,3,8,69,3,0,5,5,Fundamentos de Administración
+2782,4,1,69,3,0,8,5,Fundamentos de Administración
+2782,4,2,69,3,0,8,5,Fundamentos de Administración
+2782,4,3,69,3,0,7,5,Fundamentos de Administración
+2782,4,4,69,3,0,7,5,Fundamentos de Administración
+2782,4,13,69,3,0,11,5,Fundamentos de Administración
+2782,4,14,69,3,0,11,5,Fundamentos de Administración
+2782,5,11,155,2,0,18,3,Administración contemporánea y liderazgo emprendedor
+2782,5,12,155,2,0,18,3,Administración contemporánea y liderazgo emprendedor
+2782,5,13,69,3,0,12,5,Fundamentos de Administración
+2782,5,14,69,3,0,12,5,Fundamentos de Administración
+2782,5,15,155,2,0,17,3,Administración contemporánea y liderazgo emprendedor
+2782,5,16,155,2,0,17,3,Administración contemporánea y liderazgo emprendedor
+2796,1,1,96,1,0,6,1,Química en la Vida Cotidiana
+2796,1,2,96,1,0,6,1,Química en la Vida Cotidiana
+2796,1,3,103,1,0,1,1,Adjunto Química en la Vida Cotidiana
+2796,1,4,103,1,0,1,1,Adjunto Química en la Vida Cotidiana
+2796,1,7,96,1,0,9,1,Química en la Vida Cotidiana
+2796,1,8,96,1,0,8,1,Química en la Vida Cotidiana
+2796,2,1,103,1,0,11,1,Adjunto Química en la Vida Cotidiana
+2796,2,2,103,1,0,11,1,Adjunto Química en la Vida Cotidiana
+2796,2,3,103,1,0,22,1,Adjunto Química en la Vida Cotidiana
+2796,2,4,103,1,0,22,1,Adjunto Química en la Vida Cotidiana
+2796,2,5,96,1,0,16,1,Química en la Vida Cotidiana
+2796,2,6,96,1,0,16,1,Química en la Vida Cotidiana
+2796,2,7,103,1,0,2,1,Adjunto Química en la Vida Cotidiana
+2796,2,8,103,1,0,2,1,Adjunto Química en la Vida Cotidiana
+2796,3,1,96,1,0,8,1,Química en la Vida Cotidiana
+2796,3,2,96,1,0,8,1,Química en la Vida Cotidiana
+2796,3,3,96,1,0,6,1,Química en la Vida Cotidiana
+2796,3,4,96,1,0,6,1,Química en la Vida Cotidiana
+2796,3,5,96,1,0,7,1,Química en la Vida Cotidiana
+2796,3,6,96,1,0,7,1,Química en la Vida Cotidiana
+2796,3,7,103,1,0,4,1,Adjunto Química en la Vida Cotidiana
+2796,3,8,103,1,0,4,1,Adjunto Química en la Vida Cotidiana
+2796,4,1,96,1,0,6,1,Química en la Vida Cotidiana
+2796,4,3,96,1,0,9,1,Química en la Vida Cotidiana
+2796,4,4,96,1,0,9,1,Química en la Vida Cotidiana
+2796,4,7,96,1,0,7,1,Química en la Vida Cotidiana
+2796,4,8,96,1,0,16,1,Química en la Vida Cotidiana
+2796,5,1,96,1,0,16,1,Química en la Vida Cotidiana
+2796,5,2,96,1,0,16,1,Química en la Vida Cotidiana
+2796,5,3,96,1,0,7,1,Química en la Vida Cotidiana
+2796,5,4,96,1,0,7,1,Química en la Vida Cotidiana
+2796,5,5,96,1,0,8,1,Química en la Vida Cotidiana
+2796,5,6,96,1,0,8,1,Química en la Vida Cotidiana
+2796,5,7,96,1,0,9,1,Química en la Vida Cotidiana
+2796,5,8,96,1,0,9,1,Química en la Vida Cotidiana
+2797,1,11,38,3,0,13,5,Análisis Literario 3
+2797,1,12,38,3,0,13,5,Análisis Literario 3
+2797,1,13,38,3,0,20,5,Análisis Literario 3
+2797,1,14,38,3,0,20,5,Análisis Literario 3
+2797,1,15,38,3,0,22,5,Análisis Literario 3
+2797,1,16,38,3,0,22,5,Análisis Literario 3
+2797,2,9,38,3,0,18,5,Análisis Literario 3
+2797,2,10,38,3,0,18,5,Análisis Literario 3
+2797,2,11,38,3,0,14,5,Análisis Literario 3
+2797,2,12,38,3,0,14,5,Análisis Literario 3
+2797,2,15,38,3,0,13,5,Análisis Literario 3
+2797,2,16,38,3,0,13,5,Análisis Literario 3
+2797,3,9,38,3,0,14,5,Análisis Literario 3
+2797,3,10,38,3,0,14,5,Análisis Literario 3
+2797,3,13,38,3,0,10,5,Análisis Literario 3
+2797,3,14,38,3,0,10,5,Análisis Literario 3
+2797,3,15,38,3,0,15,5,Análisis Literario 3
+2797,3,16,38,3,0,15,5,Análisis Literario 3
+2797,4,9,38,3,0,11,5,Análisis Literario 3
+2797,4,10,38,3,0,11,5,Análisis Literario 3
+2797,4,11,38,3,0,20,5,Análisis Literario 3
+2797,4,12,38,3,0,20,5,Análisis Literario 3
+2797,4,13,38,3,0,22,5,Análisis Literario 3
+2797,4,14,38,3,0,22,5,Análisis Literario 3
+2797,4,15,38,3,0,15,5,Análisis Literario 3
+2797,4,16,38,3,0,15,5,Análisis Literario 3
+2797,5,11,38,3,0,18,5,Análisis Literario 3
+2797,5,12,38,3,0,18,5,Análisis Literario 3
+2797,5,13,38,3,0,11,5,Análisis Literario 3
+2797,5,14,38,3,0,11,5,Análisis Literario 3
+2797,5,15,38,3,0,10,5,Análisis Literario 3
+2797,5,16,38,3,0,10,5,Análisis Literario 3
+2888,1,7,52,3,0,2,5,Cálculo 1
+2888,1,8,52,3,0,2,5,Cálculo 1
+2888,1,9,154,2,0,6,3,La representación matemática y sus aplicaciones
+2888,1,10,154,2,0,6,3,La representación matemática y sus aplicaciones
+2888,1,11,154,2,0,2,3,La representación matemática y sus aplicaciones
+2888,1,12,154,2,0,2,3,La representación matemática y sus aplicaciones
+2888,1,13,154,2,0,1,3,La representación matemática y sus aplicaciones
+

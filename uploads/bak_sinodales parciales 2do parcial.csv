@@ -1,0 +1,445 @@
+ClaveEmpleado,Profesor,Asignatura,Aula,Dia,Fecha,HoraInicial,HoraFinal
+6323,COB MAY WENDY ARACELLY,Trigonometría y Geometría Analítica,1,1,08/05/2017,07:00 a. m.,08:30 a. m.
+8466,TORRES SÁNCHEZ MANUEL ABDIEL,Trigonometría y Geometría Analítica,2,1,08/05/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Trigonometría y Geometría Analítica,3,1,08/05/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Trigonometría y Geometría Analítica,4,1,08/05/2017,07:00 a. m.,08:30 a. m.
+9977,ZAPATA GUEMEZ CLAUDIA ANGELICA,Trigonometría y Geometría Analítica,12,1,08/05/2017,07:00 a. m.,08:30 a. m.
+6827,KOYOC NOH ÁNGEL FRANCISCO,Trigonometría y Geometría Analítica,21,1,08/05/2017,07:00 a. m.,08:30 a. m.
+4178,MENESES PECH EDUARDO,Temas de Álgebra,8,1,08/05/2017,02:00 p. m.,03:30 p. m.
+3938,CHIM QUINTAL SILVIA PATRICIA,Física 4,10,1,08/05/2017,02:00 p. m.,03:30 p. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Temas de Álgebra,14,1,08/05/2017,02:00 p. m.,03:30 p. m.
+6220,CAB CASANOVA ADDY NOEMI,Temas de Álgebra,15,1,08/05/2017,02:00 p. m.,03:30 p. m.
+4196,RÍO CASTELLÓN RÍGEL,Lengua Maya,16,1,08/05/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,Lengua Maya,17,1,08/05/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",1,2,09/05/2017,07:00 a. m.,08:30 a. m.
+9107,OJEDA ROSADO ALVA PAMELA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",2,2,09/05/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",3,2,09/05/2017,07:00 a. m.,08:30 a. m.
+8667,CARRILLO KUMUL RAFAEL ANTONIO DE JESUS,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",4,2,09/05/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",5,2,09/05/2017,07:00 a. m.,08:30 a. m.
+4603,DURÁN ESTRELLA GENNY CECILIA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",6,2,09/05/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",7,2,09/05/2017,07:00 a. m.,08:30 a. m.
+2782,DIP LEÓN SANDRA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",8,2,09/05/2017,07:00 a. m.,08:30 a. m.
+6323,COB MAY WENDY ARACELLY,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",9,2,09/05/2017,07:00 a. m.,08:30 a. m.
+1737,PINZÓN BALAM JOSÉ MANUEL,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",10,2,09/05/2017,07:00 a. m.,08:30 a. m.
+1775,UC BRICEÑO OSCAR DANIEL,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",11,2,09/05/2017,07:00 a. m.,08:30 a. m.
+6220,CAB CASANOVA ADDY NOEMI,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",12,2,09/05/2017,07:00 a. m.,08:30 a. m.
+4178,MENESES PECH EDUARDO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",13,2,09/05/2017,07:00 a. m.,08:30 a. m.
+2797,PENICHE SOUZA JORGE ALBERTO DE JESÚS,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",14,2,09/05/2017,07:00 a. m.,08:30 a. m.
+9255,TRINCHAN TORAYA NAZARENA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",15,2,09/05/2017,07:00 a. m.,08:30 a. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",16,2,09/05/2017,07:00 a. m.,08:30 a. m.
+3628,CENTURIÓN PENICHE MIGUEL HEBERT,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",17,2,09/05/2017,07:00 a. m.,08:30 a. m.
+9978,PÉREZ MÉNDEZ JENIFER,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",18,2,09/05/2017,07:00 a. m.,08:30 a. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",19,2,09/05/2017,07:00 a. m.,08:30 a. m.
+430,ANCONA ANCONA FLOR DE ACACIA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",20,2,09/05/2017,07:00 a. m.,08:30 a. m.
+9244,MIJANGOS PINTO SERGIO ENRIQUE,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",21,2,09/05/2017,07:00 a. m.,08:30 a. m.
+9236,CHAN MAY GENER ANTONIO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",22,2,09/05/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",1,2,09/05/2017,02:00 p. m.,03:30 p. m.
+9107,OJEDA ROSADO ALVA PAMELA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",2,2,09/05/2017,02:00 p. m.,03:30 p. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",3,2,09/05/2017,02:00 p. m.,03:30 p. m.
+8667,CARRILLO KUMUL RAFAEL ANTONIO DE JESUS,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",4,2,09/05/2017,02:00 p. m.,03:30 p. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",5,2,09/05/2017,02:00 p. m.,03:30 p. m.
+4603,DURÁN ESTRELLA GENNY CECILIA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",6,2,09/05/2017,02:00 p. m.,03:30 p. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",7,2,09/05/2017,02:00 p. m.,03:30 p. m.
+2782,DIP LEÓN SANDRA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",8,2,09/05/2017,02:00 p. m.,03:30 p. m.
+6323,COB MAY WENDY ARACELLY,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",9,2,09/05/2017,02:00 p. m.,03:30 p. m.
+1737,PINZÓN BALAM JOSÉ MANUEL,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",10,2,09/05/2017,02:00 p. m.,03:30 p. m.
+1775,UC BRICEÑO OSCAR DANIEL,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",11,2,09/05/2017,02:00 p. m.,03:30 p. m.
+6220,CAB CASANOVA ADDY NOEMI,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",12,2,09/05/2017,02:00 p. m.,03:30 p. m.
+4178,MENESES PECH EDUARDO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",13,2,09/05/2017,02:00 p. m.,03:30 p. m.
+2797,PENICHE SOUZA JORGE ALBERTO DE JESÚS,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",14,2,09/05/2017,02:00 p. m.,03:30 p. m.
+9255,TRINCHAN TORAYA NAZARENA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",15,2,09/05/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",16,2,09/05/2017,02:00 p. m.,03:30 p. m.
+3628,CENTURIÓN PENICHE MIGUEL HEBERT,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",17,2,09/05/2017,02:00 p. m.,03:30 p. m.
+9978,PÉREZ MÉNDEZ JENIFER,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",18,2,09/05/2017,02:00 p. m.,03:30 p. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",19,2,09/05/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",20,2,09/05/2017,02:00 p. m.,03:30 p. m.
+9244,MIJANGOS PINTO SERGIO ENRIQUE,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",21,2,09/05/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",22,2,09/05/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Física 3,1,4,11/05/2017,07:00 a. m.,08:30 a. m.
+6323,COB MAY WENDY ARACELLY,Física 3,2,4,11/05/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Física 3,3,4,11/05/2017,07:00 a. m.,08:30 a. m.
+8466,TORRES SÁNCHEZ MANUEL ABDIEL,Física 3,4,4,11/05/2017,07:00 a. m.,08:30 a. m.
+4603,DURÁN ESTRELLA GENNY CECILIA,Física 3,10,4,11/05/2017,07:00 a. m.,08:30 a. m.
+4196,RÍO CASTELLÓN RÍGEL,Física 3,21,4,11/05/2017,07:00 a. m.,08:30 a. m.
+9107,OJEDA ROSADO ALVA PAMELA,Psicología Social,5,4,11/05/2017,02:00 p. m.,03:30 p. m.
+6220,CAB CASANOVA ADDY NOEMI,Psicología Social,6,4,11/05/2017,02:00 p. m.,03:30 p. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Psicología Social,7,4,11/05/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Psicología Social,8,4,11/05/2017,02:00 p. m.,03:30 p. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Psicología Social,9,4,11/05/2017,02:00 p. m.,03:30 p. m.
+9978,PÉREZ MÉNDEZ JENIFER,Psicología Social,18,4,11/05/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Psicología Social,19,4,11/05/2017,02:00 p. m.,03:30 p. m.
+2203,ESPADAS SOLIS JORGE ORLANDO,Psicología Social,20,4,11/05/2017,02:00 p. m.,03:30 p. m.
+4258,NÁHUAT HERRERA KARLA,Psicología Social,22,4,11/05/2017,02:00 p. m.,03:30 p. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Antropología,3,5,12/05/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Antropología,4,5,12/05/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Antropología,6,5,12/05/2017,07:00 a. m.,08:30 a. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Antropología,7,5,12/05/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Antropología,8,5,12/05/2017,07:00 a. m.,08:30 a. m.
+9977,ZAPATA GUEMEZ CLAUDIA ANGELICA,Antropología,9,5,12/05/2017,07:00 a. m.,08:30 a. m.
+3938,CHIM QUINTAL SILVIA PATRICIA,Antropología,10,5,12/05/2017,07:00 a. m.,08:30 a. m.
+3908,MAY ALCOCER JORGE ARMANDO,Antropología,11,5,12/05/2017,07:00 a. m.,08:30 a. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Antropología,12,5,12/05/2017,07:00 a. m.,08:30 a. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Antropología,13,5,12/05/2017,07:00 a. m.,08:30 a. m.
+4196,RÍO CASTELLÓN RÍGEL,Antropología,14,5,12/05/2017,07:00 a. m.,08:30 a. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Antropología,15,5,12/05/2017,07:00 a. m.,08:30 a. m.
+4178,MENESES PECH EDUARDO,Antropología,16,5,12/05/2017,07:00 a. m.,08:30 a. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Antropología,17,5,12/05/2017,07:00 a. m.,08:30 a. m.
+9236,CHAN MAY GENER ANTONIO,Antropología,18,5,12/05/2017,07:00 a. m.,08:30 a. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,Antropología,19,5,12/05/2017,07:00 a. m.,08:30 a. m.
+9927,SOSA SOUZA EDDY MARGARITA DEL SOCORRO,Antropología,20,5,12/05/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Antropología,3,5,12/05/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Antropología,4,5,12/05/2017,02:00 p. m.,03:30 p. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Antropología,6,5,12/05/2017,02:00 p. m.,03:30 p. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Antropología,7,5,12/05/2017,02:00 p. m.,03:30 p. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Antropología,8,5,12/05/2017,02:00 p. m.,03:30 p. m.
+9977,ZAPATA GUEMEZ CLAUDIA ANGELICA,Antropología,9,5,12/05/2017,02:00 p. m.,03:30 p. m.
+3938,CHIM QUINTAL SILVIA PATRICIA,Antropología,10,5,12/05/2017,02:00 p. m.,03:30 p. m.
+3908,MAY ALCOCER JORGE ARMANDO,Antropología,11,5,12/05/2017,02:00 p. m.,03:30 p. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Antropología,12,5,12/05/2017,02:00 p. m.,03:30 p. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Antropología,13,5,12/05/2017,02:00 p. m.,03:30 p. m.
+4196,RÍO CASTELLÓN RÍGEL,Antropología,14,5,12/05/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Antropología,15,5,12/05/2017,02:00 p. m.,03:30 p. m.
+4178,MENESES PECH EDUARDO,Antropología,16,5,12/05/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Antropología,17,5,12/05/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,Antropología,18,5,12/05/2017,02:00 p. m.,03:30 p. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,Antropología,19,5,12/05/2017,02:00 p. m.,03:30 p. m.
+9927,SOSA SOUZA EDDY MARGARITA DEL SOCORRO,Antropología,20,5,12/05/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Cálculo 2,1,2,16/05/2017,07:00 a. m.,08:30 a. m.
+9107,OJEDA ROSADO ALVA PAMELA,Cálculo 2,2,2,16/05/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Cálculo 2,3,2,16/05/2017,07:00 a. m.,08:30 a. m.
+8667,CARRILLO KUMUL RAFAEL ANTONIO DE JESUS,Cálculo 2,4,2,16/05/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Contabilidad,5,2,16/05/2017,07:00 a. m.,08:30 a. m.
+4603,DURÁN ESTRELLA GENNY CECILIA,Contabilidad,6,2,16/05/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Contabilidad,7,2,16/05/2017,07:00 a. m.,08:30 a. m.
+2782,DIP LEÓN SANDRA,Contabilidad,8,2,16/05/2017,07:00 a. m.,08:30 a. m.
+6323,COB MAY WENDY ARACELLY,Cálculo 2,10,2,16/05/2017,07:00 a. m.,08:30 a. m.
+9244,MIJANGOS PINTO SERGIO ENRIQUE,Cálculo 2,21,2,16/05/2017,07:00 a. m.,08:30 a. m.
+1737,PINZÓN BALAM JOSÉ MANUEL,Literatura Mexicana,9,2,16/05/2017,02:00 p. m.,03:30 p. m.
+1775,UC BRICEÑO OSCAR DANIEL,Literatura Mexicana,11,2,16/05/2017,02:00 p. m.,03:30 p. m.
+6220,CAB CASANOVA ADDY NOEMI,Dibujo,12,2,16/05/2017,02:00 p. m.,03:30 p. m.
+4178,MENESES PECH EDUARDO,Literatura Mexicana,13,2,16/05/2017,02:00 p. m.,03:30 p. m.
+2797,PENICHE SOUZA JORGE ALBERTO DE JESÚS,Bioquímica,14,2,16/05/2017,02:00 p. m.,03:30 p. m.
+9255,TRINCHAN TORAYA NAZARENA,Bioquímica,15,2,16/05/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Bioquímica,16,2,16/05/2017,02:00 p. m.,03:30 p. m.
+3628,CENTURIÓN PENICHE MIGUEL HEBERT,Bioquímica,17,2,16/05/2017,02:00 p. m.,03:30 p. m.
+9978,PÉREZ MÉNDEZ JENIFER,Bioquímica,18,2,16/05/2017,02:00 p. m.,03:30 p. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,Bioquímica,19,2,16/05/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Bioquímica,20,2,16/05/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,Bioquímica,22,2,16/05/2017,02:00 p. m.,03:30 p. m.
+8466,TORRES SÁNCHEZ MANUEL ABDIEL,Ética y Derechos Humanos,1,3,17/05/2017,07:00 a. m.,08:30 a. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Ética y Derechos Humanos,2,3,17/05/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Ética y Derechos Humanos,3,3,17/05/2017,07:00 a. m.,08:30 a. m.
+9244,MIJANGOS PINTO SERGIO ENRIQUE,Ética y Derechos Humanos,4,3,17/05/2017,07:00 a. m.,08:30 a. m.
+6323,COB MAY WENDY ARACELLY,Ética y Derechos Humanos,5,3,17/05/2017,07:00 a. m.,08:30 a. m.
+9107,OJEDA ROSADO ALVA PAMELA,Ética y Derechos Humanos,6,3,17/05/2017,07:00 a. m.,08:30 a. m.
+2782,DIP LEÓN SANDRA,Ética y Derechos Humanos,7,3,17/05/2017,07:00 a. m.,08:30 a. m.
+8461,GAMBOA LIZAMA LIZANDRO DE JESÚS,Ética y Derechos Humanos,8,3,17/05/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Ética y Derechos Humanos,9,3,17/05/2017,07:00 a. m.,08:30 a. m.
+1737,PINZÓN BALAM JOSÉ MANUEL,Ética y Derechos Humanos,10,3,17/05/2017,07:00 a. m.,08:30 a. m.
+4196,RÍO CASTELLÓN RÍGEL,Ética y Derechos Humanos,11,3,17/05/2017,07:00 a. m.,08:30 a. m.
+4178,MENESES PECH EDUARDO,Ética y Derechos Humanos,12,3,17/05/2017,07:00 a. m.,08:30 a. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Ética y Derechos Humanos,13,3,17/05/2017,07:00 a. m.,08:30 a. m.
+2797,PENICHE SOUZA JORGE ALBERTO DE JESÚS,Ética y Derechos Humanos,14,3,17/05/2017,07:00 a. m.,08:30 a. m.
+3628,CENTURIÓN PENICHE MIGUEL HEBERT,Ética y Derechos Humanos,15,3,17/05/2017,07:00 a. m.,08:30 a. m.
+1418,DZIB POOL LEYDI MARÍA,Ética y Derechos Humanos,16,3,17/05/2017,07:00 a. m.,08:30 a. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Ética y Derechos Humanos,17,3,17/05/2017,07:00 a. m.,08:30 a. m.
+9255,TRINCHAN TORAYA NAZARENA,Ética y Derechos Humanos,18,3,17/05/2017,07:00 a. m.,08:30 a. m.
+9978,PÉREZ MÉNDEZ JENIFER,Ética y Derechos Humanos,19,3,17/05/2017,07:00 a. m.,08:30 a. m.
+9236,CHAN MAY GENER ANTONIO,Ética y Derechos Humanos,20,3,17/05/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Ética y Derechos Humanos,21,3,17/05/2017,07:00 a. m.,08:30 a. m.
+2204,TRISTÁN UC KARLA PATRICIA,Ética y Derechos Humanos,22,3,17/05/2017,07:00 a. m.,08:30 a. m.
+8466,TORRES SÁNCHEZ MANUEL ABDIEL,Ética y Derechos Humanos,1,3,17/05/2017,02:00 p. m.,03:30 p. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Ética y Derechos Humanos,2,3,17/05/2017,02:00 p. m.,03:30 p. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Ética y Derechos Humanos,3,3,17/05/2017,02:00 p. m.,03:30 p. m.
+9244,MIJANGOS PINTO SERGIO ENRIQUE,Ética y Derechos Humanos,4,3,17/05/2017,02:00 p. m.,03:30 p. m.
+6323,COB MAY WENDY ARACELLY,Ética y Derechos Humanos,5,3,17/05/2017,02:00 p. m.,03:30 p. m.
+9107,OJEDA ROSADO ALVA PAMELA,Ética y Derechos Humanos,6,3,17/05/2017,02:00 p. m.,03:30 p. m.
+2782,DIP LEÓN SANDRA,Ética y Derechos Humanos,7,3,17/05/2017,02:00 p. m.,03:30 p. m.
+8461,GAMBOA LIZAMA LIZANDRO DE JESÚS,Ética y Derechos Humanos,8,3,17/05/2017,02:00 p. m.,03:30 p. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Ética y Derechos Humanos,9,3,17/05/2017,02:00 p. m.,03:30 p. m.
+1737,PINZÓN BALAM JOSÉ MANUEL,Ética y Derechos Humanos,10,3,17/05/2017,02:00 p. m.,03:30 p. m.
+4196,RÍO CASTELLÓN RÍGEL,Ética y Derechos Humanos,11,3,17/05/2017,02:00 p. m.,03:30 p. m.
+4178,MENESES PECH EDUARDO,Ética y Derechos Humanos,12,3,17/05/2017,02:00 p. m.,03:30 p. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Ética y Derechos Humanos,13,3,17/05/2017,02:00 p. m.,03:30 p. m.
+2797,PENICHE SOUZA JORGE ALBERTO DE JESÚS,Ética y Derechos Humanos,14,3,17/05/2017,02:00 p. m.,03:30 p. m.
+3628,CENTURIÓN PENICHE MIGUEL HEBERT,Ética y Derechos Humanos,15,3,17/05/2017,02:00 p. m.,03:30 p. m.
+1418,DZIB POOL LEYDI MARÍA,Ética y Derechos Humanos,16,3,17/05/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Ética y Derechos Humanos,17,3,17/05/2017,02:00 p. m.,03:30 p. m.
+9255,TRINCHAN TORAYA NAZARENA,Ética y Derechos Humanos,18,3,17/05/2017,02:00 p. m.,03:30 p. m.
+9978,PÉREZ MÉNDEZ JENIFER,Ética y Derechos Humanos,19,3,17/05/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,Ética y Derechos Humanos,20,3,17/05/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Ética y Derechos Humanos,21,3,17/05/2017,02:00 p. m.,03:30 p. m.
+2204,TRISTÁN UC KARLA PATRICIA,Ética y Derechos Humanos,22,3,17/05/2017,02:00 p. m.,03:30 p. m.
+4603,DURÁN ESTRELLA GENNY CECILIA,Derecho 2,5,4,18/05/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Derecho 2,6,4,18/05/2017,07:00 a. m.,08:30 a. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Derecho 2,7,4,18/05/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Historia del Arte,9,4,18/05/2017,07:00 a. m.,08:30 a. m.
+8466,TORRES SÁNCHEZ MANUEL ABDIEL,Derecho 2,11,4,18/05/2017,07:00 a. m.,08:30 a. m.
+6323,COB MAY WENDY ARACELLY,Historia del Arte,12,4,18/05/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Derecho 2,13,4,18/05/2017,07:00 a. m.,08:30 a. m.
+9107,OJEDA ROSADO ALVA PAMELA,Anatomía 2,14,4,18/05/2017,02:00 p. m.,03:30 p. m.
+6220,CAB CASANOVA ADDY NOEMI,Anatomía 2,15,4,18/05/2017,02:00 p. m.,03:30 p. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Anatomía 2,16,4,18/05/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Anatomía 2,17,4,18/05/2017,02:00 p. m.,03:30 p. m.
+9978,PÉREZ MÉNDEZ JENIFER,Anatomía 2,18,4,18/05/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Anatomía 2,19,4,18/05/2017,02:00 p. m.,03:30 p. m.
+2203,ESPADAS SOLIS JORGE ORLANDO,Botánica,20,4,18/05/2017,02:00 p. m.,03:30 p. m.
+4258,NÁHUAT HERRERA KARLA,Anatomía 2,22,4,18/05/2017,02:00 p. m.,03:30 p. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Principios de Ecología,3,5,19/05/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Principios de Ecología,4,5,19/05/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Principios de Ecología,6,5,19/05/2017,07:00 a. m.,08:30 a. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Principios de Ecología,7,5,19/05/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Principios de Ecología,8,5,19/05/2017,07:00 a. m.,08:30 a. m.
+9977,ZAPATA GUEMEZ CLAUDIA ANGELICA,Principios de Ecología,9,5,19/05/2017,07:00 a. m.,08:30 a. m.
+3938,CHIM QUINTAL SILVIA PATRICIA,Principios de Ecología,10,5,19/05/2017,07:00 a. m.,08:30 a. m.
+3908,MAY ALCOCER JORGE ARMANDO,Principios de Ecología,11,5,19/05/2017,07:00 a. m.,08:30 a. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Principios de Ecología,12,5,19/05/2017,07:00 a. m.,08:30 a. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Principios de Ecología,13,5,19/05/2017,07:00 a. m.,08:30 a. m.
+4196,RÍO CASTELLÓN RÍGEL,Principios de Ecología,14,5,19/05/2017,07:00 a. m.,08:30 a. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Principios de Ecología,15,5,19/05/2017,07:00 a. m.,08:30 a. m.
+4178,MENESES PECH EDUARDO,Principios de Ecología,16,5,19/05/2017,07:00 a. m.,08:30 a. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Principios de Ecología,17,5,19/05/2017,07:00 a. m.,08:30 a. m.
+9236,CHAN MAY GENER ANTONIO,Principios de Ecología,18,5,19/05/2017,07:00 a. m.,08:30 a. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,Principios de Ecología,19,5,19/05/2017,07:00 a. m.,08:30 a. m.
+9927,SOSA SOUZA EDDY MARGARITA DEL SOCORRO,Principios de Ecología,20,5,19/05/2017,07:00 a. m.,08:30 a. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Principios de Ecología,22,5,19/05/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Principios de Ecología,3,5,19/05/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Principios de Ecología,4,5,19/05/2017,02:00 p. m.,03:30 p. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Principios de Ecología,6,5,19/05/2017,02:00 p. m.,03:30 p. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Principios de Ecología,7,5,19/05/2017,02:00 p. m.,03:30 p. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Principios de Ecología,8,5,19/05/2017,02:00 p. m.,03:30 p. m.
+9977,ZAPATA GUEMEZ CLAUDIA ANGELICA,Principios de Ecología,9,5,19/05/2017,02:00 p. m.,03:30 p. m.
+3938,CHIM QUINTAL SILVIA PATRICIA,Principios de Ecología,10,5,19/05/2017,02:00 p. m.,03:30 p. m.
+3908,MAY ALCOCER JORGE ARMANDO,Principios de Ecología,11,5,19/05/2017,02:00 p. m.,03:30 p. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Principios de Ecología,12,5,19/05/2017,02:00 p. m.,03:30 p. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Principios de Ecología,13,5,19/05/2017,02:00 p. m.,03:30 p. m.
+4196,RÍO CASTELLÓN RÍGEL,Principios de Ecología,14,5,19/05/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Principios de Ecología,15,5,19/05/2017,02:00 p. m.,03:30 p. m.
+4178,MENESES PECH EDUARDO,Principios de Ecología,16,5,19/05/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Principios de Ecología,17,5,19/05/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,Principios de Ecología,18,5,19/05/2017,02:00 p. m.,03:30 p. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,Principios de Ecología,19,5,19/05/2017,02:00 p. m.,03:30 p. m.
+9927,SOSA SOUZA EDDY MARGARITA DEL SOCORRO,Principios de Ecología,20,5,19/05/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Principios de Ecología,22,5,19/05/2017,02:00 p. m.,03:30 p. m.
+8466,TORRES SÁNCHEZ MANUEL ABDIEL,Ética y Derechos Humanos,1,1,29/05/2017,07:00 a. m.,08:30 a. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Ética y Derechos Humanos,2,1,29/05/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Ética y Derechos Humanos,3,1,29/05/2017,07:00 a. m.,08:30 a. m.
+9244,MIJANGOS PINTO SERGIO ENRIQUE,Ética y Derechos Humanos,4,1,29/05/2017,07:00 a. m.,08:30 a. m.
+6323,COB MAY WENDY ARACELLY,Ética y Derechos Humanos,5,1,29/05/2017,07:00 a. m.,08:30 a. m.
+9107,OJEDA ROSADO ALVA PAMELA,Ética y Derechos Humanos,6,1,29/05/2017,07:00 a. m.,08:30 a. m.
+2782,DIP LEÓN SANDRA,Ética y Derechos Humanos,7,1,29/05/2017,07:00 a. m.,08:30 a. m.
+8461,GAMBOA LIZAMA LIZANDRO DE JESÚS,Ética y Derechos Humanos,8,1,29/05/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Ética y Derechos Humanos,9,1,29/05/2017,07:00 a. m.,08:30 a. m.
+1737,PINZÓN BALAM JOSÉ MANUEL,Ética y Derechos Humanos,10,1,29/05/2017,07:00 a. m.,08:30 a. m.
+4196,RÍO CASTELLÓN RÍGEL,Ética y Derechos Humanos,11,1,29/05/2017,07:00 a. m.,08:30 a. m.
+4178,MENESES PECH EDUARDO,Ética y Derechos Humanos,12,1,29/05/2017,07:00 a. m.,08:30 a. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Ética y Derechos Humanos,13,1,29/05/2017,07:00 a. m.,08:30 a. m.
+2797,PENICHE SOUZA JORGE ALBERTO DE JESÚS,Ética y Derechos Humanos,14,1,29/05/2017,07:00 a. m.,08:30 a. m.
+3628,CENTURIÓN PENICHE MIGUEL HEBERT,Ética y Derechos Humanos,15,1,29/05/2017,07:00 a. m.,08:30 a. m.
+1418,DZIB POOL LEYDI MARÍA,Ética y Derechos Humanos,16,1,29/05/2017,07:00 a. m.,08:30 a. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Ética y Derechos Humanos,17,1,29/05/2017,07:00 a. m.,08:30 a. m.
+9255,TRINCHAN TORAYA NAZARENA,Ética y Derechos Humanos,18,1,29/05/2017,07:00 a. m.,08:30 a. m.
+9978,PÉREZ MÉNDEZ JENIFER,Ética y Derechos Humanos,19,1,29/05/2017,07:00 a. m.,08:30 a. m.
+9236,CHAN MAY GENER ANTONIO,Ética y Derechos Humanos,20,1,29/05/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Ética y Derechos Humanos,21,1,29/05/2017,07:00 a. m.,08:30 a. m.
+2204,TRISTÁN UC KARLA PATRICIA,Ética y Derechos Humanos,22,1,29/05/2017,07:00 a. m.,08:30 a. m.
+8466,TORRES SÁNCHEZ MANUEL ABDIEL,Ética y Derechos Humanos,1,1,29/05/2017,02:00 p. m.,03:30 p. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Ética y Derechos Humanos,2,1,29/05/2017,02:00 p. m.,03:30 p. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Ética y Derechos Humanos,3,1,29/05/2017,02:00 p. m.,03:30 p. m.
+9244,MIJANGOS PINTO SERGIO ENRIQUE,Ética y Derechos Humanos,4,1,29/05/2017,02:00 p. m.,03:30 p. m.
+6323,COB MAY WENDY ARACELLY,Ética y Derechos Humanos,5,1,29/05/2017,02:00 p. m.,03:30 p. m.
+9107,OJEDA ROSADO ALVA PAMELA,Ética y Derechos Humanos,6,1,29/05/2017,02:00 p. m.,03:30 p. m.
+2782,DIP LEÓN SANDRA,Ética y Derechos Humanos,7,1,29/05/2017,02:00 p. m.,03:30 p. m.
+8461,GAMBOA LIZAMA LIZANDRO DE JESÚS,Ética y Derechos Humanos,8,1,29/05/2017,02:00 p. m.,03:30 p. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Ética y Derechos Humanos,9,1,29/05/2017,02:00 p. m.,03:30 p. m.
+1737,PINZÓN BALAM JOSÉ MANUEL,Ética y Derechos Humanos,10,1,29/05/2017,02:00 p. m.,03:30 p. m.
+4196,RÍO CASTELLÓN RÍGEL,Ética y Derechos Humanos,11,1,29/05/2017,02:00 p. m.,03:30 p. m.
+4178,MENESES PECH EDUARDO,Ética y Derechos Humanos,12,1,29/05/2017,02:00 p. m.,03:30 p. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Ética y Derechos Humanos,13,1,29/05/2017,02:00 p. m.,03:30 p. m.
+2797,PENICHE SOUZA JORGE ALBERTO DE JESÚS,Ética y Derechos Humanos,14,1,29/05/2017,02:00 p. m.,03:30 p. m.
+3628,CENTURIÓN PENICHE MIGUEL HEBERT,Ética y Derechos Humanos,15,1,29/05/2017,02:00 p. m.,03:30 p. m.
+1418,DZIB POOL LEYDI MARÍA,Ética y Derechos Humanos,16,1,29/05/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Ética y Derechos Humanos,17,1,29/05/2017,02:00 p. m.,03:30 p. m.
+9255,TRINCHAN TORAYA NAZARENA,Ética y Derechos Humanos,18,1,29/05/2017,02:00 p. m.,03:30 p. m.
+9978,PÉREZ MÉNDEZ JENIFER,Ética y Derechos Humanos,19,1,29/05/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,Ética y Derechos Humanos,20,1,29/05/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Ética y Derechos Humanos,21,1,29/05/2017,02:00 p. m.,03:30 p. m.
+2204,TRISTÁN UC KARLA PATRICIA,Ética y Derechos Humanos,22,1,29/05/2017,02:00 p. m.,03:30 p. m.
+4603,DURÁN ESTRELLA GENNY CECILIA,Derecho 2,5,2,30/05/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Derecho 2,6,2,30/05/2017,07:00 a. m.,08:30 a. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Derecho 2,7,2,30/05/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Historia del Arte,9,2,30/05/2017,07:00 a. m.,08:30 a. m.
+8466,TORRES SÁNCHEZ MANUEL ABDIEL,Derecho 2,11,2,30/05/2017,07:00 a. m.,08:30 a. m.
+6323,COB MAY WENDY ARACELLY,Historia del Arte,12,2,30/05/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Derecho 2,13,2,30/05/2017,07:00 a. m.,08:30 a. m.
+9107,OJEDA ROSADO ALVA PAMELA,Anatomía 2,14,2,30/05/2017,02:00 p. m.,03:30 p. m.
+6220,CAB CASANOVA ADDY NOEMI,Anatomía 2,15,2,30/05/2017,02:00 p. m.,03:30 p. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Anatomía 2,16,2,30/05/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Anatomía 2,17,2,30/05/2017,02:00 p. m.,03:30 p. m.
+9978,PÉREZ MÉNDEZ JENIFER,Anatomía 2,18,2,30/05/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Anatomía 2,19,2,30/05/2017,02:00 p. m.,03:30 p. m.
+2203,ESPADAS SOLIS JORGE ORLANDO,Botánica,20,2,30/05/2017,02:00 p. m.,03:30 p. m.
+4258,NÁHUAT HERRERA KARLA,Anatomía 2,22,2,30/05/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",1,3,31/05/2017,07:00 a. m.,08:30 a. m.
+9107,OJEDA ROSADO ALVA PAMELA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",2,3,31/05/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",3,3,31/05/2017,07:00 a. m.,08:30 a. m.
+8667,CARRILLO KUMUL RAFAEL ANTONIO DE JESUS,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",4,3,31/05/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",5,3,31/05/2017,07:00 a. m.,08:30 a. m.
+4603,DURÁN ESTRELLA GENNY CECILIA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",6,3,31/05/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",7,3,31/05/2017,07:00 a. m.,08:30 a. m.
+2782,DIP LEÓN SANDRA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",8,3,31/05/2017,07:00 a. m.,08:30 a. m.
+6323,COB MAY WENDY ARACELLY,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",9,3,31/05/2017,07:00 a. m.,08:30 a. m.
+1737,PINZÓN BALAM JOSÉ MANUEL,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",10,3,31/05/2017,07:00 a. m.,08:30 a. m.
+1775,UC BRICEÑO OSCAR DANIEL,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",11,3,31/05/2017,07:00 a. m.,08:30 a. m.
+6220,CAB CASANOVA ADDY NOEMI,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",12,3,31/05/2017,07:00 a. m.,08:30 a. m.
+4178,MENESES PECH EDUARDO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",13,3,31/05/2017,07:00 a. m.,08:30 a. m.
+2797,PENICHE SOUZA JORGE ALBERTO DE JESÚS,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",14,3,31/05/2017,07:00 a. m.,08:30 a. m.
+9255,TRINCHAN TORAYA NAZARENA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",15,3,31/05/2017,07:00 a. m.,08:30 a. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",16,3,31/05/2017,07:00 a. m.,08:30 a. m.
+3628,CENTURIÓN PENICHE MIGUEL HEBERT,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",17,3,31/05/2017,07:00 a. m.,08:30 a. m.
+9978,PÉREZ MÉNDEZ JENIFER,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",18,3,31/05/2017,07:00 a. m.,08:30 a. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",19,3,31/05/2017,07:00 a. m.,08:30 a. m.
+430,ANCONA ANCONA FLOR DE ACACIA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",20,3,31/05/2017,07:00 a. m.,08:30 a. m.
+9244,MIJANGOS PINTO SERGIO ENRIQUE,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",21,3,31/05/2017,07:00 a. m.,08:30 a. m.
+9236,CHAN MAY GENER ANTONIO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",22,3,31/05/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",1,3,31/05/2017,02:00 p. m.,03:30 p. m.
+9107,OJEDA ROSADO ALVA PAMELA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",2,3,31/05/2017,02:00 p. m.,03:30 p. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",3,3,31/05/2017,02:00 p. m.,03:30 p. m.
+8667,CARRILLO KUMUL RAFAEL ANTONIO DE JESUS,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",4,3,31/05/2017,02:00 p. m.,03:30 p. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",5,3,31/05/2017,02:00 p. m.,03:30 p. m.
+4603,DURÁN ESTRELLA GENNY CECILIA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",6,3,31/05/2017,02:00 p. m.,03:30 p. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",7,3,31/05/2017,02:00 p. m.,03:30 p. m.
+2782,DIP LEÓN SANDRA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",8,3,31/05/2017,02:00 p. m.,03:30 p. m.
+6323,COB MAY WENDY ARACELLY,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",9,3,31/05/2017,02:00 p. m.,03:30 p. m.
+1737,PINZÓN BALAM JOSÉ MANUEL,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",10,3,31/05/2017,02:00 p. m.,03:30 p. m.
+1775,UC BRICEÑO OSCAR DANIEL,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",11,3,31/05/2017,02:00 p. m.,03:30 p. m.
+6220,CAB CASANOVA ADDY NOEMI,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",12,3,31/05/2017,02:00 p. m.,03:30 p. m.
+4178,MENESES PECH EDUARDO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",13,3,31/05/2017,02:00 p. m.,03:30 p. m.
+2797,PENICHE SOUZA JORGE ALBERTO DE JESÚS,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",14,3,31/05/2017,02:00 p. m.,03:30 p. m.
+9255,TRINCHAN TORAYA NAZARENA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",15,3,31/05/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",16,3,31/05/2017,02:00 p. m.,03:30 p. m.
+3628,CENTURIÓN PENICHE MIGUEL HEBERT,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",17,3,31/05/2017,02:00 p. m.,03:30 p. m.
+9978,PÉREZ MÉNDEZ JENIFER,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",18,3,31/05/2017,02:00 p. m.,03:30 p. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",19,3,31/05/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",20,3,31/05/2017,02:00 p. m.,03:30 p. m.
+9244,MIJANGOS PINTO SERGIO ENRIQUE,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",21,3,31/05/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,"Problemas Políticos, Sociales y Económicos del México Contemporáneo",22,3,31/05/2017,02:00 p. m.,03:30 p. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Principios de Ecología,3,4,01/06/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Principios de Ecología,4,4,01/06/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Principios de Ecología,6,4,01/06/2017,07:00 a. m.,08:30 a. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Principios de Ecología,7,4,01/06/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Principios de Ecología,8,4,01/06/2017,07:00 a. m.,08:30 a. m.
+9977,ZAPATA GUEMEZ CLAUDIA ANGELICA,Principios de Ecología,9,4,01/06/2017,07:00 a. m.,08:30 a. m.
+3938,CHIM QUINTAL SILVIA PATRICIA,Principios de Ecología,10,4,01/06/2017,07:00 a. m.,08:30 a. m.
+3908,MAY ALCOCER JORGE ARMANDO,Principios de Ecología,11,4,01/06/2017,07:00 a. m.,08:30 a. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Principios de Ecología,12,4,01/06/2017,07:00 a. m.,08:30 a. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Principios de Ecología,13,4,01/06/2017,07:00 a. m.,08:30 a. m.
+4196,RÍO CASTELLÓN RÍGEL,Principios de Ecología,14,4,01/06/2017,07:00 a. m.,08:30 a. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Principios de Ecología,15,4,01/06/2017,07:00 a. m.,08:30 a. m.
+4178,MENESES PECH EDUARDO,Principios de Ecología,16,4,01/06/2017,07:00 a. m.,08:30 a. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Principios de Ecología,17,4,01/06/2017,07:00 a. m.,08:30 a. m.
+9236,CHAN MAY GENER ANTONIO,Principios de Ecología,18,4,01/06/2017,07:00 a. m.,08:30 a. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,Principios de Ecología,19,4,01/06/2017,07:00 a. m.,08:30 a. m.
+9927,SOSA SOUZA EDDY MARGARITA DEL SOCORRO,Principios de Ecología,20,4,01/06/2017,07:00 a. m.,08:30 a. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Principios de Ecología,22,4,01/06/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Principios de Ecología,3,4,01/06/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Principios de Ecología,4,4,01/06/2017,02:00 p. m.,03:30 p. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Principios de Ecología,6,4,01/06/2017,02:00 p. m.,03:30 p. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Principios de Ecología,7,4,01/06/2017,02:00 p. m.,03:30 p. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Principios de Ecología,8,4,01/06/2017,02:00 p. m.,03:30 p. m.
+9977,ZAPATA GUEMEZ CLAUDIA ANGELICA,Principios de Ecología,9,4,01/06/2017,02:00 p. m.,03:30 p. m.
+3938,CHIM QUINTAL SILVIA PATRICIA,Principios de Ecología,10,4,01/06/2017,02:00 p. m.,03:30 p. m.
+3908,MAY ALCOCER JORGE ARMANDO,Principios de Ecología,11,4,01/06/2017,02:00 p. m.,03:30 p. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Principios de Ecología,12,4,01/06/2017,02:00 p. m.,03:30 p. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Principios de Ecología,13,4,01/06/2017,02:00 p. m.,03:30 p. m.
+4196,RÍO CASTELLÓN RÍGEL,Principios de Ecología,14,4,01/06/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Principios de Ecología,15,4,01/06/2017,02:00 p. m.,03:30 p. m.
+4178,MENESES PECH EDUARDO,Principios de Ecología,16,4,01/06/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Principios de Ecología,17,4,01/06/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,Principios de Ecología,18,4,01/06/2017,02:00 p. m.,03:30 p. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,Principios de Ecología,19,4,01/06/2017,02:00 p. m.,03:30 p. m.
+9927,SOSA SOUZA EDDY MARGARITA DEL SOCORRO,Principios de Ecología,20,4,01/06/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Principios de Ecología,22,4,01/06/2017,02:00 p. m.,03:30 p. m.
+6323,COB MAY WENDY ARACELLY,Trigonometría y Geometría Analítica,1,5,02/06/2017,07:00 a. m.,08:30 a. m.
+8466,TORRES SÁNCHEZ MANUEL ABDIEL,Trigonometría y Geometría Analítica,2,5,02/06/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Trigonometría y Geometría Analítica,3,5,02/06/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Trigonometría y Geometría Analítica,4,5,02/06/2017,07:00 a. m.,08:30 a. m.
+9977,ZAPATA GUEMEZ CLAUDIA ANGELICA,Trigonometría y Geometría Analítica,12,5,02/06/2017,07:00 a. m.,08:30 a. m.
+6827,KOYOC NOH ÁNGEL FRANCISCO,Trigonometría y Geometría Analítica,21,5,02/06/2017,07:00 a. m.,08:30 a. m.
+4178,MENESES PECH EDUARDO,Temas de Álgebra,8,5,02/06/2017,02:00 p. m.,03:30 p. m.
+3938,CHIM QUINTAL SILVIA PATRICIA,Física 4,10,5,02/06/2017,02:00 p. m.,03:30 p. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Temas de Álgebra,14,5,02/06/2017,02:00 p. m.,03:30 p. m.
+6220,CAB CASANOVA ADDY NOEMI,Temas de Álgebra,15,5,02/06/2017,02:00 p. m.,03:30 p. m.
+4196,RÍO CASTELLÓN RÍGEL,Lengua Maya,16,5,02/06/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,Lengua Maya,17,5,02/06/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Cálculo 2,1,1,05/06/2017,07:00 a. m.,08:30 a. m.
+9107,OJEDA ROSADO ALVA PAMELA,Cálculo 2,2,1,05/06/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Cálculo 2,3,1,05/06/2017,07:00 a. m.,08:30 a. m.
+8667,CARRILLO KUMUL RAFAEL ANTONIO DE JESUS,Cálculo 2,4,1,05/06/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Contabilidad,5,1,05/06/2017,07:00 a. m.,08:30 a. m.
+4603,DURÁN ESTRELLA GENNY CECILIA,Contabilidad,6,1,05/06/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Contabilidad,7,1,05/06/2017,07:00 a. m.,08:30 a. m.
+2782,DIP LEÓN SANDRA,Contabilidad,8,1,05/06/2017,07:00 a. m.,08:30 a. m.
+6323,COB MAY WENDY ARACELLY,Cálculo 2,10,1,05/06/2017,07:00 a. m.,08:30 a. m.
+9244,MIJANGOS PINTO SERGIO ENRIQUE,Cálculo 2,21,1,05/06/2017,07:00 a. m.,08:30 a. m.
+1737,PINZÓN BALAM JOSÉ MANUEL,Literatura Mexicana,9,1,05/06/2017,02:00 p. m.,03:30 p. m.
+1775,UC BRICEÑO OSCAR DANIEL,Literatura Mexicana,11,1,05/06/2017,02:00 p. m.,03:30 p. m.
+6220,CAB CASANOVA ADDY NOEMI,Dibujo,12,1,05/06/2017,02:00 p. m.,03:30 p. m.
+4178,MENESES PECH EDUARDO,Literatura Mexicana,13,1,05/06/2017,02:00 p. m.,03:30 p. m.
+2797,PENICHE SOUZA JORGE ALBERTO DE JESÚS,Bioquímica,14,1,05/06/2017,02:00 p. m.,03:30 p. m.
+9255,TRINCHAN TORAYA NAZARENA,Bioquímica,15,1,05/06/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Bioquímica,16,1,05/06/2017,02:00 p. m.,03:30 p. m.
+3628,CENTURIÓN PENICHE MIGUEL HEBERT,Bioquímica,17,1,05/06/2017,02:00 p. m.,03:30 p. m.
+9978,PÉREZ MÉNDEZ JENIFER,Bioquímica,18,1,05/06/2017,02:00 p. m.,03:30 p. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,Bioquímica,19,1,05/06/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Bioquímica,20,1,05/06/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,Bioquímica,22,1,05/06/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Física 3,1,2,06/06/2017,07:00 a. m.,08:30 a. m.
+6323,COB MAY WENDY ARACELLY,Física 3,2,2,06/06/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Física 3,3,2,06/06/2017,07:00 a. m.,08:30 a. m.
+8466,TORRES SÁNCHEZ MANUEL ABDIEL,Física 3,4,2,06/06/2017,07:00 a. m.,08:30 a. m.
+4603,DURÁN ESTRELLA GENNY CECILIA,Física 3,10,2,06/06/2017,07:00 a. m.,08:30 a. m.
+4196,RÍO CASTELLÓN RÍGEL,Física 3,21,2,06/06/2017,07:00 a. m.,08:30 a. m.
+9107,OJEDA ROSADO ALVA PAMELA,Psicología Social,5,2,06/06/2017,02:00 p. m.,03:30 p. m.
+6220,CAB CASANOVA ADDY NOEMI,Psicología Social,6,2,06/06/2017,02:00 p. m.,03:30 p. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Psicología Social,7,2,06/06/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Psicología Social,8,2,06/06/2017,02:00 p. m.,03:30 p. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Psicología Social,9,2,06/06/2017,02:00 p. m.,03:30 p. m.
+9978,PÉREZ MÉNDEZ JENIFER,Psicología Social,18,2,06/06/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Psicología Social,19,2,06/06/2017,02:00 p. m.,03:30 p. m.
+2203,ESPADAS SOLIS JORGE ORLANDO,Psicología Social,20,2,06/06/2017,02:00 p. m.,03:30 p. m.
+4258,NÁHUAT HERRERA KARLA,Psicología Social,22,2,06/06/2017,02:00 p. m.,03:30 p. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Antropología,3,3,07/06/2017,07:00 a. m.,08:30 a. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Antropología,4,3,07/06/2017,07:00 a. m.,08:30 a. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Antropología,6,3,07/06/2017,07:00 a. m.,08:30 a. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Antropología,7,3,07/06/2017,07:00 a. m.,08:30 a. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Antropología,8,3,07/06/2017,07:00 a. m.,08:30 a. m.
+9977,ZAPATA GUEMEZ CLAUDIA ANGELICA,Antropología,9,3,07/06/2017,07:00 a. m.,08:30 a. m.
+3938,CHIM QUINTAL SILVIA PATRICIA,Antropología,10,3,07/06/2017,07:00 a. m.,08:30 a. m.
+3908,MAY ALCOCER JORGE ARMANDO,Antropología,11,3,07/06/2017,07:00 a. m.,08:30 a. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Antropología,12,3,07/06/2017,07:00 a. m.,08:30 a. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Antropología,13,3,07/06/2017,07:00 a. m.,08:30 a. m.
+4196,RÍO CASTELLÓN RÍGEL,Antropología,14,3,07/06/2017,07:00 a. m.,08:30 a. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Antropología,15,3,07/06/2017,07:00 a. m.,08:30 a. m.
+4178,MENESES PECH EDUARDO,Antropología,16,3,07/06/2017,07:00 a. m.,08:30 a. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Antropología,17,3,07/06/2017,07:00 a. m.,08:30 a. m.
+9236,CHAN MAY GENER ANTONIO,Antropología,18,3,07/06/2017,07:00 a. m.,08:30 a. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,Antropología,19,3,07/06/2017,07:00 a. m.,08:30 a. m.
+9927,SOSA SOUZA EDDY MARGARITA DEL SOCORRO,Antropología,20,3,07/06/2017,07:00 a. m.,08:30 a. m.
+2780,CANTO ESCOFFIE WILBERT URBANO,Antropología,3,3,07/06/2017,02:00 p. m.,03:30 p. m.
+2943,PÉREZ MIRANDA LUIS AMADO,Antropología,4,3,07/06/2017,02:00 p. m.,03:30 p. m.
+7582,CETINA GÓMEZ DIEGO ALONSO,Antropología,6,3,07/06/2017,02:00 p. m.,03:30 p. m.
+6554,TZUC SIMÁ JOSÉ ALBERTO,Antropología,7,3,07/06/2017,02:00 p. m.,03:30 p. m.
+8726,PÉREZ FUENTES JOANNA ALEXANDRA,Antropología,8,3,07/06/2017,02:00 p. m.,03:30 p. m.
+9977,ZAPATA GUEMEZ CLAUDIA ANGELICA,Antropología,9,3,07/06/2017,02:00 p. m.,03:30 p. m.
+3938,CHIM QUINTAL SILVIA PATRICIA,Antropología,10,3,07/06/2017,02:00 p. m.,03:30 p. m.
+3908,MAY ALCOCER JORGE ARMANDO,Antropología,11,3,07/06/2017,02:00 p. m.,03:30 p. m.
+7376,PUC VÁZQUEZ MIGUEL ÁNGEL,Antropología,12,3,07/06/2017,02:00 p. m.,03:30 p. m.
+9421,COUOH CASTAÑEDA ETZIGUERI GUADALUPE,Antropología,13,3,07/06/2017,02:00 p. m.,03:30 p. m.
+4196,RÍO CASTELLÓN RÍGEL,Antropología,14,3,07/06/2017,02:00 p. m.,03:30 p. m.
+430,ANCONA ANCONA FLOR DE ACACIA,Antropología,15,3,07/06/2017,02:00 p. m.,03:30 p. m.
+4178,MENESES PECH EDUARDO,Antropología,16,3,07/06/2017,02:00 p. m.,03:30 p. m.
+8951,GAMAS TRUJILLO PABLO ALEJANDRO,Antropología,17,3,07/06/2017,02:00 p. m.,03:30 p. m.
+9236,CHAN MAY GENER ANTONIO,Antropología,18,3,07/06/2017,02:00 p. m.,03:30 p. m.
+9394,CASTILLEJOS AVENDAÑO CIELO MARGOT,Antropología,19,3,07/06/2017,02:00 p. m.,03:30 p. m.
+9927,SOSA SOUZA EDDY MARGARITA DEL SOCORRO,Antropología,20,3,07/06/2017,02:00 p. m.,03:30 p. m.

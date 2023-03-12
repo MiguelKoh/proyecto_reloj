@@ -1,0 +1,448 @@
+Nombre;No-AC;Hora Comienzo;Hora Fin;Tipo de Ausencia;RazÛn;Insertar Fecha
+"PARRA ARCEO MARÕA IVETTE";"1218";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PARRA ARCEO MARÕA IVETTE";"1218";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PARRA ARCEO MARÕA IVETTE";"1218";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"GARCÕA DÕAZ RITA ISABEL";"1234";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"GARCÕA DÕAZ RITA ISABEL";"1234";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"GARCÕA DÕAZ RITA ISABEL";"1234";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"CERVERA RIVERO MARÕA PURIFICACI”N";"1291";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"CERVERA RIVERO MARÕA PURIFICACI”N";"1291";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"CERVERA RIVERO MARÕA PURIFICACI”N";"1291";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"DZIB POOL LEYDI MARIA";"1418";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"DZIB POOL LEYDI MARIA";"1418";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"DZIB POOL LEYDI MARIA";"1418";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"DZUL ABREU TOM¡S ARMANDO";"154";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"DZUL ABREU TOM¡S ARMANDO";"154";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"DZUL ABREU TOM¡S ARMANDO";"154";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"DZUL ABREU TOM¡S ARMANDO";"154";18/03/2015 05:00:00 p. m.;18/03/2015 08:30:00 p. m.;Trabajo;"JUNTA DE ACADEMIA";26/03/2015 03:51:36 p. m.
+"DZUL ABREU TOM¡S ARMANDO";"154";20/03/2015 07:00:00 p. m.;20/03/2015 08:30:00 p. m.;Trabajo;"DEVOLUCION DE HORAS";26/03/2015 03:52:06 p. m.
+"DZUL ABREU TOM¡S ARMANDO";"154";23/03/2015;23/03/2015 11:59:00 p. m.;Trabajo;"dia economico";19/03/2015 04:08:08 p. m.
+"DZUL ABREU TOM¡S ARMANDO";"154";24/03/2015;24/03/2015 11:59:00 p. m.;Trabajo;"dia economico";19/03/2015 04:08:08 p. m.
+"DZUL ABREU TOM¡S ARMANDO";"154";26/03/2015 06:00:00 p. m.;26/03/2015 08:00:00 p. m.;Enfermedad;"constancia";16/04/2015 03:59:11 p. m.
+"VAZQUEZ MA VIANNEY ISELA";"1574";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"VAZQUEZ MA VIANNEY ISELA";"1574";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"VAZQUEZ MA VIANNEY ISELA";"1574";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"MEDINA ELIZALDE ALEJO SANTIAGO";"1587";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"MEDINA ELIZALDE ALEJO SANTIAGO";"1587";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"MEDINA ELIZALDE ALEJO SANTIAGO";"1587";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PECH CHAN JUAN ANTONIO";"16";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PECH CHAN JUAN ANTONIO";"16";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PECH CHAN JUAN ANTONIO";"16";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"YAM SOSA MARTHA BEATRIZ";"1654";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"YAM SOSA MARTHA BEATRIZ";"1654";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"YAM SOSA MARTHA BEATRIZ";"1654";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"YAM SOSA MARTHA BEATRIZ";"1654";27/03/2015 07:00:00 a. m.;27/03/2015 01:00:00 p. m.;Trabajo;"antiguedad";14/04/2015 04:14:58 p. m.
+"RAMIREZ CONTRERAS DAYANA";"1710";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"RAMIREZ CONTRERAS DAYANA";"1710";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"RAMIREZ CONTRERAS DAYANA";"1710";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PUERTO GRUINTAL HERNANDO JESUS";"1716";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PUERTO GRUINTAL HERNANDO JESUS";"1716";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PUERTO GRUINTAL HERNANDO JESUS";"1716";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PINZ”N BALAM JOS… MANUEL";"1737";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PINZ”N BALAM JOS… MANUEL";"1737";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PINZ”N BALAM JOS… MANUEL";"1737";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"TORRES CHAC JOSE ANTONIO";"1754";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"TORRES CHAC JOSE ANTONIO";"1754";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"TORRES CHAC JOSE ANTONIO";"1754";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"UC BRICE—O OSCAR DANIEL";"1775";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"UC BRICE—O OSCAR DANIEL";"1775";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"UC BRICE—O OSCAR DANIEL";"1775";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";16/03/2015;16/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";09/03/2015 03:08:38 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";17/03/2015;17/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";09/03/2015 03:08:38 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";18/03/2015;18/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";19/03/2015;19/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";20/03/2015;20/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";21/03/2015;21/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";22/03/2015;22/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";23/03/2015;23/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";24/03/2015;24/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";25/03/2015;25/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";26/03/2015;26/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";27/03/2015;27/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";28/03/2015;28/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";29/03/2015;29/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";30/03/2015;30/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";31/03/2015;31/03/2015 11:59:00 p. m.;Enfermedad;"fractura de diafisis";23/04/2015 03:04:57 p. m.
+"ESTRADA VAZQUEZ GUADALUP";"1873";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"ESTRADA VAZQUEZ GUADALUP";"1873";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"ESTRADA VAZQUEZ GUADALUP";"1873";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"CICERO PEREZ FERNANDO JA";"2086";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"CICERO PEREZ FERNANDO JA";"2086";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"CICERO PEREZ FERNANDO JA";"2086";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"P…REZ ESQUIVEL LUZ ELIZABETH";"2143";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"P…REZ ESQUIVEL LUZ ELIZABETH";"2143";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"P…REZ ESQUIVEL LUZ ELIZABETH";"2143";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"CAAMAL VARGAS NATALIA";"2170";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"CAAMAL VARGAS NATALIA";"2170";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"CAAMAL VARGAS NATALIA";"2170";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"CAAMAL VARGAS NATALIA";"2170";24/03/2015 07:00:00 a. m.;24/03/2015 01:00:00 p. m.;Trabajo;"antiguedad";14/04/2015 04:15:53 p. m.
+"IMAN MORALES CECILIA DEL SOCORRO";"2173";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"IMAN MORALES CECILIA DEL SOCORRO";"2173";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"IMAN MORALES CECILIA DEL SOCORRO";"2173";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"PENICHE ROSAS AÕDA CONCEPCI”N";"2176";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"PENICHE ROSAS AÕDA CONCEPCI”N";"2176";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"PENICHE ROSAS AÕDA CONCEPCI”N";"2176";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"PENICHE ROSAS AÕDA CONCEPCI”N";"2176";27/03/2015 02:00:00 p. m.;27/03/2015 04:00:00 p. m.;Enfermedad;"constancia";16/04/2015 03:24:36 p. m.
+"TRISTAN UC KARLA PATRICI";"2204";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"TRISTAN UC KARLA PATRICI";"2204";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"TRISTAN UC KARLA PATRICI";"2204";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"ZETINA ZALDIVAR DAVID SALOMON";"2208";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"ZETINA ZALDIVAR DAVID SALOMON";"2208";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"ZETINA ZALDIVAR DAVID SALOMON";"2208";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"QUINTAL RUZ YESSICA ANDREA";"2242";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"QUINTAL RUZ YESSICA ANDREA";"2242";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"QUINTAL RUZ YESSICA ANDREA";"2242";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"NAVARRETE SOLÕS CARLOS ANTONIO";"2406";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"NAVARRETE SOLÕS CARLOS ANTONIO";"2406";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"NAVARRETE SOLÕS CARLOS ANTONIO";"2406";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"HERRERA CANTO NORMA IGNACIA";"2473";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"HERRERA CANTO NORMA IGNACIA";"2473";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"HERRERA CANTO NORMA IGNACIA";"2473";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"HERRERA CANTO NORMA IGNACIA";"2473";27/03/2015 02:00:00 p. m.;27/03/2015 08:00:00 p. m.;Trabajo;"antiguedad";25/03/2015 03:25:12 p. m.
+"ALONZO P…REZ RA⁄L FRANCISCO";"2482";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"ALONZO P…REZ RA⁄L FRANCISCO";"2482";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"ALONZO P…REZ RA⁄L FRANCISCO";"2482";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"ALONZO P…REZ RA⁄L FRANCISCO";"2482";27/03/2015 07:00:00 a. m.;27/03/2015 01:30:00 p. m.;Trabajo;"antiguedad";14/04/2015 04:02:42 p. m.
+"TREJO PE—A JORGE CARLOS";"2550";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"TREJO PE—A JORGE CARLOS";"2550";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"TREJO PE—A JORGE CARLOS";"2550";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"TREJO PE—A JORGE CARLOS";"2550";23/03/2015 02:00:00 p. m.;23/03/2015 08:00:00 p. m.;Trabajo;"economico";25/03/2015 03:05:56 p. m.
+"OLAIS LOEZA MANUEL ANTONIO DE JES⁄S";"2575";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"OLAIS LOEZA MANUEL ANTONIO DE JES⁄S";"2575";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"OLAIS LOEZA MANUEL ANTONIO DE JES⁄S";"2575";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"OLAIS LOEZA MANUEL ANTONIO DE JES⁄S";"2575";24/03/2015 09:10:00 a. m.;24/03/2015 12:20:00 p. m.;Otros;"semana de la salud";06/03/2015 04:00:02 p. m.
+"ALEJANDRE CANUL BALTAZAR CONCEPCI”N";"2643";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"ALEJANDRE CANUL BALTAZAR CONCEPCI”N";"2643";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"ALEJANDRE CANUL BALTAZAR CONCEPCI”N";"2643";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"CANTO ESCOFFIE WILBERTH URBANO";"2780";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"CANTO ESCOFFIE WILBERTH URBANO";"2780";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"CANTO ESCOFFIE WILBERTH URBANO";"2780";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"DIP LE”N SANDRA";"2782";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"DIP LE”N SANDRA";"2782";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"DIP LE”N SANDRA";"2782";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"AM¡BILIS MARÕN MALEY MARISOL";"2796";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"AM¡BILIS MARÕN MALEY MARISOL";"2796";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"AM¡BILIS MARÕN MALEY MARISOL";"2796";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:32 p. m.
+"AM¡BILIS MARÕN MALEY MARISOL";"2796";25/03/2015;25/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";26/03/2015 03:38:09 p. m.
+"PENICHE SOUZA JORGE ALBERTO DE JES⁄S";"2797";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"PENICHE SOUZA JORGE ALBERTO DE JES⁄S";"2797";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"PENICHE SOUZA JORGE ALBERTO DE JES⁄S";"2797";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"RODRÕGUEZ TUT ENRIQUE ANTONIO";"2888";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"RODRÕGUEZ TUT ENRIQUE ANTONIO";"2888";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"RODRÕGUEZ TUT ENRIQUE ANTONIO";"2888";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"ANCONA CORREA FLOR SILVESTRE";"2941";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"ANCONA CORREA FLOR SILVESTRE";"2941";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"ANCONA CORREA FLOR SILVESTRE";"2941";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"ANCONA CORREA FLOR SILVESTRE";"2941";27/03/2015 07:00:00 a. m.;27/03/2015 01:00:00 p. m.;Trabajo;"antiguedad";25/03/2015 03:13:53 p. m.
+"P…REZ MIRANDA LUIS AMADO";"2943";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"P…REZ MIRANDA LUIS AMADO";"2943";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"P…REZ MIRANDA LUIS AMADO";"2943";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"CENTURION PENICHE MIGUEL HEBERT";"3628";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"CENTURION PENICHE MIGUEL HEBERT";"3628";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"CENTURION PENICHE MIGUEL HEBERT";"3628";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"PINO MEDINA MIRIAM";"3841";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"PINO MEDINA MIRIAM";"3841";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"PINO MEDINA MIRIAM";"3841";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"PINO MEDINA MIRIAM";"3841";20/03/2015 01:00:00 p. m.;20/03/2015 05:00:00 p. m.;Otros;"PERSONAL";26/03/2015 03:35:25 p. m.
+"MAY ALCOCER JORGE ARMANDO";"3908";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"MAY ALCOCER JORGE ARMANDO";"3908";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"MAY ALCOCER JORGE ARMANDO";"3908";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"MAY ALCOCER JORGE ARMANDO";"3908";19/03/2015 02:00:00 p. m.;19/03/2015 08:00:00 p. m.;Trabajo;"economico";19/03/2015 03:17:48 p. m.
+"CHIM QUINTAL SILVIA PATRICIA";"3938";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"CHIM QUINTAL SILVIA PATRICIA";"3938";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"CHIM QUINTAL SILVIA PATRICIA";"3938";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"EDUARDO ALEXANDER MIS CH";"4012";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"EDUARDO ALEXANDER MIS CH";"4012";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"EDUARDO ALEXANDER MIS CH";"4012";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"URIBE GUZMAN CARLOS HUEMAN";"4055";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"URIBE GUZMAN CARLOS HUEMAN";"4055";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"URIBE GUZMAN CARLOS HUEMAN";"4055";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"SALAS BRITO HOLDA YOLANDA";"406";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"SALAS BRITO HOLDA YOLANDA";"406";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"SALAS BRITO HOLDA YOLANDA";"406";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"SALAS BRITO HOLDA YOLANDA";"406";25/03/2015;25/03/2015 11:59:00 p. m.;Enfermedad;"estudio de rayos x";26/03/2015 04:54:04 p. m.
+"FIGUEROA PEREZ JESUS EMMANUEL";"4093";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"FIGUEROA PEREZ JESUS EMMANUEL";"4093";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"FIGUEROA PEREZ JESUS EMMANUEL";"4093";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"JIMENEZ CASTILLO JAIME ENRIQUE";"4098";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"JIMENEZ CASTILLO JAIME ENRIQUE";"4098";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"JIMENEZ CASTILLO JAIME ENRIQUE";"4098";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"ANCONA ANCONA FLOR DE ACACIA";"430";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"ANCONA ANCONA FLOR DE ACACIA";"430";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"ANCONA ANCONA FLOR DE ACACIA";"430";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"MISS VARGAS LEIDY AU";"4444";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"MISS VARGAS LEIDY AU";"4444";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"MISS VARGAS LEIDY AU";"4444";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"FIGUEROA P…REZ MANUEL ARMANDO";"577";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"FIGUEROA P…REZ MANUEL ARMANDO";"577";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"FIGUEROA P…REZ MANUEL ARMANDO";"577";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"FIGUEROA P…REZ MANUEL ARMANDO";"577";25/03/2015 02:00:00 p. m.;25/03/2015 08:00:00 p. m.;Trabajo;"antiguedad";17/04/2015 04:20:34 p. m.
+"CERVERA MORALES GABRIEL ENRIQUE";"6178";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"CERVERA MORALES GABRIEL ENRIQUE";"6178";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"CERVERA MORALES GABRIEL ENRIQUE";"6178";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"GARCIA SANCHEZ JOSE";"6198";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"GARCIA SANCHEZ JOSE";"6198";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"GARCIA SANCHEZ JOSE";"6198";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"PALEO CARRILLO MANUEL JOS…";"6313";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"PALEO CARRILLO MANUEL JOS…";"6313";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"PALEO CARRILLO MANUEL JOS…";"6313";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"PALEO CARRILLO MANUEL JOS…";"6313";26/03/2015 07:00:00 a. m.;26/03/2015 01:00:00 p. m.;Trabajo;"economico";25/03/2015 03:07:05 p. m.
+"COB MAY WENDY ARACELLY";"6323";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"COB MAY WENDY ARACELLY";"6323";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"COB MAY WENDY ARACELLY";"6323";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"COB MAY WENDY ARACELLY";"6323";20/03/2015 02:00:00 p. m.;20/03/2015 08:00:00 p. m.;Trabajo;"dia economico";17/03/2015 06:03:49 p. m.
+"CAMARGO P…REZ MATEO";"648";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"CAMARGO P…REZ MATEO";"648";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"CAMARGO P…REZ MATEO";"648";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"CAMARGO P…REZ MATEO";"648";26/03/2015 02:00:00 p. m.;26/03/2015 08:00:00 p. m.;Trabajo;"economico";17/04/2015 03:43:59 p. m.
+"NU—EZ GOMEZ ANGELICA DEL CARMEN";"6515";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"NU—EZ GOMEZ ANGELICA DEL CARMEN";"6515";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"NU—EZ GOMEZ ANGELICA DEL CARMEN";"6515";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"NU—EZ GOMEZ ANGELICA DEL CARMEN";"6515";19/03/2015;19/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por laringofaringitis";24/03/2015 02:47:17 p. m.
+"XOOL RAMOS DALIA YADIRA";"6526";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"XOOL RAMOS DALIA YADIRA";"6526";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"XOOL RAMOS DALIA YADIRA";"6526";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"XOOL RAMOS DALIA YADIRA";"6526";27/03/2015 02:00:00 p. m.;27/03/2015 08:00:00 p. m.;Trabajo;"antiguedad";25/03/2015 03:23:18 p. m.
+"TZUC SIM¡ JOS… ALBERTO";"6554";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"TZUC SIM¡ JOS… ALBERTO";"6554";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"TZUC SIM¡ JOS… ALBERTO";"6554";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"GONZ¡LEZ PAVÕA IRENE DEL SOCORRO";"6556";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"GONZ¡LEZ PAVÕA IRENE DEL SOCORRO";"6556";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"GONZ¡LEZ PAVÕA IRENE DEL SOCORRO";"6556";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"HERRERA QUINTAL ELSY GUADALUPE";"6691";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"HERRERA QUINTAL ELSY GUADALUPE";"6691";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"HERRERA QUINTAL ELSY GUADALUPE";"6691";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:33 p. m.
+"COHEN ¡LVAREZ KAREN";"6822";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"COHEN ¡LVAREZ KAREN";"6822";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"COHEN ¡LVAREZ KAREN";"6822";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"GAMBOA SANSORES KARINA AZUCENA";"6870";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"GAMBOA SANSORES KARINA AZUCENA";"6870";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"GAMBOA SANSORES KARINA AZUCENA";"6870";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"FAJARDO P…REZ EDGAR FERNANDO";"6996";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"FAJARDO P…REZ EDGAR FERNANDO";"6996";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"FAJARDO P…REZ EDGAR FERNANDO";"6996";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"SANSORES GUTI…RREZ EDGAR JOS… ZACARÕAS";"7098";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"SANSORES GUTI…RREZ EDGAR JOS… ZACARÕAS";"7098";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"SANSORES GUTI…RREZ EDGAR JOS… ZACARÕAS";"7098";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"SANSORES GUTI…RREZ EDGAR JOS… ZACARÕAS";"7098";26/03/2015 02:00:00 p. m.;26/03/2015 08:00:00 p. m.;Trabajo;"economico";25/03/2015 03:15:18 p. m.
+"ARCILA MAT⁄ MARÕA DEL CARMEN";"7117";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"ARCILA MAT⁄ MARÕA DEL CARMEN";"7117";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"ARCILA MAT⁄ MARÕA DEL CARMEN";"7117";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"PUC V¡ZQUEZ MIGUEL ¡NGEL";"7376";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"PUC V¡ZQUEZ MIGUEL ¡NGEL";"7376";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"PUC V¡ZQUEZ MIGUEL ¡NGEL";"7376";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"SOSA CRESPO IRVING FRANCISCO";"7379";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"SOSA CRESPO IRVING FRANCISCO";"7379";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"SOSA CRESPO IRVING FRANCISCO";"7379";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"BEJAR LARROCHA JOS… DAGOBERTO";"7381";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"BEJAR LARROCHA JOS… DAGOBERTO";"7381";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"BEJAR LARROCHA JOS… DAGOBERTO";"7381";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CANO BLANCO MARILU";"7474";16/03/2015;16/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CANO BLANCO MARILU";"7474";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CANO BLANCO MARILU";"7474";17/03/2015;17/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";18/03/2015;18/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CANO BLANCO MARILU";"7474";19/03/2015;19/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";20/03/2015;20/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";21/03/2015;21/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";22/03/2015;22/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";23/03/2015;23/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";24/03/2015;24/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";25/03/2015;25/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";26/03/2015;26/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";27/03/2015;27/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";28/03/2015;28/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";29/03/2015;29/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";30/03/2015;30/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"CANO BLANCO MARILU";"7474";31/03/2015;31/03/2015 11:59:00 p. m.;Enfermedad;"INCAPACIDAD";02/03/2015 02:35:02 p. m.
+"MARTINEZ RENDIS ROCIO";"75";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"MARTINEZ RENDIS ROCIO";"75";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"MARTINEZ RENDIS ROCIO";"75";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"CETINA G”MEZ DIEGO ALONSO";"7582";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CETINA G”MEZ DIEGO ALONSO";"7582";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CETINA G”MEZ DIEGO ALONSO";"7582";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"AVIL…S DENIS ALHELÕ DE JES⁄S";"7763";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"AVIL…S DENIS ALHELÕ DE JES⁄S";"7763";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"AVIL…S DENIS ALHELÕ DE JES⁄S";"7763";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"AVIL…S DENIS ALHELÕ DE JES⁄S";"7763";24/03/2015;24/03/2015 11:59:00 p. m.;Enfermedad;"PSIQUIATRIA";26/03/2015 03:57:47 p. m.
+"CETINA BASTINA ALEIDA";"7831";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CETINA BASTINA ALEIDA";"7831";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CETINA BASTINA ALEIDA";"7831";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"VIRAMONTES SU¡REZ DIEGO ROBERTO";"7834";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"VIRAMONTES SU¡REZ DIEGO ROBERTO";"7834";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"VIRAMONTES SU¡REZ DIEGO ROBERTO";"7834";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"HEREDIA DUR¡N LUIS ANTONIO";"7969";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"HEREDIA DUR¡N LUIS ANTONIO";"7969";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"HEREDIA DUR¡N LUIS ANTONIO";"7969";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CALDER”N P…REZ ASTRID YARELI";"7972";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CALDER”N P…REZ ASTRID YARELI";"7972";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CALDER”N P…REZ ASTRID YARELI";"7972";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CALDER”N P…REZ ASTRID YARELI";"7972";26/03/2015;26/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";16/04/2015 03:19:50 p. m.
+"CALDER”N P…REZ ASTRID YARELI";"7972";27/03/2015;27/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";16/04/2015 03:19:50 p. m.
+"G”MEZ QUINTAL ROSA MARÕA DEL PILAR";"8177";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"G”MEZ QUINTAL ROSA MARÕA DEL PILAR";"8177";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"G”MEZ QUINTAL ROSA MARÕA DEL PILAR";"8177";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"M¡RQUEZ G”MEZ JOS… CAMERINO";"8256";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"M¡RQUEZ G”MEZ JOS… CAMERINO";"8256";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"M¡RQUEZ G”MEZ JOS… CAMERINO";"8256";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"ECHEVERRÕA NAVARRO LUIS ALBERTO";"8259";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"ECHEVERRÕA NAVARRO LUIS ALBERTO";"8259";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"ECHEVERRÕA NAVARRO LUIS ALBERTO";"8259";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"PINTO RODRÕGUEZ AURELIANO RAFAEL";"838";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PINTO RODRÕGUEZ AURELIANO RAFAEL";"838";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PINTO RODRÕGUEZ AURELIANO RAFAEL";"838";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"MUGARTE MOGUEL ALFONSO JESUS";"8445";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"MUGARTE MOGUEL ALFONSO JESUS";"8445";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"MUGARTE MOGUEL ALFONSO JESUS";"8445";17/03/2015 01:50:00 p. m.;17/03/2015 03:30:00 p. m.;Enfermedad;"constancia";18/03/2015 02:22:01 p. m.
+"MUGARTE MOGUEL ALFONSO JESUS";"8445";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"ALFARO CORREA ERICK AD¡N";"8455";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"ALFARO CORREA ERICK AD¡N";"8455";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"ALFARO CORREA ERICK AD¡N";"8455";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CENTURION FERNANDEZ ALEJANDRA VICTORIA";"8460";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CENTURION FERNANDEZ ALEJANDRA VICTORIA";"8460";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"CENTURION FERNANDEZ ALEJANDRA VICTORIA";"8460";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"GAMBOA LIZAMA LIZANDRO DE JES⁄S";"8461";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"GAMBOA LIZAMA LIZANDRO DE JES⁄S";"8461";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"GAMBOA LIZAMA LIZANDRO DE JES⁄S";"8461";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"TORRES S¡NCHEZ MANUEL";"8466";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"TORRES S¡NCHEZ MANUEL";"8466";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"TORRES S¡NCHEZ MANUEL";"8466";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:34 p. m.
+"MATEY CHAN LIGIA PATRICIA";"851";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"MATEY CHAN LIGIA PATRICIA";"851";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"MATEY CHAN LIGIA PATRICIA";"851";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";16/03/2015;16/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";17/03/2015;17/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";18/03/2015;18/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";19/03/2015;19/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";20/03/2015;20/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";21/03/2015;21/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";22/03/2015;22/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";23/03/2015;23/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";24/03/2015;24/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";25/03/2015;25/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";26/03/2015;26/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";27/03/2015;27/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";28/03/2015;28/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";29/03/2015;29/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";30/03/2015;30/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";31/03/2015;31/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad";09/03/2015 02:58:34 p. m.
+"CANUL RODRÕGUEZ DOUGLAS RAM”N";"8793";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CANUL RODRÕGUEZ DOUGLAS RAM”N";"8793";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CANUL RODRÕGUEZ DOUGLAS RAM”N";"8793";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"RIO HERRERA LIGIA";"8800";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"RIO HERRERA LIGIA";"8800";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"RIO HERRERA LIGIA";"8800";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"SANTOS BERMEJO MARÕA GUADALUPE";"8882";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"SANTOS BERMEJO MARÕA GUADALUPE";"8882";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"SANTOS BERMEJO MARÕA GUADALUPE";"8882";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"DUARTE QUINTAL LIGIA BEATRIZ";"894";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"DUARTE QUINTAL LIGIA BEATRIZ";"894";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"DUARTE QUINTAL LIGIA BEATRIZ";"894";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"FAJARDO P…REZ LUIS ENRIQUE";"8950";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"FAJARDO P…REZ LUIS ENRIQUE";"8950";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"FAJARDO P…REZ LUIS ENRIQUE";"8950";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"GAMAS TRUJILLO PABLO ALEJANDRO";"8951";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"GAMAS TRUJILLO PABLO ALEJANDRO";"8951";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"GAMAS TRUJILLO PABLO ALEJANDRO";"8951";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"ARROYO ANGULO MARIA MARGARITA";"8989";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"ARROYO ANGULO MARIA MARGARITA";"8989";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"ARROYO ANGULO MARIA MARGARITA";"8989";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CERVERA ARG¡EZ GABRIELA";"8990";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CERVERA ARG¡EZ GABRIELA";"8990";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CERVERA ARG¡EZ GABRIELA";"8990";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";16/03/2015;16/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";17/03/2015;17/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";18/03/2015;18/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";19/03/2015;19/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";20/03/2015;20/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";21/03/2015;21/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";22/03/2015;22/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";23/03/2015;23/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";24/03/2015;24/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";25/03/2015;25/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";26/03/2015;26/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";27/03/2015;27/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";28/03/2015;28/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";29/03/2015;29/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";30/03/2015;30/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";31/03/2015;31/03/2015 11:59:00 p. m.;Enfermedad;"incapacidad por maternidad";19/02/2015 05:18:10 p. m.
+"NOVELO COVI¡N BEATRIZ EUGENIA";"9033";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"NOVELO COVI¡N BEATRIZ EUGENIA";"9033";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"NOVELO COVI¡N BEATRIZ EUGENIA";"9033";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"POOL KU TERESA DE JES⁄S";"905";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"POOL KU TERESA DE JES⁄S";"905";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"POOL KU TERESA DE JES⁄S";"905";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+" DE LA CRUZ QUINTANAR MARCO ANTONIO(";"9083";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+" DE LA CRUZ QUINTANAR MARCO ANTONIO(";"9083";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+" DE LA CRUZ QUINTANAR MARCO ANTONIO(";"9083";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"HEREDIA DUR¡N LIZBETH BEATRIZ";"9086";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"HEREDIA DUR¡N LIZBETH BEATRIZ";"9086";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"HEREDIA DUR¡N LIZBETH BEATRIZ";"9086";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CASTILLOS MIJANGOS MARIçA VERONICA";"9116";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CASTILLOS MIJANGOS MARIçA VERONICA";"9116";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CASTILLOS MIJANGOS MARIçA VERONICA";"9116";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CHAN MAY GENER ANTONIO";"9236";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CHAN MAY GENER ANTONIO";"9236";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CHAN MAY GENER ANTONIO";"9236";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"MARTINEZ SABIDO HEVERT ISAAC";"9267";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"MARTINEZ SABIDO HEVERT ISAAC";"9267";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"MARTINEZ SABIDO HEVERT ISAAC";"9267";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"SABIDO CAUICH WENDY ESTH";"9365";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"SABIDO CAUICH WENDY ESTH";"9365";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"SABIDO CAUICH WENDY ESTH";"9365";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CASTILLEJOS AVENDA—O CIELO MARGOT";"9394";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CASTILLEJOS AVENDA—O CIELO MARGOT";"9394";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CASTILLEJOS AVENDA—O CIELO MARGOT";"9394";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CASTILLEJOS AVENDA—O CIELO MARGOT";"9394";23/03/2015 06:30:00 p. m.;23/03/2015 08:00:00 p. m.;Enfermedad;"canstancia";25/03/2015 03:58:03 p. m.
+"CASTRO RUIZ SOLEI";"9395";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CASTRO RUIZ SOLEI";"9395";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CASTRO RUIZ SOLEI";"9395";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"ESPADAS ESCALANTE JUAN JOS…";"9398";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"ESPADAS ESCALANTE JUAN JOS…";"9398";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"ESPADAS ESCALANTE JUAN JOS…";"9398";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"MONTES DE OCA JORGE MOGUEL";"9400";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"MONTES DE OCA JORGE MOGUEL";"9400";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"MONTES DE OCA JORGE MOGUEL";"9400";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"PERAZA DUARTE CINTHIA";"9401";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"PERAZA DUARTE CINTHIA";"9401";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"PERAZA DUARTE CINTHIA";"9401";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"PATR”N HEREDIA ASTRID EUGENIA";"9402";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"PATR”N HEREDIA ASTRID EUGENIA";"9402";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"PATR”N HEREDIA ASTRID EUGENIA";"9402";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"PENICHE HELGUERA MARISOL";"949";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PENICHE HELGUERA MARISOL";"949";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"PENICHE HELGUERA MARISOL";"949";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:31 p. m.
+"CAMPOS APANCO KARLA PATRICIA";"9571";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CAMPOS APANCO KARLA PATRICIA";"9571";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"CAMPOS APANCO KARLA PATRICIA";"9571";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"VARGUEZ CASTILLA GEROGINA GUADALUPE";"9854";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"VARGUEZ CASTILLA GEROGINA GUADALUPE";"9854";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"VARGUEZ CASTILLA GEROGINA GUADALUPE";"9854";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:35 p. m.
+"RIVADENEYRA GUTIERREZ ELENA";"9947";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:36 p. m.
+"RIVADENEYRA GUTIERREZ ELENA";"9947";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:36 p. m.
+"RIVADENEYRA GUTIERREZ ELENA";"9947";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:36 p. m.
+"VILLARREAL FLORES MARIA GUADALUPE";"9976";16/03/2015;16/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:36 p. m.
+"VILLARREAL FLORES MARIA GUADALUPE";"9976";17/03/2015;17/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:36 p. m.
+"VILLARREAL FLORES MARIA GUADALUPE";"9976";18/03/2015;18/03/2015 11:59:00 p. m.;Trabajo;"examenes parciales";11/06/2015 03:05:36 p. m.

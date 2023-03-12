@@ -1,0 +1,413 @@
+Nombre;No-AC;Hora Comienzo;Hora Fin;Tipo de Ausencia;RazÛn;Insertar Fecha
+"CARDE—A CRUZ MARIA GABRIELA";"1154";18/08/2014;18/08/2014 11:59:00 p.m.;Trabajo;"licencia autamuady";20/08/2014 02:35:41 p.m.
+"CARDE—A CRUZ MARIA GABRIELA";"1154";22/08/2014;22/08/2014 11:59:00 p.m.;Trabajo;"solicitud de licencia autamuady";21/08/2014 02:37:18 p.m.
+"VILLANUEVA AVILA MARTHA LIGIA";"1156";20/08/2014 03:30:00 p.m.;20/08/2014 06:30:00 p.m.;Trabajo;"cambio de horario";26/08/2014 04:09:03 p.m.
+"VILLANUEVA AVILA MARTHA LIGIA";"1156";27/08/2014 03:30:00 p.m.;27/08/2014 06:30:00 p.m.;Trabajo;"cambio de horario";09/09/2014 06:48:41 p.m.
+"AVILES MEDINA HERNAN";"1211";18/08/2014;18/08/2014 11:59:00 p.m.;Trabajo;"antiguedad";14/08/2014 04:48:14 p.m.
+"AVILES MEDINA HERNAN";"1211";19/08/2014;19/08/2014 11:59:00 p.m.;Trabajo;"antiguedad";14/08/2014 04:48:14 p.m.
+"AVILES MEDINA HERNAN";"1211";20/08/2014;20/08/2014 11:59:00 p.m.;Trabajo;"antiguedad";14/08/2014 04:48:14 p.m.
+"AVILES MEDINA HERNAN";"1211";27/08/2014;27/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";02/09/2014 07:09:48 p.m.
+"AVILES MEDINA HERNAN";"1211";28/08/2014;28/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";28/08/2014 04:46:20 p.m.
+"PARRA ARCEO MARÕA IVETTE";"1218";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"GARCÕA DÕAZ RITA ISABEL";"1234";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CERVERA RIVERO MARÕA PURIFICACI”N";"1291";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"PECH MILLAN JOSE ALBERTO";"1489";24/08/2014 10:30:00 a.m.;24/08/2014 12:00:00 p.m.;Enfermedad;"constancia";26/08/2014 05:23:34 p.m.
+"DZUL ABREU TOM¡S ARMANDO";"154";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:02 p.m.
+"MENDEZ VEGA JOSE SANTIAGO";"1561";28/08/2014 03:49:00 p.m.;28/08/2014 09:00:00 p.m.;Trabajo;"comision de nomina";05/09/2014 04:59:38 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";21/08/2014 06:50:00 p.m.;21/08/2014 08:00:00 p.m.;Otros;"permiso personal";03/09/2014 06:21:17 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";28/08/2014 06:20:00 p.m.;28/08/2014 08:00:00 p.m.;Enfermedad;"pase";03/09/2014 05:54:18 p.m.
+"VAZQUEZ MA VIANNEY ISELA";"1574";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CHABLE TUN BERTHA ELVIRA";"1576";26/08/2014 11:00:00 a.m.;26/08/2014 12:00:00 p.m.;Trabajo;"devolucion";09/09/2014 06:42:18 p.m.
+"CHABLE TUN BERTHA ELVIRA";"1576";28/08/2014 04:00:00 p.m.;28/08/2014 06:30:00 p.m.;Otros;"cita en el servicio medico";09/09/2014 06:32:09 p.m.
+"MEDINA ELIZALDE ALEJO SANTIAGO";"1587";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"MOGUEL VERA ELSY";"1596";16/08/2014;16/08/2014 11:59:00 p.m.;Enfermedad;"INCAPACIDAD";21/08/2014 04:09:45 p.m.
+"MOGUEL VERA ELSY";"1596";17/08/2014;17/08/2014 11:59:00 p.m.;Enfermedad;"INCAPACIDAD";21/08/2014 04:09:45 p.m.
+"MOGUEL VERA ELSY";"1596";18/08/2014;18/08/2014 11:59:00 p.m.;Enfermedad;"INCAPACIDAD";21/08/2014 04:09:45 p.m.
+"MOGUEL VERA ELSY";"1596";19/08/2014;19/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"MOGUEL VERA ELSY";"1596";20/08/2014;20/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"MOGUEL VERA ELSY";"1596";21/08/2014;21/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"MOGUEL VERA ELSY";"1596";22/08/2014;22/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"MOGUEL VERA ELSY";"1596";23/08/2014;23/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"MOGUEL VERA ELSY";"1596";24/08/2014;24/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"MOGUEL VERA ELSY";"1596";25/08/2014;25/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"MOGUEL VERA ELSY";"1596";26/08/2014;26/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"MOGUEL VERA ELSY";"1596";27/08/2014;27/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"MOGUEL VERA ELSY";"1596";28/08/2014;28/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"MOGUEL VERA ELSY";"1596";29/08/2014;29/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"MOGUEL VERA ELSY";"1596";30/08/2014;30/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:03:57 p.m.
+"PECH CHAN JUAN ANTONIO";"16";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:02 p.m.
+"BALAM PECH ALBERTO";"1647";23/08/2014;23/08/2014 11:59:00 p.m.;Trabajo;"dia economico";21/08/2014 03:27:34 p.m.
+"BALAM PECH ALBERTO";"1647";24/08/2014;24/08/2014 11:59:00 p.m.;Trabajo;"dia economico";21/08/2014 03:27:34 p.m.
+"YAM SOSA MARTHA BEATRIZ";"1654";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"RAMIREZ CONTRERAS DAYANA";"1710";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"PUERTO GRUINTAL HERNANDO JESUS";"1716";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"PINZ”N BALAM JOS… MANUEL";"1737";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"PINZ”N BALAM JOS… MANUEL";"1737";29/08/2014 03:30:00 p.m.;29/08/2014 04:10:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"TORRES CHAC JOSE ANTONIO";"1754";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"BUENFIL DIAZ PEDRO";"1759";16/08/2014;16/08/2014 11:59:00 p.m.;Trabajo;"antiguedad";18/08/2014 02:40:02 p.m.
+"BUENFIL DIAZ PEDRO";"1759";17/08/2014;17/08/2014 11:59:00 p.m.;Trabajo;"antiguedad";18/08/2014 02:40:02 p.m.
+"UC BRICE—O OSCAR DANIEL";"1775";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"UC BRICE—O OSCAR DANIEL";"1775";28/08/2014 07:00:00 a.m.;28/08/2014 10:00:00 a.m.;Trabajo;"devolucion de horas";01/09/2014 02:58:23 p.m.
+"L”PEZ SOLARES YOLANDA LETICIA";"1867";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ESTRADA VAZQUEZ GUADALUP";"1873";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";18/08/2014 12:00:00 p.m.;18/08/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:20:41 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";19/08/2014 12:00:00 p.m.;19/08/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:21:30 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";20/08/2014 12:00:00 p.m.;20/08/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:22:26 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";21/08/2014 12:00:00 p.m.;21/08/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:22:52 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";22/08/2014 12:00:00 p.m.;22/08/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:23:19 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";25/08/2014 12:00:00 p.m.;25/08/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:23:51 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";26/08/2014 12:00:00 p.m.;26/08/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:24:39 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";27/08/2014 12:00:00 p.m.;27/08/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:25:19 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";28/08/2014 12:00:00 p.m.;28/08/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:25:51 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";29/08/2014 12:00:00 p.m.;29/08/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:26:38 p.m.
+"SUNZA CAUICHI JUANA MA.";"1976";20/08/2014 07:56:00 a.m.;20/08/2014 08:56:00 a.m.;Otros;"personal";04/09/2014 07:02:52 p.m.
+"CICERO PEREZ FERNANDO JA";"2086";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";18/08/2014 07:00:00 a.m.;18/08/2014 09:00:00 a.m.;Enfermedad;"rehabilitacion";11/08/2014 05:50:29 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";20/08/2014 07:00:00 a.m.;20/08/2014 02:30:00 p.m.;Trabajo;"devolucion de horas trabajadas";26/08/2014 05:08:29 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";27/08/2014 07:00:00 a.m.;27/08/2014 03:00:00 p.m.;Enfermedad;"rehabilitacion";11/09/2014 03:05:50 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";28/08/2014 07:00:00 a.m.;28/08/2014 09:00:00 a.m.;Enfermedad;"rehabilitacion";11/09/2014 03:55:10 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";29/08/2014 07:00:00 a.m.;29/08/2014 09:00:00 a.m.;Enfermedad;"rehabilitacion";11/09/2014 03:55:41 p.m.
+"P…REZ ESQUIVEL LUZ ELIZABETH";"2143";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CAAMAL VARGAS NATALIA";"2170";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"IMAN MORALES CECILIA DEL SOCORRO";"2173";20/08/2014 10:00:00 a.m.;20/08/2014 08:00:00 p.m.;Trabajo;"antiguedad";18/08/2014 06:27:55 p.m.
+"IMAN MORALES CECILIA DEL SOCORRO";"2173";24/08/2014;24/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:08:50 p.m.
+"IMAN MORALES CECILIA DEL SOCORRO";"2173";25/08/2014;25/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:08:50 p.m.
+"IMAN MORALES CECILIA DEL SOCORRO";"2173";26/08/2014;26/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:08:50 p.m.
+"PENICHE ROSAS AÕDA CONCEPCI”N";"2176";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"PEREZ PALMA JULIA MARGARITA";"2177";29/08/2014 07:00:00 a.m.;29/08/2014 09:00:00 a.m.;Trabajo;"acudio al edificio central de la uady";03/09/2014 04:40:41 p.m.
+"ESPADAS SOLIS JORGE ORLA";"2203";25/08/2014 05:00:00 p.m.;25/08/2014 06:00:00 p.m.;Trabajo;"modificacion de horas";01/09/2014 02:55:30 p.m.
+"ESPADAS SOLIS JORGE ORLA";"2203";26/08/2014 04:00:00 p.m.;26/08/2014 07:00:00 p.m.;Trabajo;"modificacion de horario";01/09/2014 02:57:46 p.m.
+"TRISTAN UC KARLA PATRICI";"2204";20/08/2014 02:00:00 p.m.;20/08/2014 02:40:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"TRISTAN UC KARLA PATRICI";"2204";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ZETINA ZALDIVAR DAVID SALOMON";"2208";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"GIL ARGAEZ JOSE ERNESTO";"2209";16/08/2014 10:19:00 a.m.;16/08/2014 11:30:00 a.m.;Trabajo;"fabrica de uniformes";21/08/2014 04:00:03 p.m.
+"GIL ARGAEZ JOSE ERNESTO";"2209";30/08/2014 11:10:00 a.m.;30/08/2014 11:30:00 a.m.;Trabajo;"prepa 1 practicas";09/09/2014 06:28:13 p.m.
+"RODRIGUEZ HERRERA TERESA DE J.";"223";26/08/2014 01:30:00 p.m.;26/08/2014 02:45:00 p.m.;Trabajo;"trabaj0o de cortado";01/09/2014 04:10:48 p.m.
+"QUINTAL RUZ YESSICA ANDREA";"2242";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"DORANTES PERERA ALVARO";"2320";16/08/2014;16/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";17/08/2014;17/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";18/08/2014;18/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";19/08/2014;19/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";20/08/2014;20/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";21/08/2014;21/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";22/08/2014;22/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";23/08/2014;23/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";24/08/2014;24/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";25/08/2014;25/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";26/08/2014;26/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";27/08/2014;27/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";28/08/2014;28/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";29/08/2014;29/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"DORANTES PERERA ALVARO";"2320";30/08/2014;30/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/08/2014 07:24:04 p.m.
+"GALAVIZ CASANOVA GAVINO";"2380";16/08/2014;16/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";17/08/2014;17/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";18/08/2014;18/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";19/08/2014;19/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";20/08/2014;20/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";21/08/2014;21/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";22/08/2014;22/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";23/08/2014;23/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";24/08/2014;24/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";25/08/2014;25/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";26/08/2014;26/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";27/08/2014;27/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";28/08/2014;28/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";29/08/2014;29/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";30/08/2014;30/08/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"NAVARRETE SOLÕS CARLOS ANTONIO";"2406";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"VALENCIA MAY LUCIANA";"2418";18/08/2014;18/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";21/08/2014 03:52:31 p.m.
+"VALENCIA MAY LUCIANA";"2418";26/08/2014 01:00:00 p.m.;26/08/2014 11:59:00 p.m.;Trabajo;"antiguedad";21/08/2014 03:29:21 p.m.
+"VALENCIA MAY LUCIANA";"2418";27/08/2014;27/08/2014 11:59:00 p.m.;Trabajo;"antiguedad";21/08/2014 03:29:21 p.m.
+"VALENCIA MAY LUCIANA";"2418";28/08/2014;28/08/2014 09:00:00 p.m.;Trabajo;"antiguedad";21/08/2014 03:29:21 p.m.
+"HERRERA CANTO NORMA IGNACIA";"2473";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ALONZO P…REZ RA⁄L FRANCISCO";"2482";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"GAMBOA CIME GABRIELA";"2497";27/08/2014 07:00:00 a.m.;27/08/2014 02:30:00 p.m.;Trabajo;"con goce";10/09/2014 03:04:08 p.m.
+"GONGORA LIZAMA ERNESTO MAYOLO";"2526";18/08/2014 06:00:00 a.m.;18/08/2014 02:00:00 p.m.;Trabajo;"antiguedad";14/08/2014 04:45:33 p.m.
+"GONGORA LIZAMA ERNESTO MAYOLO";"2526";22/08/2014 12:00:00 p.m.;22/08/2014 03:00:00 p.m.;Enfermedad;"pase";26/08/2014 07:05:08 p.m.
+"GONGORA LIZAMA ERNESTO MAYOLO";"2526";27/08/2014 09:00:00 a.m.;27/08/2014 02:00:00 p.m.;Enfermedad;"pase";10/09/2014 03:36:09 p.m.
+"TREJO PE—A JORGE CARLOS";"2550";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"OLAIS LOEZA MANUEL ANTONIO DE JES⁄S";"2575";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ALEJANDRE CANUL BALTAZAR CONCEPCI”N";"2643";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ALONZO SALOMON";"2656";25/08/2014;25/08/2014 11:59:00 p.m.;Trabajo;"sedesol juegos estatales jalisco";10/07/2014 05:05:00 p.m.
+"ALONZO SALOMON";"2656";26/08/2014;26/08/2014 11:59:00 p.m.;Trabajo;"sedesol juegos estatales jalisco";10/07/2014 05:05:00 p.m.
+"ALONZO SALOMON";"2656";27/08/2014;27/08/2014 11:59:00 p.m.;Trabajo;"sedesol juegos estatales jalisco";10/07/2014 05:05:00 p.m.
+"ALONZO SALOMON";"2656";28/08/2014;28/08/2014 11:59:00 p.m.;Trabajo;"sedesol juegos estatales jalisco";10/07/2014 05:05:00 p.m.
+"ALONZO SALOMON";"2656";29/08/2014;29/08/2014 11:59:00 p.m.;Trabajo;"sedesol juegos estatales jalisco";10/07/2014 05:05:00 p.m.
+"ALONZO SALOMON";"2656";30/08/2014;30/08/2014 11:59:00 p.m.;Trabajo;"sedesol juegos estatales jalisco";10/07/2014 05:05:00 p.m.
+"RAMIREZ PE—A CARLOS SATURNINO";"2734";22/08/2014 12:30:00 p.m.;22/08/2014 02:00:00 p.m.;Enfermedad;"constancia";26/08/2014 05:22:31 p.m.
+"RAMIREZ PE—A CARLOS SATURNINO";"2734";29/08/2014 08:00:00 a.m.;29/08/2014 11:00:00 a.m.;Otros;"personal";09/09/2014 06:30:14 p.m.
+"CANTO ESCOFFIE WILBERTH URBANO";"2780";21/08/2014 07:00:00 a.m.;21/08/2014 09:10:00 a.m.;Enfermedad;"constancia";21/08/2014 03:53:37 p.m.
+"CANTO ESCOFFIE WILBERTH URBANO";"2780";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"DIP LE”N SANDRA";"2782";19/08/2014 08:00:00 a.m.;19/08/2014 10:00:00 a.m.;Enfermedad;"constancia";27/08/2014 05:45:43 p.m.
+"DIP LE”N SANDRA";"2782";19/08/2014 11:15:00 a.m.;19/08/2014 01:10:00 p.m.;Enfermedad;"constancia";27/08/2014 05:47:38 p.m.
+"DIP LE”N SANDRA";"2782";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"AM¡BILIS MARÕN MALEY MARISOL";"2796";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"PENICHE SOUZA JORGE ALBERTO DE JES⁄S";"2797";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"RODRÕGUEZ TUT ENRIQUE ANTONIO";"2888";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";26/08/2014 10:50:00 a.m.;26/08/2014 11:40:00 a.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"NOVELO CAMARA JULIO ENRIQUE";"2891";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";28/08/2014;28/08/2014 11:59:00 p.m.;Trabajo;"gestion ambiental";02/09/2014 07:22:32 p.m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";29/08/2014 05:10:00 p.m.;29/08/2014 05:50:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"ANCONA CORREA FLOR SILVESTRE";"2941";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"P…REZ MIRANDA LUIS AMADO";"2943";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CONTRERAS SANTAMARIA MIGUEL ANGEL";"2961";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"AVILA ALCOCER DIANELA JOSELINE";"3056";19/08/2014 07:00:00 a.m.;19/08/2014 03:00:00 p.m.;Trabajo;"taller";02/09/2014 05:26:24 p.m.
+"TUN PECH LEIDY CATALINA";"3203";19/08/2014 11:00:00 a.m.;19/08/2014 12:00:00 p.m.;Otros;"PERSONAL";02/09/2014 06:57:40 p.m.
+"BARBUDO SANTOYO PERLA CRISTINA";"3388";22/08/2014;22/08/2014 11:59:00 p.m.;Trabajo;"dia economico";20/08/2014 02:36:29 p.m.
+"BARBUDO SANTOYO PERLA CRISTINA";"3388";27/08/2014 10:20:00 a.m.;27/08/2014 12:00:00 p.m.;Enfermedad;"constancia";27/08/2014 05:18:13 p.m.
+"TUYUB COLLI L LEOVIGILDO";"3431";20/08/2014 01:00:00 p.m.;20/08/2014 09:00:00 p.m.;Trabajo;"antiguedad";14/08/2014 04:50:20 p.m.
+"CENTURION PENICHE MIGUEL HEBERT";"3628";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"PINO MEDINA MIRIAM";"3841";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"MAY ALCOCER JORGE ARMANDO";"3908";21/08/2014;21/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:01:11 p.m.
+"MAY ALCOCER JORGE ARMANDO";"3908";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CHIM QUINTAL SILVIA PATRICIA";"3938";21/08/2014 05:50:00 p.m.;21/08/2014 06:40:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"CHIM QUINTAL SILVIA PATRICIA";"3938";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"SEGURA BLANCO DIANA MARISELA";"3969";25/08/2014 12:00:00 p.m.;25/08/2014 08:00:00 p.m.;Trabajo;"dia economico";21/08/2014 03:26:52 p.m.
+"SEGURA BLANCO DIANA MARISELA";"3969";29/08/2014 06:30:00 p.m.;29/08/2014 08:00:00 p.m.;Enfermedad;"pase";04/09/2014 03:22:15 p.m.
+"SALAS BRITO HOLDA YOLANDA";"406";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:02 p.m.
+"ANCONA ANCONA FLOR DE ACACIA";"430";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ESCAMILLA OJEDA HAYDEE";"4627";25/08/2014 08:00:00 a.m.;25/08/2014 04:00:00 p.m.;Trabajo;"dias economicos";19/08/2014 02:37:01 p.m.
+"FLORES TREJO ELMA";"56";19/08/2014;19/08/2014 11:59:00 p.m.;Enfermedad;"INCAPACIDAD";21/08/2014 04:07:05 p.m.
+"FLORES TREJO ELMA";"56";20/08/2014 08:00:00 a.m.;20/08/2014 03:30:00 p.m.;Trabajo;"antiguedad";21/08/2014 03:54:29 p.m.
+"FIGUEROA P…REZ MANUEL ARMANDO";"577";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"FIGUEROA P…REZ MANUEL ARMANDO";"577";28/08/2014 02:00:00 p.m.;28/08/2014 08:00:00 p.m.;Trabajo;"economico";09/09/2014 03:34:07 p.m.
+"TUN PECH FLOR ALEJANDRA";"6089";20/08/2014 07:00:00 a.m.;20/08/2014 08:00:00 a.m.;Enfermedad;"analisis clinicos";26/08/2014 07:02:42 p.m.
+"TUN PECH FLOR ALEJANDRA";"6089";25/08/2014 07:00:00 a.m.;25/08/2014 02:30:00 p.m.;Otros;"personal";02/09/2014 05:24:39 p.m.
+"CERVERA MORALES GABRIEL ENRIQUE";"6178";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"GARCIA SANCHEZ JOSE";"6198";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CAAMAL M¡RMOL VER”NICA MARGARITA";"6312";29/08/2014;29/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";02/09/2014 07:06:35 p.m.
+"PALEO CARRILLO MANUEL JOS…";"6313";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"COB MAY WENDY ARACELLY";"6323";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CAMARGO P…REZ MATEO";"648";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"NU—EZ GOMEZ ANGELICA DEL CARMEN";"6515";21/08/2014 02:00:00 p.m.;21/08/2014 08:00:00 p.m.;Trabajo;"economico";21/08/2014 03:55:42 p.m.
+"NU—EZ GOMEZ ANGELICA DEL CARMEN";"6515";25/08/2014;25/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:00:17 p.m.
+"NU—EZ GOMEZ ANGELICA DEL CARMEN";"6515";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"XOOL RAMOS DALIA YADIRA";"6526";25/08/2014 02:00:00 p.m.;25/08/2014 08:00:00 p.m.;Trabajo;"economico";22/08/2014 02:36:57 p.m.
+"XOOL RAMOS DALIA YADIRA";"6526";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"TZUC SIM¡ JOS… ALBERTO";"6554";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"GONZ¡LEZ PAVÕA IRENE DEL SOCORRO";"6556";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"HERRERA QUINTAL ELSY GUADALUPE";"6691";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"COHEN ¡LVAREZ KAREN";"6822";18/08/2014;18/08/2014 11:59:00 p.m.;Enfermedad;"INCAPACIDAD";21/08/2014 04:17:23 p.m.
+"COHEN ¡LVAREZ KAREN";"6822";22/08/2014;22/08/2014 11:59:00 p.m.;Enfermedad;"CONSTANCIA AUTORIZADA X EL MAESTRO TOMAS";02/09/2014 06:40:19 p.m.
+"COHEN ¡LVAREZ KAREN";"6822";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"KOYOC NOH ¡NGEL FRANCISCO";"6827";21/08/2014 01:15:00 p.m.;21/08/2014 02:00:00 p.m.;Trabajo;"comision";03/09/2014 04:57:56 p.m.
+"KOYOC NOH ¡NGEL FRANCISCO";"6827";28/08/2014 01:15:00 p.m.;28/08/2014 02:00:00 p.m.;Trabajo;"cambio de horario";03/09/2014 04:58:30 p.m.
+"HOYOS HERNANDEZ MANUEL";"6829";27/08/2014 09:00:00 a.m.;27/08/2014 12:00:00 p.m.;Trabajo;"dia economico";26/08/2014 03:16:34 p.m.
+"GAMBOA SANSORES KARINA AZUCENA";"6870";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CRIOLLO ACHACH CINTHYA BADIA";"6881";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"FAJARDO P…REZ EDGAR FERNANDO";"6996";25/08/2014 11:30:00 a.m.;25/08/2014 12:10:00 p.m.;Enfermedad;"rehabilitacion";03/09/2014 06:59:56 p.m.
+"FAJARDO P…REZ EDGAR FERNANDO";"6996";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"SANSORES GUTI…RREZ EDGAR JOS… ZACARÕAS";"7098";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ARCILA MAT⁄ MARÕA DEL CARMEN";"7117";19/08/2014;19/08/2014 11:59:00 p.m.;Enfermedad;"INCAPACIDAD";21/08/2014 04:10:31 p.m.
+"ARCILA MAT⁄ MARÕA DEL CARMEN";"7117";20/08/2014;20/08/2014 11:59:00 p.m.;Enfermedad;"INCAPACIDAD";21/08/2014 04:10:31 p.m.
+"ARCILA MAT⁄ MARÕA DEL CARMEN";"7117";24/08/2014;24/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:04:29 p.m.
+"ARCILA MAT⁄ MARÕA DEL CARMEN";"7117";25/08/2014;25/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:04:29 p.m.
+"ARCILA MAT⁄ MARÕA DEL CARMEN";"7117";26/08/2014;26/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:04:29 p.m.
+"ECHANOVE VARGUEZ ALVARO";"7128";21/08/2014 02:32:00 p.m.;21/08/2014 06:30:00 p.m.;Trabajo;"entrega de reglamento";27/08/2014 05:44:39 p.m.
+"ECHANOVE VARGUEZ ALVARO";"7128";23/08/2014 12:50:00 p.m.;23/08/2014 01:45:00 p.m.;Trabajo;"junta en deportivo uady";26/08/2014 03:27:19 p.m.
+"ECHANOVE VARGUEZ ALVARO";"7128";29/08/2014 03:00:00 p.m.;29/08/2014 06:30:00 p.m.;Trabajo;"batallon";09/09/2014 06:27:17 p.m.
+"ECHANOVE VARGUEZ ALVARO";"7128";30/08/2014 07:00:00 a.m.;30/08/2014 01:45:00 p.m.;Trabajo;"ensayo de desfile en prepa 1";03/09/2014 05:14:46 p.m.
+"COOL CARDE—A JORGE CARLOS";"721";19/08/2014 01:45:00 p.m.;19/08/2014 03:45:00 p.m.;Otros;"permisos personal";20/08/2014 02:47:18 p.m.
+"COOL CARDE—A JORGE CARLOS";"721";21/08/2014 01:45:00 p.m.;21/08/2014 03:45:00 p.m.;Otros;"personal";21/08/2014 03:50:53 p.m.
+"COOL CARDE—A JORGE CARLOS";"721";22/08/2014 06:00:00 a.m.;22/08/2014 03:00:00 p.m.;Trabajo;"dia economico";18/08/2014 02:37:29 p.m.
+"COOL CARDE—A JORGE CARLOS";"721";25/08/2014 06:00:00 a.m.;25/08/2014 04:00:00 p.m.;Trabajo;"antiguedad";18/08/2014 02:38:14 p.m.
+"COOL CARDE—A JORGE CARLOS";"721";28/08/2014 12:30:00 p.m.;28/08/2014 12:51:00 p.m.;Otros;"personal";02/09/2014 06:11:10 p.m.
+"CANCHE ARCEO GABRIEL ADRIAN";"7295";25/08/2014 04:00:00 p.m.;25/08/2014 08:30:00 p.m.;Trabajo;"cambio de horario";27/08/2014 05:28:12 p.m.
+"CANCHE ARCEO GABRIEL ADRIAN";"7295";28/08/2014 01:00:00 p.m.;28/08/2014 08:30:00 p.m.;Otros;"personal";02/09/2014 04:54:46 p.m.
+"ROMERO HERNANDEZ DONY";"7354";26/08/2014;26/08/2014 11:59:00 p.m.;Trabajo;"festival internacional de la cultura maya";26/08/2014 03:04:32 p.m.
+"PUC V¡ZQUEZ MIGUEL ¡NGEL";"7376";18/08/2014 06:30:00 p.m.;18/08/2014 08:00:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"PUC V¡ZQUEZ MIGUEL ¡NGEL";"7376";19/08/2014 02:00:00 p.m.;19/08/2014 03:30:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"PUC V¡ZQUEZ MIGUEL ¡NGEL";"7376";21/08/2014 02:00:00 p.m.;21/08/2014 03:30:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"PUC V¡ZQUEZ MIGUEL ¡NGEL";"7376";25/08/2014 03:20:00 p.m.;25/08/2014 05:10:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"PUC V¡ZQUEZ MIGUEL ¡NGEL";"7376";26/08/2014 04:50:00 p.m.;26/08/2014 05:50:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"PUC V¡ZQUEZ MIGUEL ¡NGEL";"7376";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"SOSA CRESPO IRVING FRANCISCO";"7379";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"BEJAR LARROCHA JOS… DAGOBERTO";"7381";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CANO BLANCO MARILU";"7474";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"MARTINEZ RENDIS ROCIO";"75";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:02 p.m.
+"VAZQUEZ HERNANDEZ DANIEL";"7500";24/08/2014;24/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:05:23 p.m.
+"VAZQUEZ HERNANDEZ DANIEL";"7500";25/08/2014;25/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:05:23 p.m.
+"VAZQUEZ HERNANDEZ DANIEL";"7500";26/08/2014;26/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:05:23 p.m.
+"CETINA G”MEZ DIEGO ALONSO";"7582";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CONCHA CANUL ELY FABIOLA";"7589";22/08/2014 01:30:00 p.m.;22/08/2014 03:30:00 p.m.;Trabajo;"devolucion de horas";01/09/2014 02:35:25 p.m.
+"CONCHA CANUL ELY FABIOLA";"7589";29/08/2014 02:00:00 p.m.;29/08/2014 03:30:00 p.m.;Trabajo;"devolucion de horas";04/09/2014 03:08:58 p.m.
+"CUTZ UCAN MIGUEL ANGEL";"7615";27/08/2014 11:00:00 a.m.;27/08/2014 01:10:00 p.m.;Enfermedad;"constancia";28/08/2014 04:44:32 p.m.
+"MANRIQUE PEREZ CAROLINA ELIZABETH";"7619";21/08/2014 08:00:00 a.m.;21/08/2014 09:00:00 a.m.;Trabajo;"modificacion de horarios";27/08/2014 05:41:36 p.m.
+"MANRIQUE PEREZ CAROLINA ELIZABETH";"7619";26/08/2014 01:30:00 p.m.;26/08/2014 04:00:00 p.m.;Trabajo;"devolucion por junta de padres";01/09/2014 04:14:18 p.m.
+"MANRIQUE PEREZ CAROLINA ELIZABETH";"7619";27/08/2014 08:00:00 a.m.;27/08/2014 08:30:00 a.m.;Trabajo;"citas de bajas";01/09/2014 04:16:01 p.m.
+"BARAHONA CAAMAL SAHARA RUTH";"7622";20/08/2014 01:00:00 p.m.;20/08/2014 09:00:00 p.m.;Trabajo;"dia economico";14/08/2014 04:49:34 p.m.
+"BARAHONA CAAMAL SAHARA RUTH";"7622";25/08/2014 05:00:00 p.m.;25/08/2014 07:00:00 p.m.;Enfermedad;"constancia";27/08/2014 03:24:25 p.m.
+"MOO TUN FIDEL ABRAHAM";"7674";28/08/2014 04:45:00 p.m.;28/08/2014 07:00:00 p.m.;Enfermedad;"PASE";02/09/2014 06:43:14 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";18/08/2014 05:40:00 p.m.;18/08/2014 07:30:00 p.m.;Trabajo;"cambio de horario";05/09/2014 05:40:02 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";19/08/2014 05:30:00 p.m.;19/08/2014 07:30:00 p.m.;Trabajo;"cambio de horario";05/09/2014 05:41:27 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";20/08/2014 05:30:00 p.m.;20/08/2014 07:30:00 p.m.;Trabajo;"cambio de hrs";05/09/2014 05:41:50 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";21/08/2014 05:30:00 p.m.;21/08/2014 07:30:00 p.m.;Trabajo;"cambio de horario";05/09/2014 05:42:34 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";22/08/2014 03:30:00 p.m.;22/08/2014 07:30:00 p.m.;Trabajo;"cambio de horario";05/09/2014 05:39:35 p.m.
+"ABREU CANO KARINA MARLENE";"7706";24/08/2014;24/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:06:18 p.m.
+"ABREU CANO KARINA MARLENE";"7706";25/08/2014;25/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:06:18 p.m.
+"ABREU CANO KARINA MARLENE";"7706";26/08/2014;26/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:06:18 p.m.
+"BAGUNDO CIAU IRENE";"7724";18/08/2014 03:00:00 p.m.;18/08/2014 03:30:00 p.m.;Trabajo;"modificacion de horario";04/09/2014 07:33:30 p.m.
+"BAGUNDO CIAU IRENE";"7724";19/08/2014 02:00:00 p.m.;19/08/2014 03:30:00 p.m.;Trabajo;"devolucion de horas trabajadas";04/09/2014 07:32:13 p.m.
+"BAGUNDO CIAU IRENE";"7724";25/08/2014 02:00:00 p.m.;25/08/2014 03:30:00 p.m.;Trabajo;"modificacion de horario";04/09/2014 07:40:34 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";16/08/2014;16/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";17/08/2014;17/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";18/08/2014;18/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";19/08/2014;19/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";20/08/2014;20/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";21/08/2014;21/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";22/08/2014;22/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";23/08/2014;23/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";24/08/2014;24/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";25/08/2014;25/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";26/08/2014;26/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";27/08/2014;27/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";28/08/2014;28/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";29/08/2014;29/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";30/08/2014;30/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"CORREA PECH EDWINA PAOLA";"7757";18/08/2014 03:30:00 p.m.;18/08/2014 07:00:00 p.m.;Trabajo;"cambio de horario";09/09/2014 06:50:39 p.m.
+"CORREA PECH EDWINA PAOLA";"7757";21/08/2014 03:30:00 p.m.;21/08/2014 07:00:00 p.m.;Trabajo;"cambio de horario";09/09/2014 06:53:01 p.m.
+"CORREA PECH EDWINA PAOLA";"7757";22/08/2014 03:30:00 p.m.;22/08/2014 07:00:00 p.m.;Trabajo;"cambio de horario";09/09/2014 06:53:31 p.m.
+"ARG¡EZ GARCÕA NELLY";"7761";22/08/2014;22/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";26/08/2014 07:01:49 p.m.
+"ARG¡EZ GARCÕA NELLY";"7761";24/08/2014;24/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:07:59 p.m.
+"ARG¡EZ GARCÕA NELLY";"7761";25/08/2014;25/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:07:59 p.m.
+"ARG¡EZ GARCÕA NELLY";"7761";26/08/2014;26/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:07:59 p.m.
+"AVIL…S DENIS ALHELÕ DE JES⁄S";"7763";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CETINA BASTINA ALEIDA";"7831";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"VIRAMONTES SU¡REZ DIEGO ROBERTO";"7834";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"GONGORA MARQUEZ ELIOZABETH";"7841";26/08/2014 10:00:00 a.m.;26/08/2014 01:00:00 p.m.;Trabajo;"modificacion de horario";04/09/2014 07:38:53 p.m.
+"GONGORA MARQUEZ ELIOZABETH";"7841";29/08/2014 04:00:00 p.m.;29/08/2014 06:00:00 p.m.;Trabajo;"modificacion de horario";04/09/2014 07:39:38 p.m.
+"BACAB MAY JOSE LORENZO";"7932";29/08/2014 06:00:00 a.m.;29/08/2014 02:00:00 p.m.;Trabajo;"sin goce";10/09/2014 03:07:49 p.m.
+"PEREZ MENA DREIDY";"7955";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"KU ERGUERA JUAN ROMAN";"7965";21/08/2014 07:09:00 p.m.;21/08/2014 07:58:00 p.m.;Trabajo;"fua a cotizar material de botiquin";26/08/2014 05:04:11 p.m.
+"KU ERGUERA JUAN ROMAN";"7965";22/08/2014 03:03:00 p.m.;22/08/2014 03:54:00 p.m.;Trabajo;"llevar a la directora (comision)";26/08/2014 04:19:02 p.m.
+"KU ERGUERA JUAN ROMAN";"7965";23/08/2014 10:00:00 a.m.;23/08/2014 03:00:00 p.m.;Trabajo;"corrio su horario en dia economico";21/08/2014 03:11:56 p.m.
+"HEREDIA DUR¡N LUIS ANTONIO";"7969";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CALDER”N P…REZ ASTRID YARELI";"7972";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";16/08/2014;16/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/05/2014 06:00:38 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";18/08/2014;18/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:53 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";19/08/2014;19/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:53 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";20/08/2014;20/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:54 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";21/08/2014;21/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:54 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";22/08/2014;22/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:54 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";23/08/2014;23/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:54 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";24/08/2014;24/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:54 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";25/08/2014;25/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:54 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";26/08/2014;26/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:54 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";27/08/2014;27/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:54 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";28/08/2014;28/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:54 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";29/08/2014;29/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:54 p.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";30/08/2014;30/08/2014 11:59:00 p.m.;Enfermedad;"ampliacion de incapacidad por periodo vacacional";15/08/2014 04:32:54 p.m.
+"SERRANO ZOZAYA ELSI MARIA";"8022";21/08/2014;21/08/2014 11:59:00 p.m.;Trabajo;"dia economico";18/08/2014 02:38:52 p.m.
+"SERRANO ZOZAYA ELSI MARIA";"8022";22/08/2014;22/08/2014 11:59:00 p.m.;Trabajo;"dia economico";18/08/2014 02:38:52 p.m.
+"G”MEZ QUINTAL ROSA MARÕA DEL PILAR";"8177";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"M¡RQUEZ G”MEZ JOS… CAMERINO";"8256";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ECHEVERRÕA NAVARRO LUIS ALBERTO";"8259";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"PINTO RODRÕGUEZ AURELIANO RAFAEL";"838";24/08/2014;24/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:09:51 p.m.
+"PINTO RODRÕGUEZ AURELIANO RAFAEL";"838";25/08/2014;25/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:09:51 p.m.
+"PINTO RODRÕGUEZ AURELIANO RAFAEL";"838";26/08/2014;26/08/2014 11:59:00 p.m.;Trabajo;"jornada de calidad";27/08/2014 06:09:51 p.m.
+"ALFARO CORREA ERICK AD¡N";"8455";21/08/2014 10:50:00 a.m.;21/08/2014 11:40:00 a.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"ALFARO CORREA ERICK AD¡N";"8455";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CENTURION FERNANDEZ ALEJANDRA VICTORIA";"8460";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"GAMBOA LIZAMA LIZANDRO DE JES⁄S";"8461";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"TORRES S¡NCHEZ MANUEL";"8466";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ARANDA GAMBOA EFRAIN";"8468";30/08/2014;30/08/2014 11:59:00 p.m.;Otros;"IDEY";02/09/2014 06:13:31 p.m.
+"MATEY CHAN LIGIA PATRICIA";"851";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";20/08/2014 11:50:00 a.m.;20/08/2014 02:30:00 p.m.;Trabajo;"campras del departamento";21/08/2014 03:43:50 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";21/08/2014 08:14:00 a.m.;21/08/2014 09:00:00 a.m.;Trabajo;"llevo maestros a la sep";21/08/2014 03:38:19 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";21/08/2014 09:43:00 a.m.;21/08/2014 10:14:00 a.m.;Trabajo;"comision directora";21/08/2014 03:48:16 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";21/08/2014 12:54:00 p.m.;21/08/2014 01:25:00 p.m.;Trabajo;"comision fue a sep por maestros";26/08/2014 05:05:46 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";22/08/2014 08:12:00 a.m.;22/08/2014 09:31:00 a.m.;Trabajo;"comision";26/08/2014 05:13:55 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";22/08/2014 10:40:00 a.m.;22/08/2014 02:09:00 p.m.;Trabajo;"comision";26/08/2014 05:14:39 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";22/08/2014 02:51:00 p.m.;22/08/2014 02:58:00 p.m.;Trabajo;"comision";26/08/2014 05:12:48 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";23/08/2014 08:16:00 a.m.;23/08/2014 09:58:00 a.m.;Trabajo;"compras";26/08/2014 03:39:15 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";23/08/2014 11:22:00 a.m.;23/08/2014 11:46:00 a.m.;Trabajo;"fue por camioneta";26/08/2014 03:47:32 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";25/08/2014 10:21:00 a.m.;25/08/2014 11:38:00 a.m.;Trabajo;"compras";26/08/2014 03:06:20 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";26/08/2014 09:09:00 a.m.;26/08/2014 10:11:00 a.m.;Trabajo;"comision";02/09/2014 05:22:53 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";26/08/2014 02:25:00 p.m.;26/08/2014 03:03:00 p.m.;Trabajo;"comision";02/09/2014 05:03:24 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";27/08/2014 07:33:00 a.m.;27/08/2014 08:46:00 a.m.;Trabajo;"comision";02/09/2014 05:04:17 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";27/08/2014 10:45:00 a.m.;27/08/2014 12:13:00 p.m.;Trabajo;"comision";02/09/2014 05:04:49 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";28/08/2014 07:30:00 a.m.;28/08/2014 04:00:00 p.m.;Trabajo;"comisiones durante el dia";01/09/2014 04:23:08 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";29/08/2014 07:38:00 a.m.;29/08/2014 02:38:00 p.m.;Trabajo;"comision";02/09/2014 05:20:20 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";30/08/2014 09:44:00 a.m.;30/08/2014 11:32:00 a.m.;Trabajo;"comision";02/09/2014 05:21:03 p.m.
+"CARRILLO KUMUL RAFAEL ANTONIO";"8667";21/08/2014 06:00:00 p.m.;21/08/2014 07:00:00 p.m.;Trabajo;"comision";26/08/2014 05:20:23 p.m.
+"CARRILLO KUMUL RAFAEL ANTONIO";"8667";30/08/2014 07:00:00 a.m.;30/08/2014 08:30:00 a.m.;Trabajo;"ensayo en prepa 1";08/09/2014 03:14:20 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";16/08/2014;16/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";17/08/2014;17/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";18/08/2014;18/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";19/08/2014;19/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";20/08/2014;20/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";21/08/2014;21/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";22/08/2014;22/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";23/08/2014;23/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";24/08/2014;24/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";25/08/2014;25/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";26/08/2014;26/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";27/08/2014;27/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";28/08/2014;28/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";29/08/2014;29/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";30/08/2014;30/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:06:13 p.m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CANUL RODRÕGUEZ DOUGLAS RAM”N";"8793";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"RIO HERRERA LIGIA";"8800";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"DUARTE CEBALLOS ARTURO";"8808";20/08/2014 11:40:00 a.m.;20/08/2014 01:00:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"SANTOS BERMEJO MARÕA GUADALUPE";"8882";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"SANTOS BERMEJO MARÕA GUADALUPE";"8882";27/08/2014 02:00:00 p.m.;27/08/2014 08:00:00 p.m.;Trabajo;"antiguedad";26/08/2014 03:22:28 p.m.
+"DUARTE QUINTAL LIGIA BEATRIZ";"894";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"FAJARDO P…REZ LUIS ENRIQUE";"8950";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"GAMAS TRUJILLO PABLO ALEJANDRO";"8951";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CHAN POOL ANTONIO";"8978";29/08/2014 11:00:00 a.m.;29/08/2014 03:00:00 p.m.;Trabajo;"dia economico";10/09/2014 03:20:22 p.m.
+"CARVAJAL COHUO JESUS ANTONIO";"8988";27/08/2014 05:00:00 p.m.;27/08/2014 06:30:00 p.m.;Otros;"agendar seminario";04/09/2014 07:09:19 p.m.
+"ARROYO ANGULO MARIA MARGARITA";"8989";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CERVERA ARG¡EZ GABRIELA";"8990";25/08/2014 09:10:00 a.m.;25/08/2014 10:10:00 a.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"CERVERA ARG¡EZ GABRIELA";"8990";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CERVERA ARG¡EZ GABRIELA";"8990";28/08/2014 06:30:00 a.m.;28/08/2014 09:00:00 a.m.;Enfermedad;"CONSTANCIA";02/09/2014 06:55:33 p.m.
+"CERVERA ARG¡EZ GABRIELA";"8990";29/08/2014 02:00:00 p.m.;29/08/2014 03:20:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"NOVELO COVI¡N BEATRIZ EUGENIA";"9033";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"POOL KU TERESA DE JES⁄S";"905";26/08/2014 07:00:00 a.m.;26/08/2014 01:00:00 p.m.;Trabajo;"antiguedad";22/08/2014 02:38:20 p.m.
+"POOL KU TERESA DE JES⁄S";"905";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+" DE LA CRUZ QUINTANAR MARCO ANTONIO(";"9083";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"HEREDIA DUR¡N LIZBETH BEATRIZ";"9086";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"OJEDA ROSADO ALVA PAMELA";"9107";25/08/2014;25/08/2014 11:59:00 p.m.;Trabajo;"junta de padres";01/09/2014 04:13:24 p.m.
+"OJEDA ROSADO ALVA PAMELA";"9107";26/08/2014;26/08/2014 11:59:00 p.m.;Trabajo;"junta de padres";01/09/2014 04:13:24 p.m.
+"CASTILLOS MIJANGOS MARIçA VERONICA";"9116";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"MENDICUTI MARTIN GLORIA MARIANA";"9138";28/08/2014;28/08/2014 11:59:00 p.m.;Trabajo;"recuperacion de horas";05/09/2014 04:55:56 p.m.
+"MENDICUTI MARTIN GLORIA MARIANA";"9138";29/08/2014;29/08/2014 11:59:00 p.m.;Trabajo;"recuperacion de horas";05/09/2014 04:55:56 p.m.
+"LEON MEDINA AMAURY";"9235";22/08/2014 10:30:00 a.m.;22/08/2014 12:30:00 p.m.;Trabajo;"TALLERES Y SEGEY";03/09/2014 07:21:58 p.m.
+"CHAN MAY GENER ANTONIO";"9236";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"TRICHAN TORAYA NAZARENA";"9255";26/08/2014 11:00:00 a.m.;26/08/2014 01:00:00 p.m.;Trabajo;"modificacion de horario";04/09/2014 07:38:16 p.m.
+"TRICHAN TORAYA NAZARENA";"9255";29/08/2014 04:00:00 p.m.;29/08/2014 07:00:00 p.m.;Trabajo;"modificacion de horario";04/09/2014 07:41:19 p.m.
+"MARTINEZ SABIDO HEVERT ISAAC";"9267";25/08/2014 03:30:00 p.m.;25/08/2014 04:50:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"MARTINEZ SABIDO HEVERT ISAAC";"9267";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"MARTINEZ SABIDO HEVERT ISAAC";"9267";27/08/2014 04:50:00 p.m.;27/08/2014 05:50:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"SABIDO CAUICH WENDY ESTH";"9365";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CASTILLEJOS AVENDA—O CIELO MARGOT";"9394";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ESPADAS ESCALANTE JUAN JOS…";"9398";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"MONTES DE OCA JORGE MOGUEL";"9400";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"PERAZA DUARTE CINTHIA";"9401";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"PATR”N HEREDIA ASTRID EUGENIA";"9402";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"EROSA ESQUIVEL GLORIA MARIA";"9419";29/08/2014 02:00:00 p.m.;29/08/2014 04:00:00 p.m.;Trabajo;"devolucion de hrs";04/09/2014 07:37:29 p.m.
+"COUOH CASTA—EDA ETZIGUERI GPE.";"9421";29/08/2014 07:45:00 p.m.;29/08/2014 08:15:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 03:37:25 p.m.
+"PENICHE HELGUERA MARISOL";"949";20/08/2014 10:50:00 a.m.;20/08/2014 11:40:00 a.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"PENICHE HELGUERA MARISOL";"949";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"CAMPOS APANCO KARLA PATRICIA";"9571";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"NOVELO CABA—AS JOSE ROBERTO";"9577";16/08/2014;16/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:39:33 p.m.
+"NOVELO CABA—AS JOSE ROBERTO";"9577";17/08/2014;17/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:39:33 p.m.
+"NOVELO CABA—AS JOSE ROBERTO";"9577";18/08/2014;18/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:39:33 p.m.
+"NOVELO CABA—AS JOSE ROBERTO";"9577";19/08/2014;19/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:39:33 p.m.
+"NOVELO CABA—AS JOSE ROBERTO";"9577";20/08/2014;20/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:39:33 p.m.
+"NOVELO CABA—AS JOSE ROBERTO";"9577";21/08/2014;21/08/2014 11:59:00 p.m.;Enfermedad;"incapacidad";14/08/2014 04:39:33 p.m.
+"ADD RENDON DAVID ISRAEL";"9790";23/08/2014 07:00:00 a.m.;23/08/2014 10:15:00 a.m.;Trabajo;"nacional en morelos";26/08/2014 05:21:38 p.m.
+"ADD RENDON DAVID ISRAEL";"9790";30/08/2014;30/08/2014 11:59:00 p.m.;Otros;"IDEY";02/09/2014 06:24:22 p.m.
+"VARGUEZ CASTILLA GEROGINA GUADALUPE";"9854";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"BURGOS BRAGA DIANA MELISSA";"9964";27/08/2014 11:00:00 a.m.;27/08/2014 01:30:00 p.m.;Trabajo;"devolucion de horas";01/09/2014 03:00:53 p.m.
+"VILLARREAL FLORES MARIA GUADALUPE";"9976";26/08/2014 07:30:00 p.m.;26/08/2014 08:00:00 p.m.;Otros;"por junta de padres de familia";26/08/2014 07:07:03 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";19/08/2014 05:30:00 p.m.;19/08/2014 07:00:00 p.m.;Trabajo;"atencion a citas de bajas";26/08/2014 07:11:04 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";21/08/2014 03:00:00 p.m.;21/08/2014 07:00:00 p.m.;Trabajo;"seguimiento academico";26/08/2014 07:10:29 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";27/08/2014 11:00:00 a.m.;27/08/2014 01:00:00 p.m.;Trabajo;"devolucion de horas";01/09/2014 04:17:01 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";28/08/2014 03:00:00 p.m.;28/08/2014 07:00:00 p.m.;Trabajo;"seguimiento academico";01/09/2014 04:17:40 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";29/08/2014 11:00:00 a.m.;29/08/2014 11:30:00 a.m.;Trabajo;"devolucion de horas";10/09/2014 06:12:22 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";29/08/2014 05:30:00 p.m.;29/08/2014 07:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:13:00 p.m.

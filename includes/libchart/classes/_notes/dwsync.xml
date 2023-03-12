@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Point.php" local="129718984151917605" remote="129718984150000000" testing="247957051932704" />
+<file name="Axis.php" local="129718984149617605" remote="129718984140000000" testing="247957051932704" />
+<file name="Color.php" local="129718984150687605" remote="129718984150000000" testing="247957051932704" />
+<file name="Primitive.php" local="129718984152127605" remote="129718984150000000" testing="247957051932704" />
+<file name="Text.php" local="129718984152407605" remote="129718984150000000" testing="247957051932704" />
+<file name="Chart.php" local="129719046729647656" remote="129719046720000000" testing="247957051932704" />
+<file name="PieChart.php" local="129718984151677605" remote="129718984150000000" testing="247957051932704" />
+<file name="BarChart.php" local="129718984150017605" remote="129718984150000000" testing="247957051932704" />
+<file name="LineChart.php" local="129718984151357605" remote="129718984150000000" testing="247957051932704" />
+<file name="VerticalChart.php" local="129718984152817605" remote="129718984150000000" testing="247957051932704" />
+<file name="HorizontalChart.php" local="129718984151017605" remote="129718984150000000" testing="247957051932704" />
+</dwsync>

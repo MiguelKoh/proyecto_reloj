@@ -1,0 +1,289 @@
+body {
+	font-family: Helvetica, Tahoma, Arial, sans-serif;
+	font-size: 10px;
+	text-align: center;
+	font-weight: normal;
+}
+a {
+	text-decoration: none;
+	color: #000000;
+	text-align: center;
+}
+a:hover {
+	text-decoration: none;
+	color: #3163CE;
+}
+/*fondo pricipal*/
+.year {
+	border-style: outset;
+	border-width: 1px;
+	background-color: #F4F6F7;
+	text-align: center;
+}
+/*fondo pricipal*/
+.month {
+	border-style: none;
+	background-color: #F4F6F7;
+	text-align: center;
+}
+.yearname {
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+/*nombre dellos meses*/
+.monthname {
+	text-align: center;
+	font-size: 10px;
+	font-weight: bold;
+	background-color: #9AB1CB;
+	color: #ffffff;
+	border-style: outset;
+	border-width:1px
+}
+/*nombre de los dias*/
+.dayname {
+	text-align: center;
+	font-size: 10px;
+	font-weight: bold;
+	background-color: #DBE0E5;
+	color: #5D5D5D;
+	border-style: outset;
+	border-width:1px
+}
+.weeknumtitle {
+	text-align: center;
+	font-size: 12px;
+	font-weight: normal;
+	background-color: #e9e9e9;
+	border-style: outset;
+	border-width:1px
+}
+.weeknum {
+	text-align: center;
+	font-size: 10px;
+	height:20px;
+	width:20px;
+	color: #000099;
+	background-color: #e9e9e9;
+}
+.yearnavigation {
+	font-size: 12px;
+}
+.datepicker {
+	background-color: #e4e4e4;
+}
+.datepickerform {
+	margin: 0px;
+}
+.monthnavigation {
+	font-family: Tahoma, Arial, sans-serif;
+}
+.monthpicker {
+	font-size: 11px;
+	background-color: #eeeeee;
+}
+.yearpicker {
+	font-size: 11px;
+	background-color: #eeeeee;
+}
+.pickerbutton {
+	font-size: 11px;
+	background-color: #eeeeee;
+	border-style: solid;
+	border-color: #000000;
+	border-width: 1px;
+}
+.nomonthday {
+	text-align: center;
+	font-size: 10px;
+	height:20px;
+	width:20px;
+	color: #aaaaaa;
+}
+/*fondo del los dias de los meses*/
+.monthday {
+	text-align: center;
+	font-size: 9px;
+	font-weight: bold;
+	background-color: #F4F6F7;
+	color: #384955;
+	height:20px;
+	width:20px;
+}
+.today {
+	text-align: center;
+	font-size: 10px;
+	font-weight: bold;
+	background-color: #5CB5C7;
+	color: #ffffff;
+	height:20px;
+	width:20px;
+}
+.selectedday {
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #66ff66;
+	height:20px;
+	width:20px;
+}
+/*domingo*/
+.sunday {
+	text-align: center;
+	font-size: 9px;
+	font-weight: bold;
+	color:red;
+	height:20px;
+	width:20px;
+}
+.sunday a {
+	color: #667171;
+}
+.saturday {
+	text-align: center;
+	font-size: 9px;
+	font-weight: bold;
+	color: #667171;
+	height:20px;
+	width:20px;
+}
+.saturday a {
+	color: #667171;
+}
+.event {
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color: red;
+	background-color: #ffff99;
+	height:20px;
+	width:20px;
+}
+.event a {
+	background-color: #ffff99;
+	color: red;
+}
+.selectedevent {
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color: red;
+	background-color: #ffff99;
+	height:20px;
+	width:20px;
+}
+.selectedevent a {
+	background-color: #ffff99;
+	color: red;
+}
+.todayevent {
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color: red;
+	background-color: #ffff99;
+	height:20px;
+	width:20px;
+}
+.todayevent a {
+	background-color: #ffff99;
+	color: red;
+}
+.eventcontent {
+	font-size: 10px;
+	border-style: outset;
+	border-width: 1px;
+	width: 100%;
+}
+/*"diu" => 0,"dim" => 0,"carnaval" => 0,"iaadm" => 0,"iaacad" => 0,"fauni" => 0,"iesnl" => 0,"esnl" => 0,"resnl" => 0*/
+/*mis colores*/
+.diu{
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color:#000000;
+	background-color:yellow;
+	height:20px;
+	width:20px;
+}
+
+.dim{
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color:#000000;
+	background-color:#0099FF;
+	height:20px;
+	width:20px;
+}
+
+.carnaval{
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color:#000000;
+	background-color:white;
+	height:20px;
+	width:20px;
+}
+
+.iaadm{
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color:#000000;
+	background-color:#0033FF;
+	height:20px;
+	width:20px;
+}
+
+.iaacad{
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color:#000000;
+	background-color:green;
+	height:20px;
+	width:20px;
+}
+
+.fauni{
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color:#000000;
+	background-color:#FF0000;
+	height:20px;
+	width:20px;
+}
+
+.iesnl{
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color:#000000;
+	background-color:#FF9900;
+	height:20px;
+	width:20px;
+}
+
+.esnl{
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color:#000000;
+	background-color:#FFCC00;
+	height:20px;
+	width:20px;
+}
+
+.resnl{
+	text-align: center;
+	font-size: 11px;
+	font-weight: bold;
+	color:#000000;
+	background-color:#FFFF99;
+	height:20px;
+	width:20px;
+}

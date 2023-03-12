@@ -1,0 +1,114 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Reloj</title>
+    <!-- meta info -->
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta name="keywords" content="Aid wear" />
+    <meta name="description" content="App Reloj">
+    <meta name="author" content="Reloj">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap core CSS -->
+    <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../assets/css/simple-sidebar.css" rel="stylesheet">
+    <link href="../assets/css/styles.css" rel="stylesheet">
+
+</head>
+
+
+<body>
+
+    <div class="global-wrap">
+
+
+        <div id="includedHeader"></div>
+          
+         <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#">
+                        Inicio
+                    </a>
+                </li>
+                <li>
+                    <a href="#">Catálogos</a>
+                </li>
+                <li>
+                    <a href="#">Empleados</a>
+                </li>
+                <li>
+                    <a href="#">Horarios</a>
+                </li>
+                <li>
+                    <a href="#">Permisos</a>
+                </li>
+                <li>
+                    <a href="#">Entradas/Salidas</a>
+                </li>
+                <li>
+                    <a href="#">Reportes</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+
+                <!-- //////////////////////////////////
+                //////////////START PAGE CONTENT/////////
+                ////////////////////////////////////-->
+                <div style="padding-top: 180px; margin-left: -80px">
+
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales nisl vel mi tincidunt, id congue diam ultrices. Vestibulum eget laoreet ex, id porttitor velit. Sed rhoncus faucibus ex, a dapibus urna facilisis id. Donec rutrum libero non ante dapibus rhoncus. Nunc elementum felis in mauris imperdiet fermentum. Duis justo nulla, viverra nec pellentesque sed, laoreet vel erat. Aenean at consectetur enim, id tempor urna. In hac habitasse platea dictumst. Morbi viverra purus in metus tempor egestas. Suspendisse ut rutrum odio. Aliquam pretium massa vehicula pharetra pharetra. Phasellus facilisis est dui, eu consectetur enim euismod id. Sed malesuada tortor quam, at pellentesque nunc molestie eget. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+
+                    <p>Aliquam quis mattis est. Phasellus rhoncus euismod odio non dapibus. Curabitur aliquam risus ac lorem consequat luctus. Donec diam ex, interdum ut iaculis sit amet, vulputate nec mi. Aliquam a vehicula erat. Nam vel eros sed metus tristique aliquet ac et felis. Nulla facilisi. Suspendisse varius lacinia erat quis viverra. Vestibulum dictum in magna vel tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent maximus, ligula ut elementum efficitur, ligula ipsum fringilla nulla, ut lacinia nisl massa eget orci. Suspendisse sodales gravida hendrerit.</p>
+
+                    <p>Maecenas eu tellus nec turpis dictum gravida ac ut elit. Maecenas congue feugiat risus eget lobortis. Cras viverra et purus a ultricies. Sed imperdiet eu eros sit amet pulvinar. Integer vitae tellus non augue finibus dictum. Ut et ante et velit lobortis auctor. Morbi nec erat placerat, cursus urna nec, tempus turpis. Aliquam eget lacinia nisi, vitae imperdiet felis. Vivamus sed nisl ultricies, gravida purus a, lacinia lectus. Vestibulum in leo sit amet mauris pellentesque maximus. Aliquam vel nunc sem. Curabitur bibendum convallis orci eu sagittis. Fusce tincidunt enim felis, eu elementum mauris iaculis et. Cras ut arcu ac ante dapibus fringilla. Etiam gravida massa nulla, id consequat magna mollis eget. Sed hendrerit dolor sit amet quam tempus, at suscipit risus dictum.</p>
+
+                    <p>Fusce eget ultrices ligula. Donec at sodales leo. Suspendisse efficitur augue orci, eu facilisis augue consectetur in. Nunc tempor non ipsum volutpat convallis. Nam rhoncus odio dolor, eu ultrices quam consectetur id. Sed id posuere nulla, vel lacinia sem. Sed faucibus mi nec quam lacinia tincidunt. Morbi at velit nulla. Etiam in arcu sit amet eros aliquet pulvinar vel nec sem. Nam non lectus non nunc tristique posuere. Nulla in est tincidunt, pulvinar tortor vel, facilisis elit.</p>
+                </div>   
+
+                 <!-- //////////////////////////////////
+                //////////////END PAGE CONTENT/////////
+                ////////////////////////////////////-->
+
+                <div id="includedFooter"></div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+   
+    </div>
+
+    <!-- Scripts queries -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+     <!-- Bootstrap core JavaScript -->
+    <script src="../assets/vendor/jquery/jquery.min.js"></script>
+    <script src="../assets/vendor/popper/popper.min.js"></script>
+    <script src="../assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+    
+    <script>
+        $(function(){
+            $("#includedHeader").load("header/header.html"); 
+            $("#includedContent").load("prueba.html"); 
+            $("#includedFooter").load("footer/footer.html"); 
+        });
+
+        window.onload=function(e) {
+            e.preventDefault();
+            $("#wrapper").toggleClass("toggled");
+        };
+    </script>
+    
+</body>
+</html>

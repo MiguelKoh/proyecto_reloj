@@ -1,0 +1,263 @@
+Nombre;No-AC;Hora Comienzo;Hora Fin;Tipo de Ausencia;RazÛn;Insertar Fecha
+"GARCÕA DÕAZ RITA ISABEL";"1234";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GARCÕA DÕAZ RITA ISABEL";"1234";07/01/2014;07/01/2014 11:59:00 p.m.;Trabajo;"comision";11/12/2013 02:46:00 p.m.
+"GARCÕA DÕAZ RITA ISABEL";"1234";08/01/2014;08/01/2014 11:59:00 p.m.;Trabajo;"comision";11/12/2013 02:46:00 p.m.
+"GARCÕA DÕAZ RITA ISABEL";"1234";09/01/2014;09/01/2014 11:59:00 p.m.;Trabajo;"comision";11/12/2013 02:46:00 p.m.
+"GARCÕA DÕAZ RITA ISABEL";"1234";10/01/2014;10/01/2014 11:59:00 p.m.;Trabajo;"comision";11/12/2013 02:46:00 p.m.
+"PEREZ PE—A JOSE REYNALDO";"1258";13/01/2014 07:00:00 a.m.;13/01/2014 10:00:00 a.m.;Otros;"fue al sindicato por carta";22/01/2014 04:31:52 p.m.
+"CERVERA RIVERO MARÕA PURIFICACI”N";"1291";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";06/01/2014 02:00:00 p.m.;06/01/2014 04:50:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";06/01/2014 06:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";07/01/2014;07/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:43:16 p.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";08/01/2014;08/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:43:16 p.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";09/01/2014;09/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:43:16 p.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";10/01/2014;10/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:43:16 p.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";11/01/2014;11/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:43:16 p.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";12/01/2014;12/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:43:16 p.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";13/01/2014;13/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:43:16 p.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";14/01/2014;14/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:43:16 p.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";15/01/2014;15/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:43:16 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";07/01/2014 02:00:00 p.m.;07/01/2014 04:32:00 p.m.;Trabajo;"devolucion de horas";08/01/2014 06:49:57 p.m.
+"VAZQUEZ MA VIANNEY ISELA";"1574";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CHABLE TUN BERTHA ELVIRA";"1576";10/01/2014 02:00:00 p.m.;10/01/2014 04:30:00 p.m.;Enfermedad;"constancia";16/01/2014 07:53:58 p.m.
+"MEDINA ELIZALDE ALEJO SANTIAGO";"1587";06/01/2014 03:30:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"PECH CHAN JUAN ANTONIO";"16";06/01/2014 08:30:00 a.m.;06/01/2014 09:50:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"PECH CHAN JUAN ANTONIO";"16";06/01/2014 06:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"SOSA MOEN ROBERTO";"1601";11/01/2014;11/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 06:19:37 p.m.
+"SOSA MOEN ROBERTO";"1601";12/01/2014;12/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 06:19:37 p.m.
+"SOSA MOEN ROBERTO";"1601";13/01/2014;13/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 06:19:37 p.m.
+"YAM SOSA MARTHA BEATRIZ";"1654";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"PINZ”N BALAM JOS… MANUEL";"1737";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"PINZ”N BALAM JOS… MANUEL";"1737";06/01/2014 02:00:00 p.m.;06/01/2014 04:50:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"TORRES CHAC JOSE ANTONIO";"1754";06/01/2014 05:10:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"FERNANDEZ MANUEL JESUS";"1892";14/01/2014 06:53:00 a.m.;14/01/2014 08:40:00 a.m.;Enfermedad;"constancia";16/01/2014 05:20:21 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";07/01/2014 08:40:00 a.m.;07/01/2014 10:36:00 a.m.;Enfermedad;"constancia";08/01/2014 06:05:16 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";09/01/2014 10:00:00 a.m.;09/01/2014 01:04:00 p.m.;Enfermedad;"pase";20/01/2014 02:31:01 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";13/01/2014 07:21:00 a.m.;13/01/2014 09:13:00 a.m.;Enfermedad;"constancia";16/01/2014 07:10:09 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";15/01/2014 08:00:00 a.m.;15/01/2014 10:10:00 a.m.;Enfermedad;"constancia";15/01/2014 05:41:23 p.m.
+"PEREZ BERZUNZA CECILIA MARGARITA";"2157";06/01/2014 07:30:00 a.m.;06/01/2014 04:30:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CAAMAL VARGAS NATALIA";"2170";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CAAMAL VARGAS NATALIA";"2170";09/01/2014 12:00:00 p.m.;09/01/2014 01:30:00 p.m.;Enfermedad;"pase";16/01/2014 06:13:03 p.m.
+"IMAN MORALES CECILIA DEL SOCORRO";"2173";06/01/2014 05:10:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"PEREZ PALMA JULIA MARGARITA";"2177";06/01/2014;06/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:47:36 p.m.
+"PEREZ PALMA JULIA MARGARITA";"2177";07/01/2014;07/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:47:36 p.m.
+"PEREZ PALMA JULIA MARGARITA";"2177";08/01/2014;08/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:47:36 p.m.
+"PEREZ PALMA JULIA MARGARITA";"2177";09/01/2014;09/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:47:36 p.m.
+"PEREZ PALMA JULIA MARGARITA";"2177";10/01/2014;10/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:47:36 p.m.
+"PEREZ PALMA JULIA MARGARITA";"2177";11/01/2014;11/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:47:36 p.m.
+"PEREZ PALMA JULIA MARGARITA";"2177";12/01/2014;12/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:47:36 p.m.
+"PEREZ PALMA JULIA MARGARITA";"2177";13/01/2014;13/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:47:36 p.m.
+"PEREZ PALMA JULIA MARGARITA";"2177";14/01/2014;14/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:47:36 p.m.
+"PEREZ PALMA JULIA MARGARITA";"2177";15/01/2014;15/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:47:36 p.m.
+"GIL ARGAEZ JOSE ERNESTO";"2209";06/01/2014 01:00:00 p.m.;06/01/2014 05:30:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GIL ARGAEZ JOSE ERNESTO";"2209";13/01/2014 04:45:00 p.m.;13/01/2014 05:30:00 p.m.;Trabajo;"torneo de karate";15/01/2014 07:02:55 p.m.
+"RODRIGUEZ HERRERA TERESA DE J.";"223";09/01/2014 07:00:00 a.m.;09/01/2014 08:20:00 a.m.;Enfermedad;"pase";22/01/2014 04:39:57 p.m.
+"RODRIGUEZ HERRERA TERESA DE J.";"223";13/01/2014 01:29:00 p.m.;13/01/2014 02:52:00 p.m.;Enfermedad;"constancia";22/01/2014 04:11:01 p.m.
+"CORTES NAVARRETE IVONNE";"2364";06/01/2014 02:40:00 p.m.;06/01/2014 03:20:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"NAVARRETE SOLÕS CARLOS ANTONIO";"2406";06/01/2014 05:10:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"VALENCIA MAY LUCIANA";"2418";07/01/2014 01:00:00 p.m.;07/01/2014 09:00:00 p.m.;Trabajo;"con goce";15/01/2014 06:54:49 p.m.
+"HERRERA CANTO NORMA IGNACIA";"2473";06/01/2014 02:00:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"HERRERA CANTO NORMA IGNACIA";"2473";13/01/2014;13/01/2014 11:59:00 p.m.;Trabajo;"economico";08/01/2014 07:56:49 p.m.
+"HERRERA CANTO NORMA IGNACIA";"2473";14/01/2014;14/01/2014 11:59:00 p.m.;Trabajo;"economico";08/01/2014 07:56:49 p.m.
+"ALONZO P…REZ RA⁄L FRANCISCO";"2482";06/01/2014 07:00:00 a.m.;06/01/2014 11:30:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"TREJO PE—A JORGE CARLOS";"2550";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"OLAIS LOEZA MANUEL ANTONIO DE JES⁄S";"2575";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"ALEJANDRE CANUL BALTAZAR CONCEPCI”N";"2643";06/01/2014 05:10:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CANTO ESCOFFIE WILBERTH URBANO";"2780";06/01/2014 11:40:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CANTO ESCOFFIE WILBERTH URBANO";"2780";06/01/2014 02:40:00 p.m.;06/01/2014 06:30:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"DIP LE”N SANDRA";"2782";08/01/2014;08/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";15/01/2014 05:44:42 p.m.
+"AM¡BILIS MARÕN MALEY MARISOL";"2796";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"PENICHE SOUZA JORGE ALBERTO DE JES⁄S";"2797";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"RODRÕGUEZ TUT ENRIQUE ANTONIO";"2888";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";06/01/2014 08:30:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";06/01/2014 05:10:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";09/01/2014;09/01/2014 11:59:00 p.m.;Trabajo;"comision";15/01/2014 04:21:56 p.m.
+"ANCONA CORREA FLOR SILVESTRE";"2941";06/01/2014 07:00:00 a.m.;06/01/2014 11:30:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"P…REZ MIRANDA LUIS AMADO";"2943";06/01/2014 07:00:00 a.m.;06/01/2014 08:20:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"P…REZ MIRANDA LUIS AMADO";"2943";06/01/2014 05:10:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CONTRERAS SANTAMARIA MIGUEL ANGEL";"2961";06/01/2014 07:00:00 a.m.;06/01/2014 09:50:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CONTRERAS SANTAMARIA MIGUEL ANGEL";"2961";06/01/2014 11:40:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"PEREIRA PINTO LANDY FELINA";"3113";08/01/2014 02:00:00 p.m.;08/01/2014 06:00:00 p.m.;Trabajo;"cambio de horario";16/01/2014 06:10:59 p.m.
+"OJEDA CASTELLANOS MARTIN";"3154";13/01/2014 02:30:00 p.m.;13/01/2014 03:30:00 p.m.;Trabajo;"cambio de hora";15/01/2014 04:29:03 p.m.
+"LEON DURAN PATRICIA DEL CARMEN";"3519";09/01/2014 05:40:00 p.m.;09/01/2014 07:00:00 p.m.;Enfermedad;"constancia";16/01/2014 06:09:05 p.m.
+"CENTURION PENICHE MIGUEL HEBERT";"3628";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"PINO MEDINA MIRIAM";"3841";06/01/2014 03:00:00 p.m.;06/01/2014 05:00:00 p.m.;Trabajo;"cambio de hora";09/01/2014 04:27:48 p.m.
+"MAY ALCOCER JORGE ARMANDO";"3908";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CHIM QUINTAL SILVIA PATRICIA";"3938";06/01/2014 07:00:00 a.m.;06/01/2014 08:20:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CHIM QUINTAL SILVIA PATRICIA";"3938";06/01/2014 10:10:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CHIM QUINTAL SILVIA PATRICIA";"3938";06/01/2014 03:30:00 p.m.;06/01/2014 04:50:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CHIM QUINTAL SILVIA PATRICIA";"3938";09/01/2014 07:00:00 a.m.;09/01/2014 08:00:00 p.m.;Trabajo;"economico";08/01/2014 07:52:20 p.m.
+"SALAS BRITO HOLDA YOLANDA";"406";06/01/2014 06:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"OLIVIA REJON VILLANUEVA";"421";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"OLIVIA REJON VILLANUEVA";"421";06/01/2014 02:30:00 p.m.;06/01/2014 07:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"ANCONA ANCONA FLOR DE ACACIA";"430";06/01/2014 02:00:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"FIGUEROA P…REZ MANUEL ARMANDO";"577";06/01/2014 02:00:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"FIGUEROA P…REZ MANUEL ARMANDO";"577";08/01/2014 02:00:00 p.m.;08/01/2014 08:00:00 p.m.;Trabajo;"economico";14/01/2014 08:08:20 p.m.
+"ORDO—EZ IUIT MAURICIO";"6168";06/01/2014;06/01/2014 11:59:00 p.m.;Trabajo;"licencia sin goce";12/12/2013 03:16:19 p.m.
+"ORDO—EZ IUIT MAURICIO";"6168";07/01/2014;07/01/2014 11:59:00 p.m.;Trabajo;"licencia sin goce";12/12/2013 03:16:19 p.m.
+"ORDO—EZ IUIT MAURICIO";"6168";08/01/2014;08/01/2014 11:59:00 p.m.;Trabajo;"licencia sin goce";12/12/2013 03:16:19 p.m.
+"ORDO—EZ IUIT MAURICIO";"6168";09/01/2014;09/01/2014 11:59:00 p.m.;Trabajo;"licencia sin goce";12/12/2013 03:16:19 p.m.
+"ORDO—EZ IUIT MAURICIO";"6168";10/01/2014;10/01/2014 11:59:00 p.m.;Trabajo;"licencia sin goce";12/12/2013 03:16:19 p.m.
+"ORDO—EZ IUIT MAURICIO";"6168";11/01/2014;11/01/2014 11:59:00 p.m.;Trabajo;"licencia sin goce";12/12/2013 03:16:19 p.m.
+"ORDO—EZ IUIT MAURICIO";"6168";12/01/2014;12/01/2014 11:59:00 p.m.;Trabajo;"licencia sin goce";12/12/2013 03:16:19 p.m.
+"ORDO—EZ IUIT MAURICIO";"6168";13/01/2014;13/01/2014 11:59:00 p.m.;Trabajo;"licencia sin goce";12/12/2013 03:16:19 p.m.
+"ORDO—EZ IUIT MAURICIO";"6168";14/01/2014;14/01/2014 11:59:00 p.m.;Trabajo;"licencia sin goce";12/12/2013 03:16:19 p.m.
+"ORDO—EZ IUIT MAURICIO";"6168";15/01/2014;15/01/2014 11:59:00 p.m.;Trabajo;"licencia sin goce";12/12/2013 03:16:19 p.m.
+"CERVERA MORALES GABRIEL ENRIQUE";"6178";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GARCIA SANCHEZ JOSE";"6198";06/01/2014 05:10:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";07/01/2014;07/01/2014 10:00:00 a.m.;Enfermedad;"constancia";08/01/2014 07:25:15 p.m.
+"CAAMAL M¡RMOL VER”NICA MARGARITA";"6312";10/01/2014 03:00:00 p.m.;10/01/2014 04:00:00 p.m.;Trabajo;"devolucion de horas";16/01/2014 06:06:02 p.m.
+"PALEO CARRILLO MANUEL JOS…";"6313";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"COB MAY WENDY ARACELLY";"6323";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CORTES NAVARRETE FILIBERTO";"6341";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CORTES NAVARRETE FILIBERTO";"6341";14/01/2014 07:00:00 a.m.;14/01/2014 01:00:00 p.m.;Trabajo;"economico";16/01/2014 06:29:58 p.m.
+"ESPINOSA MANZANERO RAFAEL";"6411";06/01/2014 03:00:00 p.m.;06/01/2014 06:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CAMARGO P…REZ MATEO";"648";06/01/2014 07:00:00 a.m.;06/01/2014 09:50:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CAMARGO P…REZ MATEO";"648";06/01/2014 02:40:00 p.m.;06/01/2014 06:30:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CAMARGO P…REZ MATEO";"648";14/01/2014;14/01/2014 11:59:00 p.m.;Trabajo;"dia de antiguedad";16/01/2014 06:21:39 p.m.
+"NU—EZ GOMEZ ANGELICA DEL CARMEN";"6515";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"XOOL RAMOS DALIA YADIRA";"6526";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"TZUC SIM¡ JOS… ALBERTO";"6554";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GONZ¡LEZ PAVÕA IRENE DEL SOCORRO";"6556";06/01/2014 07:00:00 a.m.;06/01/2014 12:20:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GONZ¡LEZ PAVÕA IRENE DEL SOCORRO";"6556";06/01/2014 02:40:00 p.m.;06/01/2014 06:30:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"HERRERA QUINTAL ELSY GUADALUPE";"6691";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"TUN PECH LENNY MARIA";"6808";14/01/2014 08:00:00 a.m.;14/01/2014 04:00:00 p.m.;Enfermedad;"incapacidad";15/01/2014 04:12:25 p.m.
+"COHEN ¡LVAREZ KAREN";"6822";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"KOYOC NOH ¡NGEL FRANCISCO";"6827";06/01/2014 07:00:00 a.m.;06/01/2014 11:30:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GAMBOA SANSORES KARINA AZUCENA";"6870";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"LOPEZ MIRANDA KARLA KARINA";"6871";06/01/2014 07:00:00 a.m.;06/01/2014 08:20:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"LOPEZ MIRANDA KARLA KARINA";"6871";06/01/2014 02:40:00 p.m.;06/01/2014 03:20:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";06/01/2014 06:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CRIOLLO ACHACH CINTHYA BADIA";"6881";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"FAJARDO P…REZ EDGAR FERNANDO";"6996";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"SANSORES GUTI…RREZ EDGAR JOS… ZACARÕAS";"7098";06/01/2014 11:40:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"SANSORES GUTI…RREZ EDGAR JOS… ZACARÕAS";"7098";06/01/2014 03:30:00 p.m.;06/01/2014 04:50:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"ARCILA MAT⁄ MARÕA DEL CARMEN";"7117";06/01/2014 07:00:00 a.m.;06/01/2014 09:10:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"ECHANOVE VARGUEZ ALVARO";"7128";06/01/2014 12:30:00 p.m.;06/01/2014 06:30:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"COOL CARDE—A JORGE CARLOS";"721";06/01/2014;06/01/2014 08:00:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:27:39 p.m.
+"ROMERO HERNANDEZ DONY";"7354";06/01/2014 02:00:00 p.m.;06/01/2014 05:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GOMEZ ESCALANTE AIDA LUZ";"7357";06/01/2014 04:00:00 p.m.;06/01/2014 05:30:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"PUC V¡ZQUEZ MIGUEL ¡NGEL";"7376";06/01/2014 07:00:00 a.m.;06/01/2014 09:50:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"SOSA CRESPO IRVING FRANCISCO";"7379";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"BEJAR LARROCHA JOS… DAGOBERTO";"7381";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CANO BLANCO MARILU";"7474";06/01/2014 02:00:00 p.m.;06/01/2014 04:50:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"VAZQUEZ HERNANDEZ DANIEL";"7500";06/01/2014 07:00:00 a.m.;06/01/2014 09:10:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CETINA G”MEZ DIEGO ALONSO";"7582";06/01/2014 03:30:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CONCHA CANUL ELY FABIOLA";"7589";06/01/2014 02:40:00 p.m.;06/01/2014 03:20:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"MANRIQUE PEREZ CAROLINA ELIZABETH";"7619";08/01/2014;08/01/2014 11:59:00 p.m.;Trabajo;"cambio";15/01/2014 06:30:12 p.m.
+"MANRIQUE PEREZ CAROLINA ELIZABETH";"7619";09/01/2014;09/01/2014 11:59:00 p.m.;Trabajo;"cambio";15/01/2014 06:30:12 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";15/01/2014 04:00:00 p.m.;15/01/2014 07:30:00 p.m.;Trabajo;"cambio de horario";15/01/2014 04:17:02 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";08/01/2014;08/01/2014 11:59:00 p.m.;Trabajo;"evaluacion de jefes de grupo";16/01/2014 05:11:39 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";09/01/2014;09/01/2014 11:59:00 p.m.;Trabajo;"evaluacion de jefes de grupo";16/01/2014 05:11:39 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";10/01/2014;10/01/2014 11:59:00 p.m.;Trabajo;"evaluacion de jefes de grupo";16/01/2014 05:11:39 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";11/01/2014;11/01/2014 11:59:00 p.m.;Trabajo;"evaluacion de jefes de grupo";16/01/2014 05:11:39 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";12/01/2014;12/01/2014 11:59:00 p.m.;Trabajo;"evaluacion de jefes de grupo";16/01/2014 05:11:39 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";13/01/2014;13/01/2014 11:59:00 p.m.;Trabajo;"evaluacion de jefes de grupo";16/01/2014 05:11:39 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";14/01/2014;14/01/2014 11:59:00 p.m.;Trabajo;"evaluacion de jefes de grupo";16/01/2014 05:11:39 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";15/01/2014 11:30:00 a.m.;15/01/2014 04:00:00 p.m.;Trabajo;"comision";24/01/2014 02:58:41 p.m.
+"CORREA PECH EDWINA PAOLA";"7757";13/01/2014;13/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 05:14:21 p.m.
+"CORREA PECH EDWINA PAOLA";"7757";14/01/2014;14/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 05:14:21 p.m.
+"CORREA PECH EDWINA PAOLA";"7757";15/01/2014;15/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 05:14:21 p.m.
+"AVIL…S DENIS ALHELÕ DE JES⁄S";"7763";06/01/2014 07:40:00 a.m.;06/01/2014 09:10:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"AVIL…S DENIS ALHELÕ DE JES⁄S";"7763";06/01/2014 10:10:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"AVIL…S DENIS ALHELÕ DE JES⁄S";"7763";06/01/2014 06:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GONGORA MARQUEZ ELIOZABETH";"7841";09/01/2014 10:00:00 a.m.;09/01/2014 01:00:00 p.m.;Enfermedad;"pase";09/01/2014 03:39:53 p.m.
+"ORTIZ PECH VALERIO ENRIQUE";"7950";14/01/2014 10:00:00 a.m.;14/01/2014 02:00:00 p.m.;Otros;"personal";15/01/2014 06:37:50 p.m.
+"PEREZ MENA DREIDY";"7955";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"PEREZ MENA DREIDY";"7955";06/01/2014 02:40:00 p.m.;06/01/2014 04:10:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"KU ERGUERA JUAN ROMAN";"7965";14/01/2014 02:00:00 p.m.;14/01/2014 04:30:00 p.m.;Enfermedad;"constancia";15/01/2014 06:57:46 p.m.
+"HEREDIA DUR¡N LUIS ANTONIO";"7969";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CALDER”N P…REZ ASTRID YARELI";"7972";06/01/2014 02:40:00 p.m.;06/01/2014 04:50:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CALDER”N P…REZ ASTRID YARELI";"7972";06/01/2014 06:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"MENDEZ SABIDO MARIANA LUCELLY";"8018";15/01/2014 12:30:00 p.m.;15/01/2014 02:05:00 p.m.;Enfermedad;"constancia";15/01/2014 05:56:34 p.m.
+"CHAN GREGORIO MARTIN";"8023";06/01/2014;06/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:44:39 p.m.
+"CHAN GREGORIO MARTIN";"8023";07/01/2014;07/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";09/01/2014 03:44:39 p.m.
+"CHAN GREGORIO MARTIN";"8023";08/01/2014;08/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:32:56 p.m.
+"CHAN GREGORIO MARTIN";"8023";09/01/2014;09/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:32:56 p.m.
+"CHAN GREGORIO MARTIN";"8023";10/01/2014;10/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:32:56 p.m.
+"CHAN GREGORIO MARTIN";"8023";11/01/2014;11/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:32:56 p.m.
+"CHAN GREGORIO MARTIN";"8023";12/01/2014;12/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:32:56 p.m.
+"CHAN GREGORIO MARTIN";"8023";13/01/2014;13/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:32:56 p.m.
+"CHAN GREGORIO MARTIN";"8023";14/01/2014;14/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:32:56 p.m.
+"CHAN GREGORIO MARTIN";"8023";15/01/2014;15/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";08/01/2014 07:32:56 p.m.
+"G”MEZ QUINTAL ROSA MARÕA DEL PILAR";"8177";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"LOPE DE RIVERA MARIA DEL PILAR";"8261";06/01/2014 08:30:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"LOPE DE RIVERA MARIA DEL PILAR";"8261";06/01/2014 05:10:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"MAY CAAMAL JOSE EDUARDO";"8302";15/01/2014 06:00:00 a.m.;15/01/2014 02:00:00 p.m.;Trabajo;"con goce";15/01/2014 02:16:53 p.m.
+"PINTO RODRÕGUEZ AURELIANO RAFAEL";"838";06/01/2014 08:30:00 a.m.;06/01/2014 09:50:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"ALFARO CORREA ERICK AD¡N";"8455";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CENTURION FERNANDEZ ALEJANDRA VICTORIA";"8460";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GAMBOA LIZAMA LIZANDRO DE JES⁄S";"8461";06/01/2014;06/01/2014 11:59:00 p.m.;Enfermedad;"por su esposa";16/01/2014 07:08:31 p.m.
+"GAMBOA LIZAMA LIZANDRO DE JES⁄S";"8461";06/01/2014 07:00:00 a.m.;06/01/2014 08:20:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GAMBOA LIZAMA LIZANDRO DE JES⁄S";"8461";06/01/2014 10:10:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GAMBOA LIZAMA LIZANDRO DE JES⁄S";"8461";07/01/2014;07/01/2014 11:59:00 p.m.;Enfermedad;"por su esposa";16/01/2014 07:08:31 p.m.
+"HERNANDEZ GARRIDO ANGELITA";"8464";06/01/2014;06/01/2014 11:59:00 p.m.;Trabajo;"devolucion de horas extras";16/01/2014 06:18:18 p.m.
+"TORRES S¡NCHEZ MANUEL";"8466";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"TORRES S¡NCHEZ MANUEL";"8466";06/01/2014 02:00:00 p.m.;06/01/2014 06:30:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"ARANDA GAMBOA EFRAIN";"8468";06/01/2014 01:15:00 p.m.;06/01/2014 02:45:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"LAVIADA CASTILLO ROBERTO EDEN";"8493";06/01/2014 03:30:00 p.m.;06/01/2014 07:20:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"MATEY CHAN LIGIA PATRICIA";"851";06/01/2014 02:40:00 p.m.;06/01/2014 07:20:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";14/01/2014 07:00:00 a.m.;14/01/2014 09:00:00 a.m.;Enfermedad;"constancia";15/01/2014 05:54:51 p.m.
+"PUC VARGUEZ MARCELINO";"8540";09/01/2014;09/01/2014 11:59:00 p.m.;Trabajo;"dia economico";09/01/2014 03:08:59 p.m.
+"PUC VARGUEZ MARCELINO";"8540";10/01/2014;10/01/2014 11:59:00 p.m.;Trabajo;"dia economico";09/01/2014 03:08:59 p.m.
+"KANTUN Y NOGUERA ROGER";"8590";06/01/2014 04:00:00 p.m.;06/01/2014 08:30:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"KANTUN Y NOGUERA ROGER";"8590";09/01/2014 07:00:00 a.m.;09/01/2014 01:00:00 p.m.;Trabajo;"antiguedad";08/01/2014 08:00:25 p.m.
+"KANTUN Y NOGUERA ROGER";"8590";14/01/2014;14/01/2014 11:59:00 p.m.;Trabajo;"antiguedad";15/01/2014 06:43:08 p.m.
+"KANTUN Y NOGUERA ROGER";"8590";15/01/2014;15/01/2014 11:59:00 p.m.;Trabajo;"antiguedad";15/01/2014 06:43:08 p.m.
+"CARRILLO KUMUL RAFAEL ANTONIO";"8667";06/01/2014 04:30:00 p.m.;06/01/2014 06:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"ESPINOSA CERVERA ALEJANDRA";"8692";06/01/2014 10:10:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"ESPINOSA CERVERA ALEJANDRA";"8692";06/01/2014 02:00:00 p.m.;06/01/2014 03:00:00 p.m.;Trabajo;"acudio al edificio central";15/01/2014 06:01:36 p.m.
+"ARG¡EZ GARCÕA JOSEFINA";"8701";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"P…REZ FUENTES JOANNA ALEXANDRA";"8726";06/01/2014 03:30:00 p.m.;06/01/2014 05:50:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"RIO HERRERA LIGIA";"8800";06/01/2014;06/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 07:50:13 p.m.
+"RIO HERRERA LIGIA";"8800";06/01/2014 02:00:00 p.m.;06/01/2014 04:50:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"RIO HERRERA LIGIA";"8800";07/01/2014;07/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 07:50:13 p.m.
+"RIO HERRERA LIGIA";"8800";08/01/2014;08/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 07:50:13 p.m.
+"RIO HERRERA LIGIA";"8800";09/01/2014;09/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 07:50:13 p.m.
+"RIO HERRERA LIGIA";"8800";10/01/2014;10/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 07:50:13 p.m.
+"RIO HERRERA LIGIA";"8800";11/01/2014;11/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 07:50:13 p.m.
+"RIO HERRERA LIGIA";"8800";12/01/2014;12/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 07:50:13 p.m.
+"RIO HERRERA LIGIA";"8800";13/01/2014;13/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 07:50:13 p.m.
+"RIO HERRERA LIGIA";"8800";14/01/2014;14/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 07:50:13 p.m.
+"RIO HERRERA LIGIA";"8800";15/01/2014;15/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 07:50:13 p.m.
+"DUARTE CEBALLOS ARTURO";"8808";06/01/2014 07:00:00 a.m.;06/01/2014 08:20:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"DIAZ PUC GUADALUPE";"8826";14/01/2014 11:30:00 a.m.;14/01/2014 02:20:00 p.m.;Enfermedad;"constancia";16/01/2014 05:16:02 p.m.
+"SANTOS BERMEJO MARÕA GUADALUPE";"8882";06/01/2014 02:00:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"DUARTE QUINTAL LIGIA BEATRIZ";"894";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"FAJARDO P…REZ LUIS ENRIQUE";"8950";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"GAMAS TRUJILLO PABLO ALEJANDRO";"8951";06/01/2014 02:00:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CHAN POOL ANTONIO";"8978";10/01/2014 06:00:00 a.m.;10/01/2014 05:00:00 p.m.;Trabajo;"cambio de horario";22/01/2014 06:35:35 p.m.
+"CHAN POOL ANTONIO";"8978";13/01/2014;13/01/2014 11:59:00 p.m.;Trabajo;"cambio de horario";23/01/2014 05:58:06 p.m.
+"CARVAJAL COHUO JESUS ANTONIO";"8988";06/01/2014 12:30:00 p.m.;06/01/2014 05:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"ARROYO ANGULO MARIA MARGARITA";"8989";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CERVERA ARG¡EZ GABRIELA";"8990";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CABALLERO ESPADA CECILIA GUADALUPE";"8991";06/01/2014 08:30:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"NOVELO COVI¡N BEATRIZ EUGENIA";"9033";06/01/2014 02:40:00 p.m.;06/01/2014 05:50:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"NOVELO COVI¡N BEATRIZ EUGENIA";"9033";14/01/2014 07:00:00 a.m.;14/01/2014 08:00:00 p.m.;Otros;"asistencia a taller";23/01/2014 05:32:30 p.m.
+"NOVELO COVI¡N BEATRIZ EUGENIA";"9033";15/01/2014 07:00:00 a.m.;15/01/2014 12:00:00 p.m.;Trabajo;"antiguedad";14/01/2014 08:05:02 p.m.
+"POOL KU TERESA DE JES⁄S";"905";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"POOL KU TERESA DE JES⁄S";"905";08/01/2014;08/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";15/01/2014 07:06:12 p.m.
+"POOL KU TERESA DE JES⁄S";"905";10/01/2014 07:00:00 a.m.;10/01/2014 01:00:00 p.m.;Trabajo;"antiguedad";14/01/2014 08:06:47 p.m.
+"HEREDIA DUR¡N LIZBETH BEATRIZ";"9086";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"MOO RUBIO ALEJANDRO";"9105";06/01/2014 11:40:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"OJEDA ROSADO ALVA PAMELA";"9107";08/01/2014 01:00:00 p.m.;08/01/2014 03:00:00 p.m.;Otros;"personal";15/01/2014 06:08:07 p.m.
+"CASTILLOS MIJANGOS MARIçA VERONICA";"9116";06/01/2014 07:00:00 a.m.;06/01/2014 11:30:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"EROSA ESQUIVEL CARLOS JOSE";"9127";06/01/2014 07:00:00 p.m.;06/01/2014 09:00:00 p.m.;Trabajo;"cambio de hora";09/01/2014 05:46:04 p.m.
+"CHAN MAY GENER ANTONIO";"9236";06/01/2014 03:30:00 p.m.;06/01/2014 06:30:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"MARTINEZ SABIDO HEVERT ISAAC";"9267";06/01/2014 07:00:00 a.m.;06/01/2014 01:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"CASTILLEJOS AVENDA—O CIELO MARGOT";"9394";06/01/2014 02:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"MONTES DE OCA JORGE MOGUEL";"9400";06/01/2014 03:30:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"COUOH CASTA—EDA ETZIGUERI GPE.";"9421";06/01/2014 06:45:00 p.m.;06/01/2014 08:15:00 p.m.;Trabajo;"cambio de hora";09/01/2014 04:46:24 p.m.
+"AMATO ESCALANTE CRISTINA";"9530";13/01/2014 11:00:00 a.m.;13/01/2014 03:00:00 p.m.;Trabajo;"junta del programa siga";15/01/2014 04:26:50 p.m.
+"ADD RENDON DAVID ISRAEL";"9790";06/01/2014 07:00:00 a.m.;06/01/2014 07:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"BURGOS BRAGA DIANA MELISSA";"9964";06/01/2014 06:40:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"BURGOS BRAGA DIANA MELISSA";"9964";06/01/2014 07:00:00 p.m.;06/01/2014 08:00:00 p.m.;Trabajo;"cambio de hora";09/01/2014 04:44:10 p.m.
+"BURGOS BRAGA DIANA MELISSA";"9964";13/01/2014;13/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 05:59:41 p.m.
+"BURGOS BRAGA DIANA MELISSA";"9964";14/01/2014;14/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 05:59:41 p.m.
+"BURGOS BRAGA DIANA MELISSA";"9964";15/01/2014;15/01/2014 11:59:00 p.m.;Enfermedad;"incapacidad";16/01/2014 05:59:41 p.m.
+"VILLARREAL FLORES MARIA GUADALUPE";"9976";06/01/2014 07:00:00 a.m.;06/01/2014 08:20:00 a.m.;Trabajo;"Semestre inicia 7 para prof";29/01/2014 09:37:00 a.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";08/01/2014;08/01/2014 11:59:00 p.m.;Trabajo;"cambios de horario";15/01/2014 06:26:27 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";09/01/2014;09/01/2014 11:59:00 p.m.;Trabajo;"cambios de horario";15/01/2014 06:26:27 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";10/01/2014;10/01/2014 11:59:00 p.m.;Trabajo;"cambios de horario";15/01/2014 06:26:27 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";15/01/2014 05:00:00 p.m.;15/01/2014 07:00:00 p.m.;Trabajo;"jefes de grupo de primer aÒo";20/01/2014 02:24:01 p.m.

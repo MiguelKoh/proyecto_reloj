@@ -1,0 +1,133 @@
+claveempleado,dia,horario,idasignatura,idgrado,asignaturalab,seccion,semestre,nombre_materia,
+8466,1,3,80,3,0,1,5,Laboratorio de Física 3,lab op
+2780,1,3,80,3,0,1,5,Laboratorio de Física 3,lab op
+648,1,3,80,3,0,1,5,Laboratorio de Física 3,lab op
+8466,1,4,80,3,0,1,5,Laboratorio de Física 3,lab op
+648,1,4,80,3,0,1,5,Laboratorio de Física 3,lab op
+2780,1,4,80,3,0,1,5,Laboratorio de Física 3,lab op
+9947,1,13,84,3,0,16,5,Laboratorio de Zoología,lab op
+851,1,13,84,3,0,16,5,Laboratorio de Zoología,lab op
+851,1,13,84,3,0,16,5,Laboratorio de Zoología,lab op
+8445,1,13,84,3,0,16,5,Laboratorio de Zoología,lab op
+9947,1,13,84,3,0,16,5,Laboratorio de Zoología,lab op
+851,1,14,84,3,0,16,5,Laboratorio de Zoología,lab op
+9947,1,14,84,3,0,16,5,Laboratorio de Zoología,lab op
+8445,1,14,84,3,0,16,5,Laboratorio de Zoología,lab op
+3628,1,15,78,3,0,17,5,Laboratorio de Anatomía 2,lab op
+2173,1,15,78,3,0,17,5,Laboratorio de Anatomía 2,lab op
+8460,1,15,78,3,0,17,5,Laboratorio de Anatomía 2,lab op
+8460,1,16,78,3,0,17,5,Laboratorio de Anatomía 2,lab op
+3628,1,16,78,3,0,17,5,Laboratorio de Anatomía 2,lab op
+2173,1,16,78,3,0,17,5,Laboratorio de Anatomía 2,lab op
+2173,1,15,88,3,0,17,5,Laboratorio de Bioquímica,lab op
+8460,1,15,88,3,0,17,5,Laboratorio de Bioquímica,lab op
+7376,1,15,88,3,0,17,5,Laboratorio de Bioquímica,lab op
+8460,1,16,88,3,0,17,5,Laboratorio de Bioquímica,lab op
+7376,1,16,88,3,0,17,5,Laboratorio de Bioquímica,lab op
+2173,1,16,88,3,0,17,5,Laboratorio de Bioquímica,lab op
+8460,1,11,78,3,0,19,5,Laboratorio de Anatomía 2,lab op
+9267,1,11,78,3,0,19,5,Laboratorio de Anatomía 2,lab op
+7376,1,11,78,3,0,19,5,Laboratorio de Anatomía 2,lab op
+8460,1,12,78,3,0,19,5,Laboratorio de Anatomía 2,lab op
+9267,1,12,78,3,0,19,5,Laboratorio de Anatomía 2,lab op
+7376,1,12,78,3,0,19,5,Laboratorio de Anatomía 2,lab op
+9947,1,13,84,3,0,19,5,Laboratorio de Zoología,lab op
+8445,1,13,84,3,0,19,5,Laboratorio de Zoología,lab op
+851,1,13,84,3,0,19,5,Laboratorio de Zoología,lab op
+9947,1,14,84,3,0,19,5,Laboratorio de Zoología,lab op
+8445,1,14,84,3,0,19,5,Laboratorio de Zoología,lab op
+851,1,14,84,3,0,19,5,Laboratorio de Zoología,lab op
+2780,1,1,80,3,0,2,5,Laboratorio de Física 3,lab op
+8466,1,1,80,3,0,2,5,Laboratorio de Física 3,lab op
+7376,1,1,80,3,0,2,5,Laboratorio de Física 3,lab op
+8466,1,2,80,3,0,2,5,Laboratorio de Física 3,lab op
+7376,1,2,80,3,0,2,5,Laboratorio de Física 3,lab op
+2780,1,2,80,3,0,2,5,Laboratorio de Física 3,lab op
+8882,2,9,78,3,0,10,5,Laboratorio de Anatomía 2,lab op
+3628,2,9,78,3,0,10,5,Laboratorio de Anatomía 2,lab op
+9267,2,9,78,3,0,10,5,Laboratorio de Anatomía 2,lab op
+8882,2,10,78,3,0,10,5,Laboratorio de Anatomía 2,lab op
+3628,2,10,78,3,0,10,5,Laboratorio de Anatomía 2,lab op
+9267,2,10,78,3,0,10,5,Laboratorio de Anatomía 2,lab op
+9267,2,9,88,3,0,10,5,Laboratorio de Bioquímica,lab op
+7376,2,9,88,3,0,10,5,Laboratorio de Bioquímica,lab op
+8882,2,9,88,3,0,10,5,Laboratorio de Bioquímica,lab op
+9267,2,10,88,3,0,10,5,Laboratorio de Bioquímica,lab op
+7376,2,10,88,3,0,10,5,Laboratorio de Bioquímica,lab op
+8882,2,10,88,3,0,10,5,Laboratorio de Bioquímica,lab op
+8460,2,11,78,3,0,12,5,Laboratorio de Anatomía 2,lab op
+3628,2,11,78,3,0,12,5,Laboratorio de Anatomía 2,lab op
+7376,2,11,78,3,0,12,5,Laboratorio de Anatomía 2,lab op
+7376,2,12,78,3,0,12,5,Laboratorio de Anatomía 2,lab op
+3628,2,12,78,3,0,12,5,Laboratorio de Anatomía 2,lab op
+8460,2,12,78,3,0,12,5,Laboratorio de Anatomía 2,lab op
+9267,2,11,88,3,0,20,5,Laboratorio de Bioquímica,lab op
+7376,2,11,88,3,0,20,5,Laboratorio de Bioquímica,lab op
+9267,2,11,88,3,0,20,5,Laboratorio de Bioquímica,lab op
+8460,2,11,88,3,0,20,5,Laboratorio de Bioquímica,lab op
+8460,2,12,88,3,0,20,5,Laboratorio de Bioquímica,lab op
+7376,2,12,88,3,0,20,5,Laboratorio de Bioquímica,lab op
+9267,2,12,88,3,0,20,5,Laboratorio de Bioquímica,lab op
+7376,2,12,88,3,0,20,5,Laboratorio de Bioquímica,lab op
+3628,3,15,78,3,0,15,5,Laboratorio de Anatomía 2,lab op
+8882,3,15,78,3,0,15,5,Laboratorio de Anatomía 2,lab op
+2173,3,15,78,3,0,15,5,Laboratorio de Anatomía 2,lab op
+2173,3,16,78,3,0,15,5,Laboratorio de Anatomía 2,lab op
+3628,3,16,78,3,0,15,5,Laboratorio de Anatomía 2,lab op
+8882,3,16,78,3,0,15,5,Laboratorio de Anatomía 2,lab op
+8460,3,15,88,3,0,15,5,Laboratorio de Bioquímica,lab op
+8882,3,15,88,3,0,15,5,Laboratorio de Bioquímica,lab op
+2173,3,15,88,3,0,15,5,Laboratorio de Bioquímica,lab op
+2173,3,16,88,3,0,15,5,Laboratorio de Bioquímica,lab op
+8460,3,16,88,3,0,15,5,Laboratorio de Bioquímica,lab op
+8882,3,16,88,3,0,15,5,Laboratorio de Bioquímica,lab op
+2173,4,11,78,3,0,13,5,Laboratorio de Anatomía 2,lab op
+8460,4,11,78,3,0,13,5,Laboratorio de Anatomía 2,lab op
+8882,4,11,78,3,0,13,5,Laboratorio de Anatomía 2,lab op
+2173,4,12,78,3,0,13,5,Laboratorio de Anatomía 2,lab op
+8460,4,12,78,3,0,13,5,Laboratorio de Anatomía 2,lab op
+8882,4,12,78,3,0,13,5,Laboratorio de Anatomía 2,lab op
+2173,4,11,88,3,0,13,5,Laboratorio de Bioquímica,lab op
+6515,4,11,88,3,0,13,5,Laboratorio de Bioquímica,lab op
+8882,4,11,88,3,0,13,5,Laboratorio de Bioquímica,lab op
+2173,4,12,88,3,0,13,5,Laboratorio de Bioquímica,lab op
+6515,4,12,88,3,0,13,5,Laboratorio de Bioquímica,lab op
+8882,4,12,88,3,0,13,5,Laboratorio de Bioquímica,lab op
+8460,4,9,78,3,0,16,5,Laboratorio de Anatomía 2,lab op
+8882,4,9,78,3,0,16,5,Laboratorio de Anatomía 2,lab op
+7376,4,9,78,3,0,16,5,Laboratorio de Anatomía 2,lab op
+8460,4,10,78,3,0,16,5,Laboratorio de Anatomía 2,lab op
+8882,4,10,78,3,0,16,5,Laboratorio de Anatomía 2,lab op
+7376,4,10,78,3,0,16,5,Laboratorio de Anatomía 2,lab op
+8882,4,9,88,3,0,16,5,Laboratorio de Bioquímica,lab op
+8460,4,9,88,3,0,16,5,Laboratorio de Bioquímica,lab op
+8882,4,9,88,3,0,16,5,Laboratorio de Bioquímica,lab op
+6515,4,9,88,3,0,16,5,Laboratorio de Bioquímica,lab op
+8460,4,10,88,3,0,16,5,Laboratorio de Bioquímica,lab op
+6515,4,10,88,3,0,16,5,Laboratorio de Bioquímica,lab op
+8882,4,10,88,3,0,16,5,Laboratorio de Bioquímica,lab op
+7376,5,9,78,3,0,14,5,Laboratorio de Anatomía 2,lab op
+8460,5,9,78,3,0,14,5,Laboratorio de Anatomía 2,lab op
+3628,5,9,78,3,0,14,5,Laboratorio de Anatomía 2,lab op
+8460,5,10,78,3,0,14,5,Laboratorio de Anatomía 2,lab op
+3628,5,10,78,3,0,14,5,Laboratorio de Anatomía 2,lab op
+7376,5,10,78,3,0,14,5,Laboratorio de Anatomía 2,lab op
+7376,5,9,88,3,0,14,5,Laboratorio de Bioquímica,lab op
+7376,5,9,88,3,0,14,5,Laboratorio de Bioquímica,lab op
+8990,5,9,88,3,0,14,5,Laboratorio de Bioquímica,lab op
+8460,5,10,88,3,0,14,5,Laboratorio de Bioquímica,lab op
+8990,5,10,88,3,0,14,5,Laboratorio de Bioquímica,lab op
+7376,5,10,88,3,0,14,5,Laboratorio de Bioquímica,lab op
+8466,5,5,80,3,0,7,5,Laboratorio de Física 3,lab op
+2204,5,5,80,3,0,7,5,Laboratorio de Física 3,lab op
+7376,5,5,80,3,0,7,5,Laboratorio de Física 3,lab op
+8466,5,6,80,3,0,7,5,Laboratorio de Física 3,lab op
+2204,5,6,80,3,0,7,5,Laboratorio de Física 3,lab op
+7376,5,6,80,3,0,7,5,Laboratorio de Física 3,lab op
+2204,5,6,80,3,0,7,5,Laboratorio de Física 3,lab op
+8466,5,1,89,3,0,7,5,Laboratorio de Física 4,lab op
+2204,5,1,89,3,0,7,5,Laboratorio de Física 4,lab op
+7376,5,1,89,3,0,7,5,Laboratorio de Física 4,lab op
+8466,5,2,89,3,0,7,5,Laboratorio de Física 4,lab op
+2204,5,2,89,3,0,7,5,Laboratorio de Física 4,lab op
+7376,5,2,89,3,0,7,5,Laboratorio de Física 4,lab op

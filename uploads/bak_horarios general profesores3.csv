@@ -1,0 +1,885 @@
+claveempleado,dia,horario,idasignatura,idgrado,asignaturalab,seccion,semestre,nombre_materia
+6822,3,2,91,1,0,17,1,Organización de la Información
+6822,3,3,91,1,0,15,1,Organización de la Información
+6822,3,4,91,1,0,15,1,Organización de la Información
+6822,3,5,91,1,0,28,1,Organización de la Información
+6822,3,6,91,1,0,28,1,Organización de la Información
+6822,3,7,91,1,0,24,1,Organización de la Información
+6822,3,8,91,1,0,24,1,Organización de la Información
+6822,4,1,91,1,0,15,1,Organización de la Información
+6822,4,2,91,1,0,15,1,Organización de la Información
+6822,4,3,91,1,0,22,1,Organización de la Información
+6822,4,4,91,1,0,22,1,Organización de la Información
+6822,4,5,91,1,0,31,1,Organización de la Información
+6822,4,6,91,1,0,31,1,Organización de la Información
+6822,4,7,91,1,0,29,1,Organización de la Información
+6822,4,8,91,1,0,29,1,Organización de la Información
+6822,5,3,91,1,0,29,1,Organización de la Información
+6822,5,4,91,1,0,29,1,Organización de la Información
+6822,5,5,91,1,0,31,1,Organización de la Información
+6822,5,6,91,1,0,31,1,Organización de la Información
+6822,5,7,91,1,0,23,1,Organización de la Información
+6822,5,8,91,1,0,23,1,Organización de la Información
+6827,1,5,52,3,0,4,5,Cálculo 1
+6827,1,6,52,3,0,4,5,Cálculo 1
+6827,1,7,37,3,0,7,5,Matemáticas 5
+6827,1,8,37,3,0,7,5,Matemáticas 5
+6827,1,15,123,2,0,20,3,Álgebra avanzada
+6827,1,16,123,2,0,20,3,Álgebra avanzada
+6827,2,1,37,3,0,7,5,Matemáticas 5
+6827,2,2,37,3,0,7,5,Matemáticas 5
+6827,2,3,52,3,0,4,5,Cálculo 1
+6827,2,4,52,3,0,4,5,Cálculo 1
+6827,2,11,123,2,0,20,3,Álgebra avanzada
+6827,2,12,123,2,0,20,3,Álgebra avanzada
+6827,2,13,37,3,0,13,5,Matemáticas 5
+6827,2,14,37,3,0,13,5,Matemáticas 5
+6827,3,1,52,3,0,21,5,Cálculo 1
+6827,3,2,52,3,0,21,5,Cálculo 1
+6827,3,5,52,3,0,4,5,Cálculo 1
+6827,3,6,52,3,0,4,5,Cálculo 1
+6827,3,11,37,3,0,13,5,Matemáticas 5
+6827,3,12,37,3,0,13,5,Matemáticas 5
+6827,3,13,37,3,0,11,5,Matemáticas 5
+6827,3,14,37,3,0,11,5,Matemáticas 5
+6827,4,3,52,3,0,21,5,Cálculo 1
+6827,4,4,52,3,0,21,5,Cálculo 1
+6827,4,5,37,3,0,7,5,Matemáticas 5
+6827,4,6,37,3,0,7,5,Matemáticas 5
+6827,4,11,37,3,0,13,5,Matemáticas 5
+6827,4,12,37,3,0,13,5,Matemáticas 5
+6827,4,15,37,3,0,11,5,Matemáticas 5
+6827,4,16,37,3,0,11,5,Matemáticas 5
+6827,5,7,52,3,0,21,5,Cálculo 1
+6827,5,8,52,3,0,21,5,Cálculo 1
+6827,5,11,37,3,0,11,5,Matemáticas 5
+6827,5,12,37,3,0,11,5,Matemáticas 5
+6870,1,3,91,1,0,13,1,Organización de la Información
+6870,1,4,91,1,0,13,1,Organización de la Información
+6870,1,5,91,1,0,14,1,Organización de la Información
+6870,1,6,91,1,0,14,1,Organización de la Información
+6870,1,7,91,1,0,21,1,Organización de la Información
+6870,1,8,91,1,0,21,1,Organización de la Información
+6870,2,1,91,1,0,6,1,Organización de la Información
+6870,2,2,91,1,0,6,1,Organización de la Información
+6870,2,3,91,1,0,26,1,Organización de la Información
+6870,2,4,91,1,0,26,1,Organización de la Información
+6870,2,5,91,1,0,19,1,Organización de la Información
+6870,2,6,91,1,0,19,1,Organización de la Información
+6870,2,7,91,1,0,13,1,Organización de la Información
+6870,2,8,91,1,0,13,1,Organización de la Información
+6870,3,1,91,1,0,11,1,Organización de la Información
+6870,3,2,91,1,0,11,1,Organización de la Información
+6870,3,3,91,1,0,26,1,Organización de la Información
+6870,3,4,91,1,0,26,1,Organización de la Información
+6870,3,5,91,1,0,6,1,Organización de la Información
+6870,3,6,91,1,0,6,1,Organización de la Información
+6870,3,7,91,1,0,21,1,Organización de la Información
+6870,3,8,91,1,0,21,1,Organización de la Información
+6870,4,3,91,1,0,18,1,Organización de la Información
+6870,4,4,91,1,0,18,1,Organización de la Información
+6870,4,5,91,1,0,14,1,Organización de la Información
+6870,4,6,91,1,0,14,1,Organización de la Información
+6870,4,7,91,1,0,19,1,Organización de la Información
+6870,4,8,91,1,0,19,1,Organización de la Información
+6870,5,1,91,1,0,18,1,Organización de la Información
+6870,5,2,91,1,0,18,1,Organización de la Información
+6870,5,7,91,1,0,11,1,Organización de la Información
+6870,5,8,91,1,0,11,1,Organización de la Información
+6877,1,9,154,2,0,26,3,La representación matemática y sus aplicaciones
+6877,1,10,154,2,0,21,3,La representación matemática y sus aplicaciones
+6877,1,13,154,2,0,23,3,La representación matemática y sus aplicaciones
+6877,1,14,154,2,0,23,3,La representación matemática y sus aplicaciones
+6877,1,15,154,2,0,28,3,La representación matemática y sus aplicaciones
+6877,1,16,154,2,0,28,3,La representación matemática y sus aplicaciones
+6877,2,9,154,2,0,28,3,La representación matemática y sus aplicaciones
+6877,2,10,154,2,0,28,3,La representación matemática y sus aplicaciones
+6877,2,11,154,2,0,9,3,La representación matemática y sus aplicaciones
+6877,2,12,154,2,0,9,3,La representación matemática y sus aplicaciones
+6877,2,13,154,2,0,27,3,La representación matemática y sus aplicaciones
+6877,2,14,154,2,0,27,3,La representación matemática y sus aplicaciones
+6877,2,15,154,2,0,25,3,La representación matemática y sus aplicaciones
+6877,3,9,154,2,0,23,3,La representación matemática y sus aplicaciones
+6877,3,10,154,2,0,23,3,La representación matemática y sus aplicaciones
+6877,3,11,154,2,0,25,3,La representación matemática y sus aplicaciones
+6877,3,12,154,2,0,25,3,La representación matemática y sus aplicaciones
+6877,3,13,154,2,0,9,3,La representación matemática y sus aplicaciones
+6877,3,14,154,2,0,9,3,La representación matemática y sus aplicaciones
+6877,3,15,154,2,0,26,3,La representación matemática y sus aplicaciones
+6877,3,16,154,2,0,26,3,La representación matemática y sus aplicaciones
+6877,4,9,154,2,0,23,3,La representación matemática y sus aplicaciones
+6877,4,10,154,2,0,28,3,La representación matemática y sus aplicaciones
+6877,4,11,154,2,0,21,3,La representación matemática y sus aplicaciones
+6877,4,12,154,2,0,21,3,La representación matemática y sus aplicaciones
+6877,4,13,154,2,0,25,3,La representación matemática y sus aplicaciones
+6877,4,14,154,2,0,25,3,La representación matemática y sus aplicaciones
+6877,4,15,154,2,0,27,3,La representación matemática y sus aplicaciones
+6877,5,9,154,2,0,21,3,La representación matemática y sus aplicaciones
+6877,5,10,154,2,0,21,3,La representación matemática y sus aplicaciones
+6877,5,11,154,2,0,9,3,La representación matemática y sus aplicaciones
+6877,5,13,154,2,0,26,3,La representación matemática y sus aplicaciones
+6877,5,14,154,2,0,26,3,La representación matemática y sus aplicaciones
+6877,5,15,154,2,0,27,3,La representación matemática y sus aplicaciones
+6877,5,16,154,2,0,27,3,La representación matemática y sus aplicaciones
+6992,1,9,152,2,0,13,3,Beginner III
+6992,1,10,152,2,0,13,3,Beginner III
+6992,1,11,152,2,0,1,3,Beginner III
+6992,1,12,152,2,0,1,3,Beginner III
+6992,1,15,152,2,0,25,3,Beginner III
+6992,1,16,152,2,0,25,3,Beginner III
+6992,2,9,152,2,0,13,3,Beginner III
+6992,2,10,152,2,0,13,3,Beginner III
+6992,2,13,152,2,0,2,3,Beginner III
+6992,2,14,152,2,0,2,3,Beginner III
+6992,2,15,152,2,0,12,3,Beginner III
+6992,2,16,152,2,0,12,3,Beginner III
+6992,3,9,152,2,0,6,3,Beginner III
+6992,3,10,152,2,0,6,3,Beginner III
+6992,3,13,152,2,0,1,3,Beginner III
+6992,3,14,152,2,0,1,3,Beginner III
+6992,3,15,152,2,0,3,3,Beginner III
+6992,3,16,152,2,0,3,3,Beginner III
+6992,4,9,152,2,0,2,3,Beginner III
+6992,4,10,152,2,0,2,3,Beginner III
+6992,4,11,152,2,0,8,3,Beginner III
+6992,4,12,152,2,0,8,3,Beginner III
+6992,4,15,152,2,0,3,3,Beginner III
+6992,4,16,152,2,0,3,3,Beginner III
+6992,5,9,152,2,0,8,3,Beginner III
+6992,5,10,152,2,0,8,3,Beginner III
+6992,5,11,152,2,0,12,3,Beginner III
+6992,5,12,152,2,0,12,3,Beginner III
+6992,5,13,152,2,0,25,3,Beginner III
+6992,5,14,152,2,0,25,3,Beginner III
+6992,5,15,152,2,0,6,3,Beginner III
+6992,5,16,152,2,0,6,3,Beginner III
+6996,1,9,155,2,0,14,3,Administración contemporánea y liderazgo emprendedor
+6996,1,10,155,2,0,14,3,Administración contemporánea y liderazgo emprendedor
+6996,1,11,155,2,0,10,3,Administración contemporánea y liderazgo emprendedor
+6996,1,12,155,2,0,10,3,Administración contemporánea y liderazgo emprendedor
+6996,1,15,155,2,0,9,3,Administración contemporánea y liderazgo emprendedor
+6996,1,16,155,2,0,9,3,Administración contemporánea y liderazgo emprendedor
+6996,2,9,155,2,0,15,3,Administración contemporánea y liderazgo emprendedor
+6996,2,10,155,2,0,15,3,Administración contemporánea y liderazgo emprendedor
+6996,2,11,155,2,0,19,3,Administración contemporánea y liderazgo emprendedor
+6996,2,12,155,2,0,19,3,Administración contemporánea y liderazgo emprendedor
+6996,2,13,155,2,0,11,3,Administración contemporánea y liderazgo emprendedor
+6996,2,14,155,2,0,11,3,Administración contemporánea y liderazgo emprendedor
+6996,2,15,155,2,0,10,3,Administración contemporánea y liderazgo emprendedor
+6996,2,16,155,2,0,10,3,Administración contemporánea y liderazgo emprendedor
+6996,3,9,155,2,0,15,3,Administración contemporánea y liderazgo emprendedor
+6996,3,10,155,2,0,15,3,Administración contemporánea y liderazgo emprendedor
+6996,3,11,155,2,0,12,3,Administración contemporánea y liderazgo emprendedor
+6996,3,12,155,2,0,12,3,Administración contemporánea y liderazgo emprendedor
+6996,3,13,155,2,0,13,3,Administración contemporánea y liderazgo emprendedor
+6996,3,14,155,2,0,13,3,Administración contemporánea y liderazgo emprendedor
+6996,3,15,155,2,0,16,3,Administración contemporánea y liderazgo emprendedor
+6996,3,16,155,2,0,16,3,Administración contemporánea y liderazgo emprendedor
+6996,4,9,155,2,0,9,3,Administración contemporánea y liderazgo emprendedor
+6996,4,10,155,2,0,9,3,Administración contemporánea y liderazgo emprendedor
+6996,4,11,155,2,0,12,3,Administración contemporánea y liderazgo emprendedor
+6996,4,12,155,2,0,12,3,Administración contemporánea y liderazgo emprendedor
+6996,4,13,155,2,0,11,3,Administración contemporánea y liderazgo emprendedor
+6996,4,14,155,2,0,11,3,Administración contemporánea y liderazgo emprendedor
+6996,4,15,155,2,0,19,3,Administración contemporánea y liderazgo emprendedor
+6996,4,16,155,2,0,19,3,Administración contemporánea y liderazgo emprendedor
+6996,5,11,155,2,0,14,3,Administración contemporánea y liderazgo emprendedor
+6996,5,12,155,2,0,14,3,Administración contemporánea y liderazgo emprendedor
+6996,5,13,155,2,0,16,3,Administración contemporánea y liderazgo emprendedor
+6996,5,14,155,2,0,16,3,Administración contemporánea y liderazgo emprendedor
+6996,5,15,155,2,0,13,3,Administración contemporánea y liderazgo emprendedor
+6996,5,16,155,2,0,13,3,Administración contemporánea y liderazgo emprendedor
+7098,1,11,154,2,0,11,3,La representación matemática y sus aplicaciones
+7098,1,12,154,2,0,11,3,La representación matemática y sus aplicaciones
+7098,1,13,154,2,0,24,3,La representación matemática y sus aplicaciones
+7098,1,14,154,2,0,24,3,La representación matemática y sus aplicaciones
+7098,1,15,154,2,0,22,3,La representación matemática y sus aplicaciones
+7098,1,16,154,2,0,22,3,La representación matemática y sus aplicaciones
+7098,2,9,154,2,0,11,3,La representación matemática y sus aplicaciones
+7098,2,11,154,2,0,16,3,La representación matemática y sus aplicaciones
+7098,2,12,154,2,0,16,3,La representación matemática y sus aplicaciones
+7098,2,13,154,2,0,5,3,La representación matemática y sus aplicaciones
+7098,2,14,154,2,0,5,3,La representación matemática y sus aplicaciones
+7098,2,15,154,2,0,14,3,La representación matemática y sus aplicaciones
+7098,2,16,154,2,0,14,3,La representación matemática y sus aplicaciones
+7098,3,10,154,2,0,22,3,La representación matemática y sus aplicaciones
+7098,3,13,154,2,0,16,3,La representación matemática y sus aplicaciones
+7098,3,15,154,2,0,5,3,La representación matemática y sus aplicaciones
+7098,3,16,154,2,0,5,3,La representación matemática y sus aplicaciones
+7098,4,10,154,2,0,24,3,La representación matemática y sus aplicaciones
+7098,4,11,154,2,0,16,3,La representación matemática y sus aplicaciones
+7098,4,12,154,2,0,16,3,La representación matemática y sus aplicaciones
+7098,4,13,154,2,0,14,3,La representación matemática y sus aplicaciones
+7098,4,14,154,2,0,14,3,La representación matemática y sus aplicaciones
+7098,4,15,154,2,0,22,3,La representación matemática y sus aplicaciones
+7098,4,16,154,2,0,22,3,La representación matemática y sus aplicaciones
+7098,5,11,154,2,0,24,3,La representación matemática y sus aplicaciones
+7098,5,12,154,2,0,24,3,La representación matemática y sus aplicaciones
+7098,5,13,154,2,0,14,3,La representación matemática y sus aplicaciones
+7098,5,14,154,2,0,5,3,La representación matemática y sus aplicaciones
+7098,5,15,154,2,0,11,3,La representación matemática y sus aplicaciones
+7098,5,16,154,2,0,11,3,La representación matemática y sus aplicaciones
+7117,1,1,93,1,0,16,1,Pensamiento Lógico y Crítico
+7117,1,2,93,1,0,16,1,Pensamiento Lógico y Crítico
+7117,1,3,93,1,0,15,1,Pensamiento Lógico y Crítico
+7117,1,4,93,1,0,15,1,Pensamiento Lógico y Crítico
+7117,1,5,93,1,0,18,1,Pensamiento Lógico y Crítico
+7117,1,6,93,1,0,18,1,Pensamiento Lógico y Crítico
+7117,1,7,93,1,0,14,1,Pensamiento Lógico y Crítico
+7117,1,8,93,1,0,14,1,Pensamiento Lógico y Crítico
+7117,2,1,93,1,0,19,1,Pensamiento Lógico y Crítico
+7117,2,2,93,1,0,19,1,Pensamiento Lógico y Crítico
+7117,2,7,93,1,0,20,1,Pensamiento Lógico y Crítico
+7117,2,8,93,1,0,20,1,Pensamiento Lógico y Crítico
+7117,3,1,93,1,0,15,1,Pensamiento Lógico y Crítico
+7117,3,2,93,1,0,15,1,Pensamiento Lógico y Crítico
+7117,3,3,93,1,0,16,1,Pensamiento Lógico y Crítico
+7117,3,4,93,1,0,16,1,Pensamiento Lógico y Crítico
+7117,3,5,93,1,0,19,1,Pensamiento Lógico y Crítico
+7117,3,6,93,1,0,19,1,Pensamiento Lógico y Crítico
+7117,3,7,93,1,0,14,1,Pensamiento Lógico y Crítico
+7117,3,8,93,1,0,14,1,Pensamiento Lógico y Crítico
+7117,4,3,93,1,0,21,1,Pensamiento Lógico y Crítico
+7117,4,4,93,1,0,21,1,Pensamiento Lógico y Crítico
+7117,4,5,93,1,0,18,1,Pensamiento Lógico y Crítico
+7117,4,6,93,1,0,18,1,Pensamiento Lógico y Crítico
+7117,4,7,93,1,0,17,1,Pensamiento Lógico y Crítico
+7117,4,8,93,1,0,17,1,Pensamiento Lógico y Crítico
+7117,5,3,93,1,0,21,1,Pensamiento Lógico y Crítico
+7117,5,4,93,1,0,21,1,Pensamiento Lógico y Crítico
+7117,5,5,93,1,0,20,1,Pensamiento Lógico y Crítico
+7117,5,6,93,1,0,20,1,Pensamiento Lógico y Crítico
+7117,5,7,93,1,0,17,1,Pensamiento Lógico y Crítico
+7117,5,8,93,1,0,17,1,Pensamiento Lógico y Crítico
+7128,4,9,159,2,0,1,3,Beneficios de las actividades físico deportivas y artisticas
+7128,4,10,159,2,0,1,3,Beneficios de las actividades físico deportivas y artisticas
+7354,2,3,100,1,0,30,1,Mi Expresión Física y Artistica
+7354,2,4,100,1,0,30,1,Mi Expresión Física y Artistica
+7354,4,3,100,1,0,25,1,Mi Expresión Física y Artistica
+7354,4,4,100,1,0,25,1,Mi Expresión Física y Artistica
+7354,4,7,100,1,0,24,1,Mi Expresión Física y Artistica
+7354,4,8,100,1,0,24,1,Mi Expresión Física y Artistica
+7357,1,5,100,1,0,12,1,Mi Expresión Física y Artistica
+7357,1,6,100,1,0,12,1,Mi Expresión Física y Artistica
+7357,4,5,100,1,0,20,1,Mi Expresión Física y Artistica
+7357,4,6,100,1,0,20,1,Mi Expresión Física y Artistica
+7357,5,3,100,1,0,26,1,Mi Expresión Física y Artistica
+7357,5,4,100,1,0,26,1,Mi Expresión Física y Artistica
+7379,5,9,160,2,0,6,3,Adjunto Los seres vivos y su diversidad
+7379,5,10,160,2,0,6,3,Adjunto Los seres vivos y su diversidad
+7379,5,13,160,2,0,1,3,Adjunto Los seres vivos y su diversidad
+7379,5,14,160,2,0,1,3,Adjunto Los seres vivos y su diversidad
+7381,1,7,39,3,0,9,5,Derecho 1
+7381,1,8,39,3,0,9,5,Derecho 1
+7381,1,11,39,3,0,15,5,Derecho 1
+7381,1,12,39,3,0,15,5,Derecho 1
+7381,1,13,39,3,0,14,5,Derecho 1
+7381,1,14,39,3,0,14,5,Derecho 1
+7381,2,5,39,3,0,9,5,Derecho 1
+7381,2,6,39,3,0,9,5,Derecho 1
+7381,2,9,39,3,0,14,5,Derecho 1
+7381,2,10,39,3,0,14,5,Derecho 1
+7381,2,11,39,3,0,11,5,Derecho 1
+7381,2,12,39,3,0,11,5,Derecho 1
+7381,2,15,39,3,0,10,5,Derecho 1
+7381,2,16,39,3,0,10,5,Derecho 1
+7381,3,11,39,3,0,10,5,Derecho 1
+7381,3,12,39,3,0,10,5,Derecho 1
+7381,3,13,39,3,0,12,5,Derecho 1
+7381,3,14,39,3,0,12,5,Derecho 1
+7381,3,15,39,3,0,22,5,Derecho 1
+7381,3,16,39,3,0,22,5,Derecho 1
+7381,4,11,39,3,0,12,5,Derecho 1
+7381,4,12,39,3,0,12,5,Derecho 1
+7381,4,15,39,3,0,13,5,Derecho 1
+7381,4,16,39,3,0,13,5,Derecho 1
+7381,5,9,39,3,0,11,5,Derecho 1
+7381,5,10,39,3,0,11,5,Derecho 1
+7381,5,11,39,3,0,13,5,Derecho 1
+7381,5,12,39,3,0,13,5,Derecho 1
+7381,5,13,39,3,0,15,5,Derecho 1
+7381,5,14,39,3,0,15,5,Derecho 1
+7381,5,15,39,3,0,22,5,Derecho 1
+7381,5,16,39,3,0,22,5,Derecho 1
+7474,1,3,90,1,0,9,1,Beginner I
+7474,1,4,90,1,0,9,1,Beginner I
+7474,1,5,90,1,0,29,1,Beginner I
+7474,1,6,90,1,0,29,1,Beginner I
+7474,2,1,90,1,0,28,1,Beginner I
+7474,2,2,90,1,0,28,1,Beginner I
+7474,2,3,90,1,0,14,1,Beginner I
+7474,2,4,90,1,0,14,1,Beginner I
+7474,2,5,90,1,0,29,1,Beginner I
+7474,2,6,90,1,0,29,1,Beginner I
+7474,2,7,90,1,0,18,1,Beginner I
+7474,2,8,90,1,0,18,1,Beginner I
+7474,3,3,90,1,0,9,1,Beginner I
+7474,3,4,90,1,0,9,1,Beginner I
+7474,3,5,90,1,0,20,1,Beginner I
+7474,3,6,90,1,0,20,1,Beginner I
+7474,3,7,90,1,0,30,1,Beginner I
+7474,3,8,90,1,0,30,1,Beginner I
+7474,4,1,90,1,0,18,1,Beginner I
+7474,4,2,90,1,0,18,1,Beginner I
+7474,4,3,90,1,0,20,1,Beginner I
+7474,4,4,90,1,0,20,1,Beginner I
+7474,4,7,90,1,0,14,1,Beginner I
+7474,4,8,90,1,0,14,1,Beginner I
+7474,5,3,90,1,0,30,1,Beginner I
+7474,5,4,90,1,0,30,1,Beginner I
+7474,5,5,90,1,0,28,1,Beginner I
+7474,5,6,90,1,0,28,1,Beginner I
+7582,1,1,38,3,0,4,5,Análisis Literario 3
+7582,1,2,38,3,0,4,5,Análisis Literario 3
+7582,1,3,38,3,0,6,5,Análisis Literario 3
+7582,1,4,38,3,0,6,5,Análisis Literario 3
+7582,1,5,151,1,0,30,1,Conformación histórica del mundo occidental
+7582,1,6,151,1,0,30,1,Conformación histórica del mundo occidental
+7582,1,7,151,1,0,31,1,Conformación histórica del mundo occidental
+7582,1,8,151,1,0,31,1,Conformación histórica del mundo occidental
+7582,3,5,151,1,0,30,1,Conformación histórica del mundo occidental
+7582,3,6,151,1,0,30,1,Conformación histórica del mundo occidental
+7582,3,7,151,1,0,31,1,Conformación histórica del mundo occidental
+7582,3,8,151,1,0,31,1,Conformación histórica del mundo occidental
+7582,4,5,38,3,0,6,5,Análisis Literario 3
+7582,4,6,38,3,0,6,5,Análisis Literario 3
+7582,4,7,38,3,0,21,5,Análisis Literario 3
+7582,4,8,38,3,0,21,5,Análisis Literario 3
+7582,5,1,38,3,0,4,5,Análisis Literario 3
+7582,5,2,38,3,0,4,5,Análisis Literario 3
+7582,5,3,38,3,0,21,5,Análisis Literario 3
+7582,5,4,38,3,0,21,5,Análisis Literario 3
+7589,1,1,162,1,0,25,1,Tutor de Primero
+7589,1,2,162,1,0,25,1,Tutor de Primero
+7589,2,5,162,1,0,7,1,Tutor de Primero
+7589,2,6,162,1,0,7,1,Tutor de Primero
+7589,2,7,164,3,0,21,5,Tutor de Tercero
+7589,2,8,164,3,0,21,5,Tutor de Tercero
+7589,3,5,162,1,0,17,1,Tutor de Primero
+7589,3,5,164,3,0,21,5,Tutor de Tercero
+7589,3,6,162,1,0,17,1,Tutor de Primero
+7589,3,6,164,3,0,21,5,Tutor de Tercero
+7589,3,7,164,3,0,6,5,Tutor de Tercero
+7589,3,8,164,3,0,6,5,Tutor de Tercero
+7589,4,5,162,1,0,15,1,Tutor de Primero
+7589,4,6,162,1,0,15,1,Tutor de Primero
+7589,5,5,162,1,0,9,1,Tutor de Primero
+7589,5,6,162,1,0,9,1,Tutor de Primero
+7724,1,7,162,1,0,20,1,Tutor de Primero
+7724,1,8,162,1,0,20,1,Tutor de Primero
+7724,2,5,162,1,0,30,1,Tutor de Primero
+7724,2,6,162,1,0,30,1,Tutor de Primero
+7724,2,7,162,1,0,31,1,Tutor de Primero
+7724,2,8,162,1,0,31,1,Tutor de Primero
+7724,3,3,164,3,0,2,5,Tutor de Tercero
+7724,3,4,164,3,0,2,5,Tutor de Tercero
+7724,3,5,162,1,0,10,1,Tutor de Primero
+7724,3,6,162,1,0,10,1,Tutor de Primero
+7724,3,7,162,1,0,29,1,Tutor de Primero
+7724,3,8,162,1,0,29,1,Tutor de Primero
+7724,4,5,97,1,0,11,1,Adaptación en Contextos
+7724,4,5,162,1,0,11,1,Tutor de Primero
+7724,4,6,97,1,0,11,1,Adaptación en Contextos
+7724,4,6,162,1,0,11,1,Tutor de Primero
+7724,5,3,162,1,0,16,1,Tutor de Primero
+7724,5,4,162,1,0,16,1,Tutor de Primero
+7724,5,5,162,1,0,18,1,Tutor de Primero
+7724,5,6,162,1,0,18,1,Tutor de Primero
+7732,1,1,97,1,0,3,1,Adaptación en Contextos
+7732,1,2,97,1,0,3,1,Adaptación en Contextos
+7732,1,3,97,1,0,5,1,Adaptación en Contextos
+7732,1,4,97,1,0,5,1,Adaptación en Contextos
+7732,1,5,97,1,0,27,1,Adaptación en Contextos
+7732,1,6,97,1,0,27,1,Adaptación en Contextos
+7732,1,7,97,1,0,13,1,Adaptación en Contextos
+7732,1,8,97,1,0,13,1,Adaptación en Contextos
+7732,2,3,97,1,0,2,1,Adaptación en Contextos
+7732,2,4,97,1,0,2,1,Adaptación en Contextos
+7732,2,5,97,1,0,7,1,Adaptación en Contextos
+7732,2,6,97,1,0,7,1,Adaptación en Contextos
+7732,2,7,97,1,0,1,1,Adaptación en Contextos
+7732,2,8,97,1,0,1,1,Adaptación en Contextos
+7732,3,1,97,1,0,28,1,Adaptación en Contextos
+7732,3,2,97,1,0,28,1,Adaptación en Contextos
+7732,3,3,97,1,0,23,1,Adaptación en Contextos
+7732,3,4,97,1,0,23,1,Adaptación en Contextos
+7732,3,5,97,1,0,17,1,Adaptación en Contextos
+7732,3,6,97,1,0,17,1,Adaptación en Contextos
+7732,3,7,97,1,0,22,1,Adaptación en Contextos
+7732,3,8,97,1,0,22,1,Adaptación en Contextos
+7732,4,3,97,1,0,19,1,Adaptación en Contextos
+7732,4,4,97,1,0,19,1,Adaptación en Contextos
+7732,4,5,97,1,0,15,1,Adaptación en Contextos
+7732,4,6,97,1,0,15,1,Adaptación en Contextos
+7732,4,7,97,1,0,6,1,Adaptación en Contextos
+7732,4,8,97,1,0,6,1,Adaptación en Contextos
+7732,5,1,97,1,0,12,1,Adaptación en Contextos
+7732,5,2,97,1,0,12,1,Adaptación en Contextos
+7732,5,3,97,1,0,16,1,Adaptación en Contextos
+7732,5,4,97,1,0,16,1,Adaptación en Contextos
+7732,5,5,97,1,0,9,1,Adaptación en Contextos
+7732,5,6,97,1,0,9,1,Adaptación en Contextos
+7732,5,7,97,1,0,24,1,Adaptación en Contextos
+7732,5,8,97,1,0,24,1,Adaptación en Contextos
+7841,1,1,97,1,0,25,1,Adaptación en Contextos
+7841,1,2,97,1,0,25,1,Adaptación en Contextos
+7841,1,3,97,1,0,26,1,Adaptación en Contextos
+7841,1,4,97,1,0,26,1,Adaptación en Contextos
+7841,1,7,97,1,0,20,1,Adaptación en Contextos
+7841,1,8,97,1,0,20,1,Adaptación en Contextos
+7841,1,9,157,2,0,23,3,Relaciones humanas efectivas
+7841,1,10,157,2,0,23,3,Relaciones humanas efectivas
+7841,2,5,97,1,0,30,1,Adaptación en Contextos
+7841,2,6,97,1,0,30,1,Adaptación en Contextos
+7841,2,7,97,1,0,31,1,Adaptación en Contextos
+7841,2,8,97,1,0,31,1,Adaptación en Contextos
+7841,2,9,157,2,0,27,3,Relaciones humanas efectivas
+7841,2,10,157,2,0,27,3,Relaciones humanas efectivas
+7841,3,3,97,1,0,14,1,Adaptación en Contextos
+7841,3,4,97,1,0,14,1,Adaptación en Contextos
+7841,3,5,97,1,0,10,1,Adaptación en Contextos
+7841,3,6,97,1,0,10,1,Adaptación en Contextos
+7841,3,7,97,1,0,29,1,Adaptación en Contextos
+7841,3,8,97,1,0,29,1,Adaptación en Contextos
+7841,3,9,157,2,0,24,3,Relaciones humanas efectivas
+7841,3,10,157,2,0,24,3,Relaciones humanas efectivas
+7841,4,11,157,2,0,29,3,Relaciones humanas efectivas
+7841,4,12,157,2,0,29,3,Relaciones humanas efectivas
+7841,4,13,157,2,0,21,3,Relaciones humanas efectivas
+7841,4,14,157,2,0,21,3,Relaciones humanas efectivas
+7841,5,5,97,1,0,18,1,Adaptación en Contextos
+7841,5,6,97,1,0,18,1,Adaptación en Contextos
+7841,5,7,97,1,0,21,1,Adaptación en Contextos
+7841,5,8,97,1,0,21,1,Adaptación en Contextos
+7841,5,9,157,2,0,28,3,Relaciones humanas efectivas
+7841,5,10,157,2,0,28,3,Relaciones humanas efectivas
+7841,5,11,157,2,0,22,3,Relaciones humanas efectivas
+7841,5,12,157,2,0,22,3,Relaciones humanas efectivas
+7841,5,13,157,2,0,6,3,Relaciones humanas efectivas
+7841,5,14,157,2,0,6,3,Relaciones humanas efectivas
+7969,1,1,92,1,0,8,1,Etimologías I
+7969,1,2,92,1,0,8,1,Etimologías I
+7969,1,3,92,1,0,30,1,Etimologías I
+7969,1,4,92,1,0,30,1,Etimologías I
+7969,1,5,92,1,0,21,1,Etimologías I
+7969,1,6,92,1,0,21,1,Etimologías I
+7969,1,7,92,1,0,4,1,Etimologías I
+7969,1,8,92,1,0,4,1,Etimologías I
+7969,2,1,92,1,0,31,1,Etimologías I
+7969,2,2,92,1,0,31,1,Etimologías I
+7969,2,5,92,1,0,2,1,Etimologías I
+7969,2,6,92,1,0,2,1,Etimologías I
+7969,2,7,92,1,0,5,1,Etimologías I
+7969,2,8,92,1,0,5,1,Etimologías I
+7969,3,1,92,1,0,13,1,Etimologías I
+7969,3,2,92,1,0,13,1,Etimologías I
+7969,3,3,92,1,0,21,1,Etimologías I
+7969,3,4,92,1,0,21,1,Etimologías I
+7969,3,5,92,1,0,31,1,Etimologías I
+7969,3,6,92,1,0,31,1,Etimologías I
+7969,3,7,92,1,0,7,1,Etimologías I
+7969,3,8,92,1,0,7,1,Etimologías I
+7969,4,1,92,1,0,30,1,Etimologías I
+7969,4,2,92,1,0,30,1,Etimologías I
+7969,4,3,92,1,0,13,1,Etimologías I
+7969,4,4,92,1,0,13,1,Etimologías I
+7969,4,5,92,1,0,7,1,Etimologías I
+7969,4,6,92,1,0,7,1,Etimologías I
+7969,4,7,92,1,0,2,1,Etimologías I
+7969,4,8,92,1,0,2,1,Etimologías I
+7969,5,1,92,1,0,4,1,Etimologías I
+7969,5,2,92,1,0,4,1,Etimologías I
+7969,5,3,92,1,0,5,1,Etimologías I
+7969,5,4,92,1,0,5,1,Etimologías I
+7969,5,7,92,1,0,8,1,Etimologías I
+7969,5,8,92,1,0,8,1,Etimologías I
+7972,1,11,154,2,0,3,3,La representación matemática y sus aplicaciones
+7972,1,12,154,2,0,3,3,La representación matemática y sus aplicaciones
+7972,1,15,37,3,0,12,5,Matemáticas 5
+7972,1,16,37,3,0,12,5,Matemáticas 5
+7972,2,11,37,3,0,12,5,Matemáticas 5
+7972,2,12,37,3,0,12,5,Matemáticas 5
+7972,2,14,154,2,0,18,3,La representación matemática y sus aplicaciones
+7972,2,15,154,2,0,3,3,La representación matemática y sus aplicaciones
+7972,2,16,154,2,0,29,3,La representación matemática y sus aplicaciones
+7972,3,13,154,2,0,29,3,La representación matemática y sus aplicaciones
+7972,3,14,154,2,0,29,3,La representación matemática y sus aplicaciones
+7972,3,15,154,2,0,18,3,La representación matemática y sus aplicaciones
+7972,3,16,154,2,0,18,3,La representación matemática y sus aplicaciones
+7972,4,15,37,3,0,12,5,Matemáticas 5
+7972,4,16,37,3,0,12,5,Matemáticas 5
+7972,5,11,154,2,0,29,3,La representación matemática y sus aplicaciones
+7972,5,12,154,2,0,29,3,La representación matemática y sus aplicaciones
+7972,5,13,154,2,0,3,3,La representación matemática y sus aplicaciones
+7972,5,14,154,2,0,3,3,La representación matemática y sus aplicaciones
+7972,5,15,154,2,0,18,3,La representación matemática y sus aplicaciones
+7972,5,16,154,2,0,18,3,La representación matemática y sus aplicaciones
+7984,1,7,99,1,0,12,1,Uso de las TIC I
+7984,1,8,99,1,0,12,1,Uso de las TIC I
+7984,2,7,99,1,0,16,1,Uso de las TIC I
+7984,2,8,99,1,0,16,1,Uso de las TIC I
+7984,3,7,99,1,0,20,1,Uso de las TIC I
+7984,3,7,99,1,0,3,1,Uso de las TIC I
+7984,3,8,99,1,0,20,1,Uso de las TIC I
+7984,3,8,99,1,0,3,1,Uso de las TIC I
+7984,4,7,99,1,0,1,1,Uso de las TIC I
+7984,4,7,99,1,0,30,1,Uso de las TIC I
+7984,4,8,99,1,0,1,1,Uso de las TIC I
+7984,4,8,99,1,0,30,1,Uso de las TIC I
+7984,5,7,99,1,0,26,1,Uso de las TIC I
+7984,5,7,99,1,0,7,1,Uso de las TIC I
+7984,5,8,99,1,0,26,1,Uso de las TIC I
+7984,5,8,99,1,0,7,1,Uso de las TIC I
+7994,1,9,157,2,0,9,3,Relaciones humanas efectivas
+7994,1,10,157,2,0,9,3,Relaciones humanas efectivas
+7994,1,11,157,2,0,14,3,Relaciones humanas efectivas
+7994,1,12,157,2,0,14,3,Relaciones humanas efectivas
+7994,1,13,157,2,0,15,3,Relaciones humanas efectivas
+7994,1,14,157,2,0,15,3,Relaciones humanas efectivas
+7994,1,15,157,2,0,10,3,Relaciones humanas efectivas
+7994,1,16,157,2,0,10,3,Relaciones humanas efectivas
+7994,2,9,157,2,0,5,3,Relaciones humanas efectivas
+7994,2,10,157,2,0,5,3,Relaciones humanas efectivas
+7994,2,11,157,2,0,11,3,Relaciones humanas efectivas
+7994,2,12,157,2,0,11,3,Relaciones humanas efectivas
+7994,2,13,157,2,0,17,3,Relaciones humanas efectivas
+7994,2,14,157,2,0,17,3,Relaciones humanas efectivas
+7994,3,9,157,2,0,16,3,Relaciones humanas efectivas
+7994,3,10,157,2,0,16,3,Relaciones humanas efectivas
+7994,3,11,157,2,0,19,3,Relaciones humanas efectivas
+7994,3,12,157,2,0,19,3,Relaciones humanas efectivas
+7994,3,13,157,2,0,2,3,Relaciones humanas efectivas
+7994,3,14,157,2,0,2,3,Relaciones humanas efectivas
+7994,3,15,157,2,0,7,3,Relaciones humanas efectivas
+7994,3,16,157,2,0,7,3,Relaciones humanas efectivas
+7994,4,9,157,2,0,20,3,Relaciones humanas efectivas
+7994,4,10,157,2,0,20,3,Relaciones humanas efectivas
+7994,4,11,157,2,0,18,3,Relaciones humanas efectivas
+7994,4,12,157,2,0,18,3,Relaciones humanas efectivas
+7994,4,13,157,2,0,26,3,Relaciones humanas efectivas
+7994,4,14,157,2,0,26,3,Relaciones humanas efectivas
+7994,5,9,157,2,0,13,3,Relaciones humanas efectivas
+7994,5,10,157,2,0,13,3,Relaciones humanas efectivas
+7994,5,11,157,2,0,3,3,Relaciones humanas efectivas
+7994,5,12,157,2,0,3,3,Relaciones humanas efectivas
+7994,5,13,157,2,0,4,3,Relaciones humanas efectivas
+7994,5,14,157,2,0,4,3,Relaciones humanas efectivas
+7994,5,15,157,2,0,8,3,Relaciones humanas efectivas
+7994,5,16,157,2,0,8,3,Relaciones humanas efectivas
+8281,1,3,99,1,0,25,1,Uso de las TIC I
+8281,1,3,99,1,0,28,1,Uso de las TIC I
+8281,1,4,99,1,0,25,1,Uso de las TIC I
+8281,1,4,99,1,0,28,1,Uso de las TIC I
+8281,1,5,99,1,0,15,1,Uso de las TIC I
+8281,1,6,99,1,0,15,1,Uso de las TIC I
+8281,2,3,99,1,0,5,1,Uso de las TIC I
+8281,2,4,99,1,0,5,1,Uso de las TIC I
+8281,2,5,99,1,0,4,1,Uso de las TIC I
+8281,2,6,99,1,0,4,1,Uso de las TIC I
+8281,2,15,132,2,0,28,3,Administrador de medios sociales I
+8281,2,16,132,2,0,28,3,Administrador de medios sociales I
+8281,3,1,99,1,0,29,1,Uso de las TIC I
+8281,3,2,99,1,0,29,1,Uso de las TIC I
+8281,3,5,99,1,0,2,1,Uso de las TIC I
+8281,3,5,99,1,0,23,1,Uso de las TIC I
+8281,3,6,99,1,0,2,1,Uso de las TIC I
+8281,3,6,99,1,0,23,1,Uso de las TIC I
+8281,3,13,130,2,0,4,3,Diseño gráfico
+8281,3,14,130,2,0,4,3,Diseño gráfico
+8281,4,3,99,1,0,11,1,Uso de las TIC I
+8281,4,4,99,1,0,11,1,Uso de las TIC I
+8281,4,13,130,2,0,4,3,Diseño gráfico
+8281,4,14,130,2,0,4,3,Diseño gráfico
+8281,4,15,132,2,0,28,3,Administrador de medios sociales I
+8281,5,3,99,1,0,19,1,Uso de las TIC I
+8281,5,4,99,1,0,19,1,Uso de las TIC I
+8445,1,9,156,2,0,28,3,Los seres vivos y su diversidad
+8445,1,10,156,2,0,28,3,Los seres vivos y su diversidad
+8445,2,9,156,2,0,22,3,Los seres vivos y su diversidad
+8445,2,10,156,2,0,22,3,Los seres vivos y su diversidad
+8445,3,11,156,2,0,15,3,Los seres vivos y su diversidad
+8445,3,12,156,2,0,15,3,Los seres vivos y su diversidad
+8445,3,13,156,2,0,22,3,Los seres vivos y su diversidad
+8445,3,14,156,2,0,22,3,Los seres vivos y su diversidad
+8445,3,15,156,2,0,28,3,Los seres vivos y su diversidad
+8445,3,16,156,2,0,28,3,Los seres vivos y su diversidad
+8445,4,11,156,2,0,15,3,Los seres vivos y su diversidad
+8445,5,13,156,2,0,15,3,Los seres vivos y su diversidad
+8445,5,14,156,2,0,15,3,Los seres vivos y su diversidad
+8445,5,15,156,2,0,28,3,Los seres vivos y su diversidad
+8445,5,16,156,2,0,22,3,Los seres vivos y su diversidad
+8455,1,1,96,1,0,29,1,Química en la Vida Cotidiana
+8455,1,2,96,1,0,29,1,Química en la Vida Cotidiana
+8455,1,3,96,1,0,1,1,Química en la Vida Cotidiana
+8455,1,4,96,1,0,1,1,Química en la Vida Cotidiana
+8455,1,5,103,1,0,20,1,Adjunto Química en la Vida Cotidiana
+8455,1,5,96,1,0,26,1,Química en la Vida Cotidiana
+8455,1,6,103,1,0,20,1,Adjunto Química en la Vida Cotidiana
+8455,1,6,96,1,0,26,1,Química en la Vida Cotidiana
+8455,1,7,96,1,0,27,1,Química en la Vida Cotidiana
+8455,2,1,96,1,0,1,1,Química en la Vida Cotidiana
+8455,2,1,103,1,0,13,1,Adjunto Química en la Vida Cotidiana
+8455,2,2,96,1,0,1,1,Química en la Vida Cotidiana
+8455,2,2,103,1,0,13,1,Adjunto Química en la Vida Cotidiana
+8455,2,3,96,1,0,28,1,Química en la Vida Cotidiana
+8455,2,4,96,1,0,28,1,Química en la Vida Cotidiana
+8455,2,5,96,1,0,27,1,Química en la Vida Cotidiana
+8455,2,6,96,1,0,27,1,Química en la Vida Cotidiana
+8455,2,7,103,1,0,25,1,Adjunto Química en la Vida Cotidiana
+8455,2,8,103,1,0,25,1,Adjunto Química en la Vida Cotidiana
+8455,2,9,160,2,0,22,3,Adjunto Los seres vivos y su diversidad
+8455,2,10,160,2,0,22,3,Adjunto Los seres vivos y su diversidad
+8455,3,1,103,1,0,5,1,Adjunto Química en la Vida Cotidiana
+8455,3,2,103,1,0,5,1,Adjunto Química en la Vida Cotidiana
+8455,3,7,96,1,0,1,1,Química en la Vida Cotidiana
+8455,3,8,96,1,0,28,1,Química en la Vida Cotidiana
+8455,4,1,103,1,0,20,1,Adjunto Química en la Vida Cotidiana
+8455,4,2,103,1,0,20,1,Adjunto Química en la Vida Cotidiana
+8455,4,3,96,1,0,27,1,Química en la Vida Cotidiana
+8455,4,4,96,1,0,27,1,Química en la Vida Cotidiana
+8455,4,5,96,1,0,28,1,Química en la Vida Cotidiana
+8455,4,6,96,1,0,28,1,Química en la Vida Cotidiana
+8455,4,7,96,1,0,26,1,Química en la Vida Cotidiana
+8455,4,8,96,1,0,26,1,Química en la Vida Cotidiana
+8455,5,1,96,1,0,29,1,Química en la Vida Cotidiana
+8455,5,2,96,1,0,29,1,Química en la Vida Cotidiana
+8455,5,3,103,1,0,23,1,Adjunto Química en la Vida Cotidiana
+8455,5,4,103,1,0,23,1,Adjunto Química en la Vida Cotidiana
+8455,5,5,96,1,0,26,1,Química en la Vida Cotidiana
+8455,5,6,96,1,0,29,1,Química en la Vida Cotidiana
+8455,5,7,103,1,0,13,1,Adjunto Química en la Vida Cotidiana
+8455,5,8,103,1,0,13,1,Adjunto Química en la Vida Cotidiana
+8461,1,5,94,1,0,4,1,Las Matemáticas en mi Entorno
+8461,1,6,94,1,0,4,1,Las Matemáticas en mi Entorno
+8461,1,7,94,1,0,16,1,Las Matemáticas en mi Entorno
+8461,1,8,94,1,0,16,1,Las Matemáticas en mi Entorno
+8461,1,9,37,3,0,19,5,Matemáticas 5
+8461,1,10,37,3,0,19,5,Matemáticas 5
+8461,2,5,94,1,0,13,1,Las Matemáticas en mi Entorno
+8461,2,6,94,1,0,13,1,Las Matemáticas en mi Entorno
+8461,2,7,94,1,0,28,1,Las Matemáticas en mi Entorno
+8461,2,8,94,1,0,28,1,Las Matemáticas en mi Entorno
+8461,2,9,37,3,0,19,5,Matemáticas 5
+8461,2,10,37,3,0,19,5,Matemáticas 5
+8461,3,1,94,1,0,19,1,Las Matemáticas en mi Entorno
+8461,3,2,94,1,0,4,1,Las Matemáticas en mi Entorno
+8461,3,5,94,1,0,16,1,Las Matemáticas en mi Entorno
+8461,3,6,94,1,0,16,1,Las Matemáticas en mi Entorno
+8461,3,7,94,1,0,28,1,Las Matemáticas en mi Entorno
+8461,3,8,94,1,0,13,1,Las Matemáticas en mi Entorno
+8461,4,1,94,1,0,19,1,Las Matemáticas en mi Entorno
+8461,4,2,94,1,0,19,1,Las Matemáticas en mi Entorno
+8461,4,3,94,1,0,28,1,Las Matemáticas en mi Entorno
+8461,4,4,94,1,0,28,1,Las Matemáticas en mi Entorno
+8461,4,7,94,1,0,16,1,Las Matemáticas en mi Entorno
+8461,5,1,94,1,0,19,1,Las Matemáticas en mi Entorno
+8461,5,2,94,1,0,19,1,Las Matemáticas en mi Entorno
+8461,5,3,94,1,0,4,1,Las Matemáticas en mi Entorno
+8461,5,4,94,1,0,4,1,Las Matemáticas en mi Entorno
+8461,5,5,94,1,0,13,1,Las Matemáticas en mi Entorno
+8461,5,6,94,1,0,13,1,Las Matemáticas en mi Entorno
+8461,5,9,37,3,0,19,5,Matemáticas 5
+8461,5,10,37,3,0,19,5,Matemáticas 5
+8466,1,3,37,3,0,2,5,Matemáticas 5
+8466,1,4,37,3,0,2,5,Matemáticas 5
+8466,1,5,37,3,0,5,5,Matemáticas 5
+8466,1,6,37,3,0,5,5,Matemáticas 5
+8466,1,7,52,3,0,1,5,Cálculo 1
+8466,1,8,52,3,0,1,5,Cálculo 1
+8466,2,3,37,3,0,6,5,Matemáticas 5
+8466,2,4,37,3,0,6,5,Matemáticas 5
+8466,2,5,52,3,0,3,5,Cálculo 1
+8466,2,6,52,3,0,3,5,Cálculo 1
+8466,2,7,52,3,0,1,5,Cálculo 1
+8466,2,8,52,3,0,1,5,Cálculo 1
+8466,3,1,52,3,0,3,5,Cálculo 1
+8466,3,2,37,3,0,2,5,Matemáticas 5
+8466,3,2,52,3,0,3,5,Cálculo 1
+8466,3,3,37,3,0,5,5,Matemáticas 5
+8466,3,4,37,3,0,5,5,Matemáticas 5
+8466,3,5,37,3,0,2,5,Matemáticas 5
+8466,3,6,37,3,0,2,5,Matemáticas 5
+8466,3,7,50,3,0,4,5,Temas de Álgebra
+8466,3,8,50,3,0,4,5,Temas de Álgebra
+8466,4,1,37,3,0,5,5,Matemáticas 5
+8466,4,2,37,3,0,5,5,Matemáticas 5
+8466,4,3,52,3,0,1,5,Cálculo 1
+8466,4,4,52,3,0,1,5,Cálculo 1
+8466,4,5,50,3,0,4,5,Temas de Álgebra
+8466,4,6,50,3,0,4,5,Temas de Álgebra
+8466,4,7,37,3,0,6,5,Matemáticas 5
+8466,4,8,37,3,0,6,5,Matemáticas 5
+8466,5,1,37,3,0,2,5,Matemáticas 5
+8466,5,2,37,3,0,2,5,Matemáticas 5
+8466,5,3,52,3,0,3,5,Cálculo 1
+8466,5,4,52,3,0,3,5,Cálculo 1
+8466,5,5,37,3,0,6,5,Matemáticas 5
+8466,5,6,37,3,0,6,5,Matemáticas 5
+8466,5,7,50,3,0,4,5,Temas de Álgebra
+8466,5,8,50,3,0,4,5,Temas de Álgebra
+8468,5,9,159,2,0,20,3,Beneficios de las actividades físico deportivas y artisticas
+8468,5,10,159,2,0,20,3,Beneficios de las actividades físico deportivas y artisticas
+8667,1,9,159,2,0,16,3,Beneficios de las actividades físico deportivas y artisticas
+8667,1,10,159,2,0,16,3,Beneficios de las actividades físico deportivas y artisticas
+8667,1,11,159,2,0,19,3,Beneficios de las actividades físico deportivas y artisticas
+8667,1,12,159,2,0,19,3,Beneficios de las actividades físico deportivas y artisticas
+8667,1,13,159,2,0,14,3,Beneficios de las actividades físico deportivas y artisticas
+8667,1,14,159,2,0,14,3,Beneficios de las actividades físico deportivas y artisticas
+8667,2,3,100,1,0,13,1,Mi Expresión Física y Artistica
+8667,2,4,100,1,0,13,1,Mi Expresión Física y Artistica
+8667,2,5,100,1,0,21,1,Mi Expresión Física y Artistica
+8667,2,6,100,1,0,21,1,Mi Expresión Física y Artistica
+8667,2,7,100,1,0,3,1,Mi Expresión Física y Artistica
+8667,2,8,100,1,0,3,1,Mi Expresión Física y Artistica
+8667,2,9,159,2,0,23,3,Beneficios de las actividades físico deportivas y artisticas
+8667,2,10,159,2,0,23,3,Beneficios de las actividades físico deportivas y artisticas
+8667,3,1,100,1,0,22,1,Mi Expresión Física y Artistica
+8667,3,2,100,1,0,22,1,Mi Expresión Física y Artistica
+8667,3,3,100,1,0,17,1,Mi Expresión Física y Artistica
+8667,3,4,100,1,0,17,1,Mi Expresión Física y Artistica
+8667,4,1,100,1,0,4,1,Mi Expresión Física y Artistica
+8667,4,2,100,1,0,4,1,Mi Expresión Física y Artistica
+8667,4,7,100,1,0,11,1,Mi Expresión Física y Artistica
+8667,4,8,100,1,0,11,1,Mi Expresión Física y Artistica
+8692,1,5,162,1,0,27,1,Tutor de Primero
+8692,1,6,162,1,0,27,1,Tutor de Primero
+8692,1,7,162,1,0,13,1,Tutor de Primero
+8692,1,8,162,1,0,13,1,Tutor de Primero
+8692,1,9,163,2,0,23,3,Tutor de Segundo
+8692,1,10,163,2,0,23,3,Tutor de Segundo
+8692,2,3,164,3,0,1,5,Tutor de Tercero
+8692,2,4,164,3,0,1,5,Tutor de Tercero
+8692,2,7,162,1,0,1,1,Tutor de Primero
+8692,2,8,162,1,0,1,1,Tutor de Primero
+8692,2,9,163,2,0,27,3,Tutor de Segundo
+8692,2,10,163,2,0,27,3,Tutor de Segundo
+8692,3,3,162,1,0,14,1,Tutor de Primero
+8692,3,4,162,1,0,14,1,Tutor de Primero
+8692,3,7,164,3,0,3,5,Tutor de Tercero
+8692,3,8,164,3,0,3,5,Tutor de Tercero
+8692,3,9,163,2,0,24,3,Tutor de Segundo
+8692,3,10,163,2,0,24,3,Tutor de Segundo
+8692,4,7,164,3,0,5,5,Tutor de Tercero
+8692,4,8,164,3,0,5,5,Tutor de Tercero
+8692,5,7,162,1,0,21,1,Tutor de Primero
+8692,5,8,162,1,0,21,1,Tutor de Primero
+8692,5,9,163,2,0,28,3,Tutor de Segundo
+8692,5,10,163,2,0,28,3,Tutor de Segundo
+8701,1,11,153,2,0,25,3,Investigación y sociedad
+8701,1,12,153,2,0,25,3,Investigación y sociedad
+8701,2,9,153,2,0,29,3,Investigación y sociedad
+8701,2,10,153,2,0,29,3,Investigación y sociedad
+8701,2,11,153,2,0,28,3,Investigación y sociedad
+8701,2,12,153,2,0,28,3,Investigación y sociedad
+8701,2,13,153,2,0,25,3,Investigación y sociedad
+8701,2,14,153,2,0,25,3,Investigación y sociedad
+8701,2,15,119,2,0,24,3,Nociones de política
+8701,2,16,119,2,0,24,3,Nociones de política
+8701,4,9,153,2,0,29,3,Investigación y sociedad
+8701,4,10,153,2,0,29,3,Investigación y sociedad
+8701,4,15,119,2,0,23,3,Nociones de política
+8701,4,16,119,2,0,23,3,Nociones de política
+8701,5,9,119,2,0,24,3,Nociones de política
+8701,5,10,119,2,0,24,3,Nociones de política
+8701,5,11,119,2,0,23,3,Nociones de política
+8701,5,12,119,2,0,23,3,Nociones de política
+8701,5,13,153,2,0,28,3,Investigación y sociedad
+8701,5,14,153,2,0,28,3,Investigación y sociedad
+8726,1,7,96,1,0,11,1,Química en la Vida Cotidiana
+8726,1,8,96,1,0,5,1,Química en la Vida Cotidiana
+8726,1,11,156,2,0,23,3,Los seres vivos y su diversidad
+8726,1,12,156,2,0,23,3,Los seres vivos y su diversidad
+8726,1,14,156,2,0,19,3,Los seres vivos y su diversidad
+8726,2,1,96,1,0,11,1,Química en la Vida Cotidiana
+8726,2,2,96,1,0,11,1,Química en la Vida Cotidiana
+8726,2,5,96,1,0,5,1,Química en la Vida Cotidiana
+8726,2,6,96,1,0,5,1,Química en la Vida Cotidiana
+8726,2,11,156,2,0,24,3,Los seres vivos y su diversidad
+8726,2,12,156,2,0,24,3,Los seres vivos y su diversidad
+8726,2,13,156,2,0,19,3,Los seres vivos y su diversidad
+8726,2,14,156,2,0,19,3,Los seres vivos y su diversidad
+8726,2,16,156,2,0,25,3,Los seres vivos y su diversidad
+8726,3,1,96,1,0,5,1,Química en la Vida Cotidiana
+8726,3,2,96,1,0,5,1,Química en la Vida Cotidiana
+8726,3,10,156,2,0,1,3,Los seres vivos y su diversidad
+8726,3,11,156,2,0,23,3,Los seres vivos y su diversidad
+8726,3,12,156,2,0,23,3,Los seres vivos y su diversidad
+8726,3,13,156,2,0,24,3,Los seres vivos y su diversidad
+8726,3,14,156,2,0,24,3,Los seres vivos y su diversidad
+8726,3,15,156,2,0,25,3,Los seres vivos y su diversidad
+8726,3,16,156,2,0,25,3,Los seres vivos y su diversidad
+8726,4,9,156,2,0,24,3,Los seres vivos y su diversidad
+8726,4,10,156,2,0,23,3,Los seres vivos y su diversidad
+8726,4,11,156,2,0,25,3,Los seres vivos y su diversidad
+8726,4,12,156,2,0,25,3,Los seres vivos y su diversidad
+8726,4,13,156,2,0,1,3,Los seres vivos y su diversidad
+8726,4,14,156,2,0,1,3,Los seres vivos y su diversidad
+8726,5,5,96,1,0,11,1,Química en la Vida Cotidiana
+8726,5,6,96,1,0,11,1,Química en la Vida Cotidiana
+8726,5,9,156,2,0,19,3,Los seres vivos y su diversidad
+8726,5,10,156,2,0,19,3,Los seres vivos y su diversidad
+8726,5,13,156,2,0,1,3,Los seres vivos y su diversidad
+8726,5,14,156,2,0,1,3,Los seres vivos y su diversidad
+8793,2,13,57,3,87,15,5,Química 3
+8793,2,14,57,3,87,15,5,Química 3
+8793,2,15,57,3,87,20,5,Química 3
+8793,2,16,57,3,87,20,5,Química 3
+8793,3,13,57,3,87,20,5,Química 3
+8793,3,14,57,3,87,20,5,Química 3
+8793,4,13,57,3,87,15,5,Química 3
+8793,4,14,57,3,87,15,5,Química 3
+8800,1,1,90,1,0,4,1,Beginner I
+8800,1,2,90,1,0,4,1,Beginner I
+8800,1,3,90,1,0,6,1,Beginner I
+8800,1,4,90,1,0,6,1,Beginner I
+8800,1,5,90,1,0,17,1,Beginner I
+8800,1,6,90,1,0,17,1,Beginner I
+8800,2,1,90,1,0,17,1,Beginner I
+8800,2,2,90,1,0,17,1,Beginner I
+8800,2,3,90,1,0,25,1,Beginner I
+8800,2,4,90,1,0,25,1,Beginner I
+8800,2,5,90,1,0,24,1,Beginner I
+8800,2,6,90,1,0,24,1,Beginner I
+8800,2,7,90,1,0,12,1,Beginner I
+8800,2,8,90,1,0,12,1,Beginner I
+8800,3,1,90,1,0,24,1,Beginner I
+8800,3,2,90,1,0,24,1,Beginner I
+8800,3,3,90,1,0,4,1,Beginner I
+8800,3,4,90,1,0,4,1,Beginner I
+8800,3,5,90,1,0,12,1,Beginner I
+8800,3,6,90,1,0,12,1,Beginner I
+8800,3,7,90,1,0,10,1,Beginner I
+8800,3,8,90,1,0,10,1,Beginner I
+8800,4,3,90,1,0,16,1,Beginner I
+8800,4,4,90,1,0,16,1,Beginner I
+8800,4,5,90,1,0,10,1,Beginner I
+8800,4,6,90,1,0,10,1,Beginner I
+8800,4,7,90,1,0,25,1,Beginner I
+8800,4,8,90,1,0,25,1,Beginner I
+8800,5,1,90,1,0,6,1,Beginner I
+8800,5,2,90,1,0,6,1,Beginner I
+8800,5,7,90,1,0,16,1,Beginner I
+8800,5,8,90,1,0,16,1,Beginner I
+8808,1,9,155,2,0,4,3,Administración contemporánea y liderazgo emprendedor
+8808,1,10,155,2,0,4,3,Administración contemporánea y liderazgo emprendedor
+8808,1,11,155,2,0,8,3,Administración contemporánea y liderazgo emprendedor
+8808,1,12,155,2,0,8,3,Administración contemporánea y liderazgo emprendedor
+8808,1,13,155,2,0,7,3,Administración contemporánea y liderazgo emprendedor
+8808,1,14,155,2,0,7,3,Administración contemporánea y liderazgo emprendedor
+8808,1,15,155,2,0,3,3,Administración contemporánea y liderazgo emprendedor
+8808,1,16,155,2,0,3,3,Administración contemporánea y liderazgo emprendedor
+8808,2,9,155,2,0,4,3,Administración contemporánea y liderazgo emprendedor
+8808,2,10,155,2,0,4,3,Administración contemporánea y liderazgo emprendedor
+8808,2,11,155,2,0,7,3,Administración contemporánea y liderazgo emprendedor
+8808,2,12,155,2,0,7,3,Administración contemporánea y liderazgo emprendedor
+8808,2,13,155,2,0,6,3,Administración contemporánea y liderazgo emprendedor
+8808,2,14,155,2,0,6,3,Administración contemporánea y liderazgo emprendedor
+8808,2,15,155,2,0,8,3,Administración contemporánea y liderazgo emprendedor
+8808,2,16,155,2,0,8,3,Administración contemporánea y liderazgo emprendedor
+8808,3,11,155,2,0,3,3,Administración contemporánea y liderazgo emprendedor
+8808,3,12,155,2,0,3,3,Administración contemporánea y liderazgo emprendedor
+8808,3,13,155,2,0,6,3,Administración contemporánea y liderazgo emprendedor
+8808,3,14,155,2,0,6,3,Administración contemporánea y liderazgo emprendedor
+8808,3,15,155,2,0,21,3,Administración contemporánea y liderazgo emprendedor
+8808,3,16,155,2,0,21,3,Administración contemporánea y liderazgo emprendedor
+8808,4,9,155,2,0,21,3,Administración contemporánea y liderazgo emprendedor

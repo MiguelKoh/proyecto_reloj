@@ -1,0 +1,491 @@
+claveempleado,dia,horario,idasignatura,idgrado,asignaturalab,seccion,semestre,nombre_materia
+8951,1,9,156,2,0,10,3,Los seres vivos y su diversidad
+8951,2,11,156,2,0,13,3,Los seres vivos y su diversidad
+8951,2,12,156,2,0,13,3,Los seres vivos y su diversidad
+8951,3,9,156,2,0,14,3,Los seres vivos y su diversidad
+8951,3,10,156,2,0,14,3,Los seres vivos y su diversidad
+8951,3,11,156,2,0,13,3,Los seres vivos y su diversidad
+8951,3,15,156,2,0,10,3,Los seres vivos y su diversidad
+8951,3,16,156,2,0,10,3,Los seres vivos y su diversidad
+8951,4,11,156,2,0,13,3,Los seres vivos y su diversidad
+8951,4,12,156,2,0,13,3,Los seres vivos y su diversidad
+8951,4,13,156,2,0,10,3,Los seres vivos y su diversidad
+8951,4,14,156,2,0,10,3,Los seres vivos y su diversidad
+8951,5,14,156,2,0,14,3,Los seres vivos y su diversidad
+8951,5,15,156,2,0,14,3,Los seres vivos y su diversidad
+8951,5,16,156,2,0,14,3,Los seres vivos y su diversidad
+8988,1,11,159,2,0,4,3,Beneficios de las actividades físico deportivas y artisticas
+8988,1,12,159,2,0,4,3,Beneficios de las actividades físico deportivas y artisticas
+8988,2,9,159,2,0,17,3,Beneficios de las actividades físico deportivas y artisticas
+8988,2,10,159,2,0,17,3,Beneficios de las actividades físico deportivas y artisticas
+8988,3,9,159,2,0,11,3,Beneficios de las actividades físico deportivas y artisticas
+8988,3,10,159,2,0,11,3,Beneficios de las actividades físico deportivas y artisticas
+8988,3,13,159,2,0,18,3,Beneficios de las actividades físico deportivas y artisticas
+8988,3,14,159,2,0,18,3,Beneficios de las actividades físico deportivas y artisticas
+8989,1,2,98,1,0,14,1,Responsabilidad Social Universitaria
+8989,1,3,98,1,0,4,1,Responsabilidad Social Universitaria
+8989,1,4,98,1,0,4,1,Responsabilidad Social Universitaria
+8989,1,7,98,1,0,5,1,Responsabilidad Social Universitaria
+8989,1,8,98,1,0,6,1,Responsabilidad Social Universitaria
+8989,2,1,98,1,0,12,1,Responsabilidad Social Universitaria
+8989,2,2,98,1,0,12,1,Responsabilidad Social Universitaria
+8989,2,3,98,1,0,20,1,Responsabilidad Social Universitaria
+8989,2,4,98,1,0,20,1,Responsabilidad Social Universitaria
+8989,2,5,98,1,0,3,1,Responsabilidad Social Universitaria
+8989,2,6,98,1,0,3,1,Responsabilidad Social Universitaria
+8989,2,7,98,1,0,4,1,Responsabilidad Social Universitaria
+8989,3,3,98,1,0,1,1,Responsabilidad Social Universitaria
+8989,3,4,98,1,0,1,1,Responsabilidad Social Universitaria
+8989,3,5,98,1,0,13,1,Responsabilidad Social Universitaria
+8989,3,6,98,1,0,13,1,Responsabilidad Social Universitaria
+8989,3,7,98,1,0,2,1,Responsabilidad Social Universitaria
+8989,4,1,98,1,0,14,1,Responsabilidad Social Universitaria
+8989,4,2,98,1,0,14,1,Responsabilidad Social Universitaria
+8989,4,3,98,1,0,12,1,Responsabilidad Social Universitaria
+8989,4,4,98,1,0,10,1,Responsabilidad Social Universitaria
+8989,4,5,98,1,0,2,1,Responsabilidad Social Universitaria
+8989,4,6,98,1,0,2,1,Responsabilidad Social Universitaria
+8989,4,7,98,1,0,3,1,Responsabilidad Social Universitaria
+8989,4,8,98,1,0,13,1,Responsabilidad Social Universitaria
+8989,5,1,98,1,0,5,1,Responsabilidad Social Universitaria
+8989,5,2,98,1,0,5,1,Responsabilidad Social Universitaria
+8989,5,3,98,1,0,10,1,Responsabilidad Social Universitaria
+8989,5,4,98,1,0,10,1,Responsabilidad Social Universitaria
+8989,5,5,98,1,0,6,1,Responsabilidad Social Universitaria
+8989,5,6,98,1,0,6,1,Responsabilidad Social Universitaria
+8989,5,7,98,1,0,1,1,Responsabilidad Social Universitaria
+8989,5,8,98,1,0,20,1,Responsabilidad Social Universitaria
+8990,1,1,96,1,0,30,1,Química en la Vida Cotidiana
+8990,1,2,96,1,0,30,1,Química en la Vida Cotidiana
+8990,1,3,96,1,0,31,1,Química en la Vida Cotidiana
+8990,1,4,96,1,0,31,1,Química en la Vida Cotidiana
+8990,2,1,96,1,0,30,1,Química en la Vida Cotidiana
+8990,2,3,96,1,0,31,1,Química en la Vida Cotidiana
+8990,2,4,96,1,0,31,1,Química en la Vida Cotidiana
+8990,5,1,96,1,0,30,1,Química en la Vida Cotidiana
+8990,5,2,96,1,0,30,1,Química en la Vida Cotidiana
+8990,5,3,96,1,0,31,1,Química en la Vida Cotidiana
+8991,1,9,152,2,0,29,3,Beginner III
+8991,1,10,152,2,0,29,3,Beginner III
+8991,1,11,152,2,0,5,3,Beginner III
+8991,1,12,152,2,0,5,3,Beginner III
+8991,1,13,40,3,0,13,5,Lengua Extranjera 5 (Inglés)
+8991,1,14,40,3,0,13,5,Lengua Extranjera 5 (Inglés)
+8991,1,15,152,2,0,11,3,Beginner III
+8991,1,16,152,2,0,11,3,Beginner III
+8991,2,9,152,2,0,14,3,Beginner III
+8991,2,10,152,2,0,14,3,Beginner III
+8991,2,13,152,2,0,4,3,Beginner III
+8991,2,14,152,2,0,4,3,Beginner III
+8991,2,15,152,2,0,11,3,Beginner III
+8991,2,16,152,2,0,11,3,Beginner III
+8991,3,11,152,2,0,5,3,Beginner III
+8991,3,12,152,2,0,5,3,Beginner III
+8991,3,15,152,2,0,9,3,Beginner III
+8991,3,16,152,2,0,9,3,Beginner III
+8991,4,9,40,3,0,13,5,Lengua Extranjera 5 (Inglés)
+8991,4,10,40,3,0,13,5,Lengua Extranjera 5 (Inglés)
+8991,4,11,152,2,0,14,3,Beginner III
+8991,4,12,152,2,0,14,3,Beginner III
+8991,4,13,152,2,0,29,3,Beginner III
+8991,4,14,152,2,0,29,3,Beginner III
+8991,4,15,152,2,0,24,3,Beginner III
+8991,4,16,152,2,0,24,3,Beginner III
+8991,5,11,152,2,0,4,3,Beginner III
+8991,5,12,152,2,0,4,3,Beginner III
+8991,5,13,152,2,0,9,3,Beginner III
+8991,5,14,152,2,0,9,3,Beginner III
+8991,5,15,152,2,0,24,3,Beginner III
+8991,5,16,152,2,0,24,3,Beginner III
+9083,1,5,151,1,0,2,1,Conformación histórica del mundo occidental
+9083,1,6,151,1,0,2,1,Conformación histórica del mundo occidental
+9083,1,9,158,2,0,12,3,Diagnóstico comunitario participativo
+9083,1,10,158,2,0,12,3,Diagnóstico comunitario participativo
+9083,1,13,158,2,0,5,3,Diagnóstico comunitario participativo
+9083,1,14,158,2,0,5,3,Diagnóstico comunitario participativo
+9083,1,15,158,2,0,14,3,Diagnóstico comunitario participativo
+9083,1,16,158,2,0,14,3,Diagnóstico comunitario participativo
+9083,2,9,158,2,0,10,3,Diagnóstico comunitario participativo
+9083,2,10,158,2,0,10,3,Diagnóstico comunitario participativo
+9083,2,11,158,2,0,23,3,Diagnóstico comunitario participativo
+9083,2,12,158,2,0,23,3,Diagnóstico comunitario participativo
+9083,2,13,158,2,0,16,3,Diagnóstico comunitario participativo
+9083,2,14,158,2,0,16,3,Diagnóstico comunitario participativo
+9083,2,15,158,2,0,22,3,Diagnóstico comunitario participativo
+9083,2,16,158,2,0,22,3,Diagnóstico comunitario participativo
+9083,3,9,158,2,0,4,3,Diagnóstico comunitario participativo
+9083,3,10,158,2,0,4,3,Diagnóstico comunitario participativo
+9083,3,11,158,2,0,16,3,Diagnóstico comunitario participativo
+9083,3,12,158,2,0,16,3,Diagnóstico comunitario participativo
+9083,3,15,158,2,0,14,3,Diagnóstico comunitario participativo
+9083,3,16,158,2,0,14,3,Diagnóstico comunitario participativo
+9083,4,11,158,2,0,23,3,Diagnóstico comunitario participativo
+9083,4,12,158,2,0,23,3,Diagnóstico comunitario participativo
+9083,4,13,158,2,0,22,3,Diagnóstico comunitario participativo
+9083,4,14,158,2,0,22,3,Diagnóstico comunitario participativo
+9083,4,15,158,2,0,4,3,Diagnóstico comunitario participativo
+9083,4,16,158,2,0,4,3,Diagnóstico comunitario participativo
+9083,5,5,151,1,0,2,1,Conformación histórica del mundo occidental
+9083,5,6,151,1,0,2,1,Conformación histórica del mundo occidental
+9083,5,9,158,2,0,12,3,Diagnóstico comunitario participativo
+9083,5,10,158,2,0,12,3,Diagnóstico comunitario participativo
+9083,5,13,158,2,0,10,3,Diagnóstico comunitario participativo
+9083,5,14,158,2,0,10,3,Diagnóstico comunitario participativo
+9083,5,15,158,2,0,5,3,Diagnóstico comunitario participativo
+9083,5,16,158,2,0,5,3,Diagnóstico comunitario participativo
+9086,1,1,93,1,0,9,1,Pensamiento Lógico y Crítico
+9086,1,2,93,1,0,9,1,Pensamiento Lógico y Crítico
+9086,1,3,93,1,0,2,1,Pensamiento Lógico y Crítico
+9086,1,4,93,1,0,2,1,Pensamiento Lógico y Crítico
+9086,1,5,93,1,0,13,1,Pensamiento Lógico y Crítico
+9086,1,6,93,1,0,13,1,Pensamiento Lógico y Crítico
+9086,1,7,93,1,0,23,1,Pensamiento Lógico y Crítico
+9086,1,8,93,1,0,23,1,Pensamiento Lógico y Crítico
+9086,2,3,93,1,0,29,1,Pensamiento Lógico y Crítico
+9086,2,4,93,1,0,29,1,Pensamiento Lógico y Crítico
+9086,2,5,93,1,0,28,1,Pensamiento Lógico y Crítico
+9086,2,6,93,1,0,28,1,Pensamiento Lógico y Crítico
+9086,3,1,93,1,0,25,1,Pensamiento Lógico y Crítico
+9086,3,2,93,1,0,25,1,Pensamiento Lógico y Crítico
+9086,3,3,93,1,0,29,1,Pensamiento Lógico y Crítico
+9086,3,4,93,1,0,29,1,Pensamiento Lógico y Crítico
+9086,3,5,93,1,0,27,1,Pensamiento Lógico y Crítico
+9086,3,6,93,1,0,27,1,Pensamiento Lógico y Crítico
+9086,3,7,93,1,0,9,1,Pensamiento Lógico y Crítico
+9086,3,8,93,1,0,9,1,Pensamiento Lógico y Crítico
+9086,4,1,93,1,0,27,1,Pensamiento Lógico y Crítico
+9086,4,2,93,1,0,27,1,Pensamiento Lógico y Crítico
+9086,4,5,93,1,0,13,1,Pensamiento Lógico y Crítico
+9086,4,6,93,1,0,13,1,Pensamiento Lógico y Crítico
+9086,4,7,93,1,0,23,1,Pensamiento Lógico y Crítico
+9086,4,8,93,1,0,23,1,Pensamiento Lógico y Crítico
+9086,5,1,93,1,0,2,1,Pensamiento Lógico y Crítico
+9086,5,2,93,1,0,2,1,Pensamiento Lógico y Crítico
+9086,5,3,93,1,0,25,1,Pensamiento Lógico y Crítico
+9086,5,4,93,1,0,25,1,Pensamiento Lógico y Crítico
+9086,5,7,93,1,0,28,1,Pensamiento Lógico y Crítico
+9086,5,8,93,1,0,28,1,Pensamiento Lógico y Crítico
+9105,1,1,37,3,0,3,5,Matemáticas 5
+9105,1,2,37,3,0,3,5,Matemáticas 5
+9105,1,3,94,1,0,7,1,Las Matemáticas en mi Entorno
+9105,1,4,94,1,0,7,1,Las Matemáticas en mi Entorno
+9105,2,3,94,1,0,7,1,Las Matemáticas en mi Entorno
+9105,2,4,94,1,0,7,1,Las Matemáticas en mi Entorno
+9105,2,7,94,1,0,15,1,Las Matemáticas en mi Entorno
+9105,2,8,94,1,0,15,1,Las Matemáticas en mi Entorno
+9105,3,3,37,3,0,3,5,Matemáticas 5
+9105,3,4,37,3,0,3,5,Matemáticas 5
+9105,3,5,94,1,0,25,1,Las Matemáticas en mi Entorno
+9105,3,6,94,1,0,25,1,Las Matemáticas en mi Entorno
+9105,3,7,94,1,0,15,1,Las Matemáticas en mi Entorno
+9105,4,5,94,1,0,25,1,Las Matemáticas en mi Entorno
+9105,4,6,94,1,0,25,1,Las Matemáticas en mi Entorno
+9105,4,8,94,1,0,7,1,Las Matemáticas en mi Entorno
+9105,5,1,94,1,0,25,1,Las Matemáticas en mi Entorno
+9105,5,5,37,3,0,3,5,Matemáticas 5
+9105,5,6,37,3,0,3,5,Matemáticas 5
+9105,5,7,94,1,0,15,1,Las Matemáticas en mi Entorno
+9105,5,8,94,1,0,15,1,Las Matemáticas en mi Entorno
+9107,4,9,43,3,0,14,5,Orientación Profesional 1
+9107,4,10,43,3,0,14,5,Orientación Profesional 1
+9107,4,11,43,3,0,19,5,Orientación Profesional 1
+9107,4,12,43,3,0,19,5,Orientación Profesional 1
+9107,5,7,43,3,0,8,5,Orientación Profesional 1
+9107,5,8,43,3,0,8,5,Orientación Profesional 1
+9108,1,1,99,1,0,17,1,Uso de las TIC I
+9108,1,1,99,1,0,24,1,Uso de las TIC I
+9108,1,2,99,1,0,17,1,Uso de las TIC I
+9108,1,2,99,1,0,24,1,Uso de las TIC I
+9108,2,1,99,1,0,18,1,Uso de las TIC I
+9108,2,1,99,1,0,8,1,Uso de las TIC I
+9108,2,2,99,1,0,18,1,Uso de las TIC I
+9108,2,2,99,1,0,8,1,Uso de las TIC I
+9108,3,1,99,1,0,10,1,Uso de las TIC I
+9108,3,2,99,1,0,10,1,Uso de las TIC I
+9108,3,3,99,1,0,13,1,Uso de las TIC I
+9108,3,3,99,1,0,31,1,Uso de las TIC I
+9108,3,4,99,1,0,13,1,Uso de las TIC I
+9108,3,4,99,1,0,31,1,Uso de las TIC I
+9108,4,1,99,1,0,9,1,Uso de las TIC I
+9108,4,2,99,1,0,9,1,Uso de las TIC I
+9108,5,1,99,1,0,14,1,Uso de las TIC I
+9108,5,2,99,1,0,14,1,Uso de las TIC I
+9116,1,3,94,1,0,27,1,Las Matemáticas en mi Entorno
+9116,1,4,94,1,0,27,1,Las Matemáticas en mi Entorno
+9116,1,11,37,3,0,14,5,Matemáticas 5
+9116,1,12,37,3,0,14,5,Matemáticas 5
+9116,1,13,37,3,0,22,5,Matemáticas 5
+9116,1,14,37,3,0,22,5,Matemáticas 5
+9116,2,1,94,1,0,29,1,Las Matemáticas en mi Entorno
+9116,2,2,94,1,0,29,1,Las Matemáticas en mi Entorno
+9116,2,7,94,1,0,24,1,Las Matemáticas en mi Entorno
+9116,2,8,94,1,0,24,1,Las Matemáticas en mi Entorno
+9116,2,15,37,3,0,14,5,Matemáticas 5
+9116,2,16,37,3,0,14,5,Matemáticas 5
+9116,3,3,94,1,0,24,1,Las Matemáticas en mi Entorno
+9116,3,4,94,1,0,24,1,Las Matemáticas en mi Entorno
+9116,3,7,94,1,0,26,1,Las Matemáticas en mi Entorno
+9116,3,8,94,1,0,26,1,Las Matemáticas en mi Entorno
+9116,3,11,37,3,0,22,5,Matemáticas 5
+9116,3,12,37,3,0,22,5,Matemáticas 5
+9116,4,1,94,1,0,24,1,Las Matemáticas en mi Entorno
+9116,4,3,94,1,0,26,1,Las Matemáticas en mi Entorno
+9116,4,4,94,1,0,26,1,Las Matemáticas en mi Entorno
+9116,4,5,94,1,0,29,1,Las Matemáticas en mi Entorno
+9116,4,6,94,1,0,29,1,Las Matemáticas en mi Entorno
+9116,4,7,94,1,0,27,1,Las Matemáticas en mi Entorno
+9116,4,13,37,3,0,14,5,Matemáticas 5
+9116,4,14,37,3,0,14,5,Matemáticas 5
+9116,5,1,94,1,0,27,1,Las Matemáticas en mi Entorno
+9116,5,2,94,1,0,27,1,Las Matemáticas en mi Entorno
+9116,5,5,94,1,0,29,1,Las Matemáticas en mi Entorno
+9116,5,6,94,1,0,26,1,Las Matemáticas en mi Entorno
+9116,5,13,37,3,0,22,5,Matemáticas 5
+9116,5,14,37,3,0,22,5,Matemáticas 5
+9138,1,3,43,3,0,1,5,Orientación Profesional 1
+9138,1,4,43,3,0,1,5,Orientación Profesional 1
+9138,2,1,43,3,0,2,5,Orientación Profesional 1
+9138,2,2,43,3,0,2,5,Orientación Profesional 1
+9138,3,1,43,3,0,6,5,Orientación Profesional 1
+9138,3,2,43,3,0,6,5,Orientación Profesional 1
+9138,4,3,43,3,0,4,5,Orientación Profesional 1
+9138,4,4,43,3,0,4,5,Orientación Profesional 1
+9138,4,9,43,3,0,22,5,Orientación Profesional 1
+9138,4,10,43,3,0,22,5,Orientación Profesional 1
+9138,5,5,43,3,0,5,5,Orientación Profesional 1
+9138,5,6,43,3,0,5,5,Orientación Profesional 1
+9235,1,7,100,1,0,29,1,Mi Expresión Física y Artistica
+9235,1,8,100,1,0,29,1,Mi Expresión Física y Artistica
+9235,1,11,159,2,0,28,3,Beneficios de las actividades físico deportivas y artisticas
+9235,1,12,159,2,0,28,3,Beneficios de las actividades físico deportivas y artisticas
+9235,4,1,100,1,0,31,1,Mi Expresión Física y Artistica
+9235,4,2,100,1,0,31,1,Mi Expresión Física y Artistica
+9235,4,3,100,1,0,1,1,Mi Expresión Física y Artistica
+9235,4,4,100,1,0,1,1,Mi Expresión Física y Artistica
+9235,4,9,159,2,0,25,3,Beneficios de las actividades físico deportivas y artisticas
+9235,4,10,159,2,0,25,3,Beneficios de las actividades físico deportivas y artisticas
+9235,5,1,100,1,0,28,1,Mi Expresión Física y Artistica
+9235,5,2,100,1,0,28,1,Mi Expresión Física y Artistica
+9235,5,3,100,1,0,27,1,Mi Expresión Física y Artistica
+9235,5,4,100,1,0,27,1,Mi Expresión Física y Artistica
+9236,1,9,64,3,0,13,5,Lengua Maya
+9236,1,10,64,3,0,13,5,Lengua Maya
+9236,1,11,41,3,0,22,5,Sociología
+9236,1,12,41,3,0,22,5,Sociología
+9236,1,13,41,3,0,10,5,Sociología
+9236,1,14,41,3,0,10,5,Sociología
+9236,2,9,64,3,0,13,5,Lengua Maya
+9236,2,10,64,3,0,13,5,Lengua Maya
+9236,2,11,41,3,0,17,5,Sociología
+9236,2,12,41,3,0,17,5,Sociología
+9236,2,13,41,3,0,14,5,Sociología
+9236,2,14,41,3,0,14,5,Sociología
+9236,2,15,41,3,0,11,5,Sociología
+9236,2,16,41,3,0,11,5,Sociología
+9236,3,1,64,3,0,9,5,Lengua Maya
+9236,3,2,64,3,0,9,5,Lengua Maya
+9236,3,9,41,3,0,11,5,Sociología
+9236,3,10,41,3,0,11,5,Sociología
+9236,3,13,41,3,0,17,5,Sociología
+9236,3,14,41,3,0,17,5,Sociología
+9236,3,15,41,3,0,10,5,Sociología
+9236,3,16,41,3,0,10,5,Sociología
+9236,4,3,64,3,0,9,5,Lengua Maya
+9236,4,4,64,3,0,9,5,Lengua Maya
+9236,5,9,41,3,0,14,5,Sociología
+9236,5,10,41,3,0,14,5,Sociología
+9236,5,11,41,3,0,22,5,Sociología
+9236,5,12,41,3,0,22,5,Sociología
+9244,1,1,37,3,0,21,5,Matemáticas 5
+9244,1,2,37,3,0,21,5,Matemáticas 5
+9244,1,3,37,3,0,4,5,Matemáticas 5
+9244,1,4,37,3,0,4,5,Matemáticas 5
+9244,1,5,50,3,0,21,5,Temas de Álgebra
+9244,1,6,50,3,0,21,5,Temas de Álgebra
+9244,1,7,37,3,0,8,5,Matemáticas 5
+9244,1,8,37,3,0,8,5,Matemáticas 5
+9244,2,1,50,3,0,21,5,Temas de Álgebra
+9244,2,2,50,3,0,21,5,Temas de Álgebra
+9244,2,5,37,3,0,21,5,Matemáticas 5
+9244,2,6,37,3,0,21,5,Matemáticas 5
+9244,2,7,37,3,0,9,5,Matemáticas 5
+9244,2,8,37,3,0,9,5,Matemáticas 5
+9244,3,1,37,3,0,1,5,Matemáticas 5
+9244,3,2,37,3,0,1,5,Matemáticas 5
+9244,3,3,37,3,0,21,5,Matemáticas 5
+9244,3,4,37,3,0,21,5,Matemáticas 5
+9244,3,7,50,3,0,21,5,Temas de Álgebra
+9244,3,8,50,3,0,21,5,Temas de Álgebra
+9244,4,1,37,3,0,1,5,Matemáticas 5
+9244,4,2,37,3,0,1,5,Matemáticas 5
+9244,4,3,37,3,0,8,5,Matemáticas 5
+9244,4,4,37,3,0,8,5,Matemáticas 5
+9244,4,5,37,3,0,9,5,Matemáticas 5
+9244,4,6,37,3,0,9,5,Matemáticas 5
+9244,4,7,37,3,0,4,5,Matemáticas 5
+9244,4,8,37,3,0,4,5,Matemáticas 5
+9244,5,1,37,3,0,8,5,Matemáticas 5
+9244,5,2,37,3,0,8,5,Matemáticas 5
+9244,5,3,37,3,0,4,5,Matemáticas 5
+9244,5,4,37,3,0,4,5,Matemáticas 5
+9244,5,5,37,3,0,1,5,Matemáticas 5
+9244,5,6,37,3,0,1,5,Matemáticas 5
+9244,5,7,37,3,0,9,5,Matemáticas 5
+9244,5,8,37,3,0,9,5,Matemáticas 5
+9255,1,11,43,3,0,17,5,Orientación Profesional 1
+9255,1,12,43,3,0,17,5,Orientación Profesional 1
+9255,2,9,43,3,0,15,5,Orientación Profesional 1
+9255,2,10,43,3,0,15,5,Orientación Profesional 1
+9255,3,9,43,3,0,18,5,Orientación Profesional 1
+9255,3,10,43,3,0,18,5,Orientación Profesional 1
+9255,4,5,43,3,0,3,5,Orientación Profesional 1
+9255,4,6,43,3,0,3,5,Orientación Profesional 1
+9255,4,9,43,3,0,10,5,Orientación Profesional 1
+9255,4,10,43,3,0,10,5,Orientación Profesional 1
+9255,5,11,43,3,0,12,5,Orientación Profesional 1
+9255,5,12,43,3,0,12,5,Orientación Profesional 1
+9267,1,1,96,1,0,12,1,Química en la Vida Cotidiana
+9267,1,2,96,1,0,12,1,Química en la Vida Cotidiana
+9267,1,5,96,1,0,20,1,Química en la Vida Cotidiana
+9267,1,6,96,1,0,20,1,Química en la Vida Cotidiana
+9267,1,7,96,1,0,17,1,Química en la Vida Cotidiana
+9267,1,8,96,1,0,17,1,Química en la Vida Cotidiana
+9267,1,15,117,2,0,18,3,Salud y la adolescencia
+9267,1,16,117,2,0,18,3,Salud y la adolescencia
+9267,2,1,96,1,0,20,1,Química en la Vida Cotidiana
+9267,2,4,96,1,0,17,1,Química en la Vida Cotidiana
+9267,2,5,96,1,0,12,1,Química en la Vida Cotidiana
+9267,2,6,96,1,0,12,1,Química en la Vida Cotidiana
+9267,2,7,96,1,0,25,1,Química en la Vida Cotidiana
+9267,2,8,96,1,0,25,1,Química en la Vida Cotidiana
+9267,2,15,117,2,0,16,3,Salud y la adolescencia
+9267,2,16,117,2,0,16,3,Salud y la adolescencia
+9267,3,3,96,1,0,25,1,Química en la Vida Cotidiana
+9267,3,4,96,1,0,25,1,Química en la Vida Cotidiana
+9267,3,7,96,1,0,17,1,Química en la Vida Cotidiana
+9267,3,8,96,1,0,17,1,Química en la Vida Cotidiana
+9267,3,15,117,2,0,17,3,Salud y la adolescencia
+9267,3,16,117,2,0,17,3,Salud y la adolescencia
+9267,4,1,96,1,0,20,1,Química en la Vida Cotidiana
+9267,4,2,96,1,0,20,1,Química en la Vida Cotidiana
+9267,4,9,117,2,0,18,3,Salud y la adolescencia
+9267,4,10,117,2,0,18,3,Salud y la adolescencia
+9267,4,13,117,2,0,19,3,Salud y la adolescencia
+9267,4,14,117,2,0,19,3,Salud y la adolescencia
+9267,4,15,117,2,0,16,3,Salud y la adolescencia
+9267,4,16,117,2,0,16,3,Salud y la adolescencia
+9267,5,2,96,1,0,25,1,Química en la Vida Cotidiana
+9267,5,8,96,1,0,12,1,Química en la Vida Cotidiana
+9267,5,11,117,2,0,17,3,Salud y la adolescencia
+9267,5,12,117,2,0,17,3,Salud y la adolescencia
+9267,5,15,117,2,0,19,3,Salud y la adolescencia
+9267,5,16,117,2,0,19,3,Salud y la adolescencia
+9280,5,5,99,1,0,21,1,Uso de las TIC I
+9280,5,5,99,1,0,22,1,Uso de las TIC I
+9280,5,6,99,1,0,21,1,Uso de las TIC I
+9280,5,6,99,1,0,22,1,Uso de las TIC I
+9394,1,13,117,2,0,12,3,Salud y la adolescencia
+9394,1,14,117,2,0,12,3,Salud y la adolescencia
+9394,3,13,117,2,0,15,3,Salud y la adolescencia
+9394,3,14,117,2,0,15,3,Salud y la adolescencia
+9394,3,15,117,2,0,13,3,Salud y la adolescencia
+9394,3,16,117,2,0,13,3,Salud y la adolescencia
+9394,4,9,117,2,0,14,3,Salud y la adolescencia
+9394,4,10,117,2,0,14,3,Salud y la adolescencia
+9394,4,13,117,2,0,15,3,Salud y la adolescencia
+9394,4,14,117,2,0,15,3,Salud y la adolescencia
+9394,5,9,117,2,0,14,3,Salud y la adolescencia
+9394,5,10,117,2,0,14,3,Salud y la adolescencia
+9394,5,11,117,2,0,13,3,Salud y la adolescencia
+9394,5,12,117,2,0,13,3,Salud y la adolescencia
+9394,5,13,117,2,0,12,3,Salud y la adolescencia
+9394,5,14,117,2,0,12,3,Salud y la adolescencia
+9400,1,1,151,1,0,19,1,Conformación histórica del mundo occidental
+9400,1,2,151,1,0,19,1,Conformación histórica del mundo occidental
+9400,1,11,153,2,0,17,3,Investigación y sociedad
+9400,1,12,153,2,0,17,3,Investigación y sociedad
+9400,1,15,41,3,0,15,5,Sociología
+9400,1,16,41,3,0,15,5,Sociología
+9400,2,1,151,1,0,27,1,Conformación histórica del mundo occidental
+9400,2,2,151,1,0,27,1,Conformación histórica del mundo occidental
+9400,2,11,153,2,0,14,3,Investigación y sociedad
+9400,2,12,153,2,0,14,3,Investigación y sociedad
+9400,2,15,153,2,0,5,3,Investigación y sociedad
+9400,2,16,153,2,0,5,3,Investigación y sociedad
+9400,3,1,151,1,0,27,1,Conformación histórica del mundo occidental
+9400,3,2,151,1,0,27,1,Conformación histórica del mundo occidental
+9400,3,7,151,1,0,19,1,Conformación histórica del mundo occidental
+9400,3,8,151,1,0,19,1,Conformación histórica del mundo occidental
+9400,3,11,153,2,0,14,3,Investigación y sociedad
+9400,3,12,153,2,0,14,3,Investigación y sociedad
+9400,3,13,153,2,0,23,3,Investigación y sociedad
+9400,3,14,153,2,0,23,3,Investigación y sociedad
+9400,3,15,39,3,0,20,5,Derecho 1
+9400,3,16,39,3,0,20,5,Derecho 1
+9400,4,1,151,1,0,17,1,Conformación histórica del mundo occidental
+9400,4,2,151,1,0,17,1,Conformación histórica del mundo occidental
+9400,4,11,41,3,0,15,5,Sociología
+9400,4,12,41,3,0,15,5,Sociología
+9400,4,13,39,3,0,20,5,Derecho 1
+9400,4,14,39,3,0,20,5,Derecho 1
+9400,4,15,153,2,0,5,3,Investigación y sociedad
+9400,4,16,153,2,0,5,3,Investigación y sociedad
+9400,5,1,151,1,0,17,1,Conformación histórica del mundo occidental
+9400,5,2,151,1,0,17,1,Conformación histórica del mundo occidental
+9400,5,13,153,2,0,17,3,Investigación y sociedad
+9400,5,14,153,2,0,17,3,Investigación y sociedad
+9400,5,15,153,2,0,23,3,Investigación y sociedad
+9400,5,16,153,2,0,23,3,Investigación y sociedad
+9419,1,3,162,1,0,26,1,Tutor de Primero
+9419,1,4,162,1,0,26,1,Tutor de Primero
+9419,1,5,164,3,0,8,5,Tutor de Tercero
+9419,1,6,164,3,0,8,5,Tutor de Tercero
+9419,1,9,163,2,0,9,3,Tutor de Segundo
+9419,1,10,163,2,0,9,3,Tutor de Segundo
+9419,2,9,163,2,0,5,3,Tutor de Segundo
+9419,2,10,163,2,0,5,3,Tutor de Segundo
+9419,3,7,162,1,0,22,1,Tutor de Primero
+9419,3,8,162,1,0,22,1,Tutor de Primero
+9419,3,9,163,2,0,16,3,Tutor de Segundo
+9419,3,10,163,2,0,16,3,Tutor de Segundo
+9419,4,7,162,1,0,6,1,Tutor de Primero
+9419,4,8,162,1,0,6,1,Tutor de Primero
+9419,4,9,163,2,0,20,3,Tutor de Segundo
+9419,4,10,164,3,0,10,5,Tutor de Tercero
+9419,4,10,163,2,0,20,3,Tutor de Segundo
+9419,5,3,164,3,0,9,5,Tutor de Tercero
+9419,5,4,164,3,0,9,5,Tutor de Tercero
+9419,5,7,162,1,0,24,1,Tutor de Primero
+9419,5,8,162,1,0,24,1,Tutor de Primero
+9419,5,9,163,2,0,13,3,Tutor de Segundo
+9419,5,10,163,2,0,13,3,Tutor de Segundo
+9421,3,11,43,3,0,11,5,Orientación Profesional 1
+9421,3,12,43,3,0,11,5,Orientación Profesional 1
+9421,4,9,43,3,0,16,5,Orientación Profesional 1
+9421,4,10,43,3,0,16,5,Orientación Profesional 1
+9421,5,9,43,3,0,13,5,Orientación Profesional 1
+9421,5,10,43,3,0,13,5,Orientación Profesional 1
+9530,4,5,99,1,0,27,1,Uso de las TIC I
+9530,4,5,99,1,0,6,1,Uso de las TIC I
+9530,4,6,99,1,0,27,1,Uso de las TIC I
+9530,4,6,99,1,0,6,1,Uso de las TIC I
+9790,1,7,100,1,0,7,1,Mi Expresión Física y Artistica
+9790,1,8,100,1,0,7,1,Mi Expresión Física y Artistica
+9790,2,11,159,2,0,5,3,Beneficios de las actividades físico deportivas y artisticas
+9790,2,12,159,2,0,5,3,Beneficios de las actividades físico deportivas y artisticas
+9790,3,11,159,2,0,2,3,Beneficios de las actividades físico deportivas y artisticas
+9790,3,12,159,2,0,2,3,Beneficios de las actividades físico deportivas y artisticas
+9790,3,13,159,2,0,10,3,Beneficios de las actividades físico deportivas y artisticas
+9790,3,14,159,2,0,10,3,Beneficios de las actividades físico deportivas y artisticas
+9790,4,7,100,1,0,18,1,Mi Expresión Física y Artistica
+9790,4,8,100,1,0,18,1,Mi Expresión Física y Artistica
+9790,4,11,159,2,0,9,3,Beneficios de las actividades físico deportivas y artisticas
+9790,4,12,159,2,0,9,3,Beneficios de las actividades físico deportivas y artisticas
+9927,1,3,43,3,0,9,5,Orientación Profesional 1
+9927,1,4,43,3,0,9,5,Orientación Profesional 1
+9927,5,9,43,3,0,20,5,Orientación Profesional 1
+9927,5,10,43,3,0,20,5,Orientación Profesional 1
+9997,2,13,155,2,0,20,3,Administración contemporánea y liderazgo emprendedor
+9997,2,14,155,2,0,20,3,Administración contemporánea y liderazgo emprendedor
+9997,3,13,155,2,0,20,3,Administración contemporánea y liderazgo emprendedor
+9997,3,14,155,2,0,20,3,Administración contemporánea y liderazgo emprendedor

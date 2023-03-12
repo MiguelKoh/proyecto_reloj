@@ -1,0 +1,35 @@
+/* 
+    Document   : Estilo.css
+    Created on : 19/08/2013, 10:56:47 AM
+    Author     : cristina.amato
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body {
+    
+        text-align:center; 
+        background-image: url(../imagenes/header.jpg);
+        background-repeat:no-repeat;
+        background-position: top;    
+        /*background-color:#ffcc33 ;*/
+       
+        margin-left: 0%;
+        margin-right: 0%;
+        /*border: 1px dotted gray;
+        padding: 10px 10px 10px 10px*/;
+        font-family: sans-serif;
+        font-size: large ;
+        text-align:center;        
+    }    
+
+    #Excel{
+        margin: 170px 0px 0px 0px;
+       /* font-size: 70%;*/
+        text-align: center;
+        vertical-align:middle;
+    }

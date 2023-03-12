@@ -1,0 +1,17 @@
+No-AC.;Nombre;Hora;Estado;Nuevo Estado;Excepción;Operación
+"8762";"BAQUEDANO TORRES DAR";03/12/2012 06:25 a.m.;"Checarse/Entrada";"";OK;
+"8762";"BAQUEDANO TORRES DAR";03/12/2012 10:00 a.m.;"Checarse/Salida";"";OK;
+"8762";"BAQUEDANO TORRES DAR";04/12/2012 06:18 a.m.;"Checarse/Entrada";"";OK;
+"8762";"BAQUEDANO TORRES DAR";04/12/2012 12:37 p.m.;"Checarse/Salida";"";Invalid;
+"8762";"BAQUEDANO TORRES DAR";05/12/2012 12:50 p.m.;"Checarse/Entrada";"Tiempo Extra Entrada";FOT;
+"8762";"BAQUEDANO TORRES DAR";05/12/2012 07:31 p.m.;"Checarse/Salida";"Tiempo Extra Salida";FOT;
+"8762";"BAQUEDANO TORRES DAR";06/12/2012 06:33 a.m.;"Checarse/Entrada";"";OK;
+"8762";"BAQUEDANO TORRES DAR";06/12/2012 12:34 p.m.;"Checarse/Salida";"";Invalid;
+"8762";"BAQUEDANO TORRES DAR";10/12/2012 06:31 a.m.;"Checarse/Entrada";"";OK;
+"8762";"BAQUEDANO TORRES DAR";10/12/2012 12:38 p.m.;"Checarse/Salida";"";Invalid;
+"8762";"BAQUEDANO TORRES DAR";11/12/2012 06:25 a.m.;"Checarse/Entrada";"";OK;
+"8762";"BAQUEDANO TORRES DAR";11/12/2012 09:18 a.m.;"Checarse/Salida";"";OK;
+"8762";"BAQUEDANO TORRES DAR";12/12/2012 06:17 a.m.;"Checarse/Entrada";"";OK;
+"8762";"BAQUEDANO TORRES DAR";12/12/2012 12:34 p.m.;"Checarse/Salida";"";Invalid;
+"8762";"BAQUEDANO TORRES DAR";13/12/2012 06:25 a.m.;"Checarse/Entrada";"";OK;
+"8762";"BAQUEDANO TORRES DAR";13/12/2012 12:32 p.m.;"Checarse/Salida";"";Invalid;

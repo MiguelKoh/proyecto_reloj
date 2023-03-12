@@ -1,0 +1,333 @@
+Nombre;No-AC;Hora Comienzo;Hora Fin;Tipo de Ausencia;Razón;Insertar Fecha
+"TELLO JIMENEZ ROBERTO";"1033";17/09/2014;17/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";18/09/2014 07:18:25 a.m.
+"TELLO JIMENEZ ROBERTO";"1033";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";18/09/2014 07:18:25 a.m.
+"TELLO JIMENEZ ROBERTO";"1033";23/09/2014 10:30:00 a.m.;23/09/2014 02:40:00 p.m.;Enfermedad;"constancia";25/09/2014 12:49:55 p.m.
+"TELLO JIMENEZ ROBERTO";"1033";30/09/2014 02:00:00 p.m.;30/09/2014 03:30:00 p.m.;Trabajo;"comision";10/10/2014 11:25:04 a.m.
+"VILLANUEVA AVILA MARTHA LIGIA";"1156";18/09/2014 08:00:00 a.m.;18/09/2014 09:00:00 a.m.;Enfermedad;"pase";19/09/2014 11:16:58 a.m.
+"VILLANUEVA AVILA MARTHA LIGIA";"1156";26/09/2014 08:00:00 a.m.;26/09/2014 03:30:00 p.m.;Trabajo;"compensacion de horas";03/10/2014 04:12:53 p.m.
+"AVILES MEDINA HERNAN";"1211";19/09/2014 11:30:00 a.m.;19/09/2014 12:32:00 p.m.;Enfermedad;"pase";19/09/2014 01:05:42 p.m.
+"GARCÍA DÍAZ RITA ISABEL";"1234";17/09/2014;17/09/2014 11:59:00 p.m.;Trabajo;"antiguedad";25/09/2014 02:12:15 p.m.
+"GARCÍA DÍAZ RITA ISABEL";"1234";17/09/2014;17/09/2014 11:59:00 p.m.;Otros;"antiguedad";07/10/2014 11:18:00 a.m.
+"GARCÍA DÍAZ RITA ISABEL";"1234";18/09/2014;18/09/2014 11:59:00 p.m.;Trabajo;"antiguedad";25/09/2014 02:12:15 p.m.
+"GARCÍA DÍAZ RITA ISABEL";"1234";18/09/2014;18/09/2014 11:59:00 p.m.;Otros;"antiguedad";07/10/2014 11:18:00 a.m.
+"CERVERA RIVERO MARÍA PURIFICACIÓN";"1291";23/09/2014 07:00:00 a.m.;23/09/2014 08:10:00 a.m.;Enfermedad;"pase";25/09/2014 12:44:16 p.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";17/09/2014 07:00:00 a.m.;17/09/2014 08:00:00 p.m.;Trabajo;"antiguedad";09/09/2014 03:09:26 p.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 11:05:40 a.m.
+"COUOH OLVERA FREDDY FRANCISCO";"1346";19/09/2014;19/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 11:05:40 a.m.
+"ARGAEZ BALAM DAVID EDUARDO";"1399";19/09/2014 09:00:00 a.m.;19/09/2014 10:00:00 a.m.;Otros;"consulta medica";22/09/2014 08:00:30 a.m.
+"MENDEZ VEGA JOSE SANTIAGO";"1561";22/09/2014;22/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";25/09/2014 12:44:52 p.m.
+"MENDEZ VEGA JOSE SANTIAGO";"1561";23/09/2014;23/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";25/09/2014 12:44:52 p.m.
+"MENDEZ VEGA JOSE SANTIAGO";"1561";27/09/2014 06:00:00 a.m.;27/09/2014 02:00:00 p.m.;Otros;"personal";10/10/2014 11:08:20 a.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";17/09/2014;17/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:53 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";18/09/2014;18/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:53 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";19/09/2014;19/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:53 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";20/09/2014;20/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:53 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";21/09/2014;21/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:53 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";22/09/2014;22/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:53 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";23/09/2014;23/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:53 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";24/09/2014;24/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:53 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";25/09/2014;25/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:53 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";26/09/2014;26/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:53 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";27/09/2014;27/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:53 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";28/09/2014;28/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:54 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";29/09/2014;29/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:54 p.m.
+"RAMIREZ CENTENO ELSY NOEMI";"1568";30/09/2014;30/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin";10/10/2014 03:19:54 p.m.
+"CHABLE TUN BERTHA ELVIRA";"1576";18/09/2014 05:00:00 p.m.;18/09/2014 07:00:00 p.m.;Enfermedad;"constancia";19/09/2014 01:45:56 p.m.
+"MOGUEL VERA ELSY";"1596";17/09/2014;17/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";19/09/2014;19/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";20/09/2014;20/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";21/09/2014;21/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";22/09/2014;22/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";23/09/2014;23/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";24/09/2014;24/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";25/09/2014;25/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";26/09/2014;26/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";27/09/2014;27/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";28/09/2014;28/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";29/09/2014;29/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"MOGUEL VERA ELSY";"1596";30/09/2014;30/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:51:50 a.m.
+"BALAM PECH ALBERTO";"1647";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:10:03 a.m.
+"BALAM PECH ALBERTO";"1647";19/09/2014;19/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:10:03 a.m.
+"PINZÓN BALAM JOSÉ MANUEL";"1737";26/09/2014 03:30:00 p.m.;26/09/2014 04:10:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"FERNANDEZ MANUEL JESUS";"1892";17/09/2014 12:00:00 p.m.;17/09/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:47:06 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";18/09/2014 12:00:00 p.m.;18/09/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:51:45 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";19/09/2014;19/09/2014 11:59:00 p.m.;Trabajo;"autamuady";22/09/2014 01:44:51 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";22/09/2014 12:00:00 p.m.;22/09/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";10/09/2014 06:55:23 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";23/09/2014 12:00:00 p.m.;23/09/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";11/09/2014 02:18:02 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";24/09/2014 12:00:00 p.m.;24/09/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";11/09/2014 02:38:46 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";25/09/2014 12:00:00 p.m.;25/09/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";11/09/2014 02:40:00 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";26/09/2014 12:00:00 p.m.;26/09/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";11/09/2014 02:41:59 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";29/09/2014 12:00:00 p.m.;29/09/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";11/09/2014 02:42:51 p.m.
+"FERNANDEZ MANUEL JESUS";"1892";30/09/2014 12:00:00 p.m.;30/09/2014 02:00:00 p.m.;Trabajo;"devolucion de horas";11/09/2014 02:43:46 p.m.
+"SUNZA CAUICHI JUANA MA.";"1976";24/09/2014 02:00:00 p.m.;24/09/2014 03:30:00 p.m.;Trabajo;"examenes parciales";03/10/2014 02:00:20 p.m.
+"SUNZA CAUICHI JUANA MA.";"1976";29/09/2014;29/09/2014 11:59:00 p.m.;Trabajo;"examenes parciales";03/10/2014 02:01:31 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";18/09/2014 07:00:00 a.m.;18/09/2014 09:00:00 a.m.;Enfermedad;"rehabilitacion";22/09/2014 01:54:09 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";22/09/2014 12:00:00 p.m.;22/09/2014 02:30:00 p.m.;Enfermedad;"rehabilitacion";22/09/2014 01:55:46 p.m.
+"OJEDA CASTELLANOS CONCEPCION";"2121";25/09/2014 07:00:00 a.m.;25/09/2014 02:30:00 p.m.;Trabajo;"compensacion de horas";03/10/2014 04:13:15 p.m.
+"ABAN NARVAEZ JUAN PABLO";"2149";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 11:04:53 a.m.
+"ABAN NARVAEZ JUAN PABLO";"2149";19/09/2014;19/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 11:04:53 a.m.
+"ABAN NARVAEZ JUAN PABLO";"2149";20/09/2014;20/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 11:04:53 a.m.
+"CAAMAL VARGAS NATALIA";"2170";17/09/2014;17/09/2014 11:59:00 p.m.;Trabajo;"antiguedad";09/09/2014 03:29:12 p.m.
+"CAAMAL VARGAS NATALIA";"2170";18/09/2014;18/09/2014 11:59:00 p.m.;Trabajo;"antiguedad";09/09/2014 03:29:12 p.m.
+"CAAMAL VARGAS NATALIA";"2170";19/09/2014;19/09/2014 11:59:00 p.m.;Trabajo;"antiguedad";09/09/2014 03:29:12 p.m.
+"ESPADAS SOLIS JORGE ORLA";"2203";23/09/2014 06:00:00 p.m.;23/09/2014 08:00:00 p.m.;Trabajo;"modificaion de horario";03/10/2014 05:19:42 p.m.
+"TRISTAN UC KARLA PATRICI";"2204";17/09/2014 02:00:00 p.m.;17/09/2014 02:40:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"GIL ARGAEZ JOSE ERNESTO";"2209";17/09/2014 12:30:00 p.m.;17/09/2014 02:00:00 p.m.;Trabajo;"comision";19/09/2014 10:51:58 a.m.
+"RODRIGUEZ HERRERA TERESA DE J.";"223";22/09/2014 01:45:00 p.m.;22/09/2014 02:45:00 p.m.;Otros;"compensacion horas";03/10/2014 05:29:17 p.m.
+"QUINTAL RUZ YESSICA ANDREA";"2242";19/09/2014;19/09/2014 11:59:00 p.m.;Trabajo;"COLOQUIO DE SEXUALIDADES";18/09/2014 11:26:22 a.m.
+"DORANTES PERERA ALVARO";"2320";17/09/2014;17/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";19/09/2014;19/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";20/09/2014;20/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";21/09/2014;21/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";22/09/2014;22/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";23/09/2014;23/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";24/09/2014;24/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";25/09/2014;25/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";26/09/2014;26/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";27/09/2014;27/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";28/09/2014;28/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";29/09/2014;29/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"DORANTES PERERA ALVARO";"2320";30/09/2014;30/09/2014 11:59:00 p.m.;Enfermedad;"incap";22/09/2014 01:19:26 p.m.
+"GALAVIZ CASANOVA GAVINO";"2380";17/09/2014;17/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";18/09/2014;18/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";19/09/2014;19/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";20/09/2014;20/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";21/09/2014;21/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";22/09/2014;22/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";23/09/2014;23/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";24/09/2014;24/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";25/09/2014;25/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";26/09/2014;26/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";27/09/2014;27/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";28/09/2014;28/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";29/09/2014;29/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"GALAVIZ CASANOVA GAVINO";"2380";30/09/2014;30/09/2014 11:59:00 p.m.;Otros;"licencia sin goce (promocion temporal)";10/04/2014 11:31:30 a.m.
+"VALENCIA MAY LUCIANA";"2418";18/09/2014 01:00:00 p.m.;18/09/2014 09:00:00 p.m.;Trabajo;"antiguedad";10/09/2014 03:27:14 p.m.
+"GONGORA LIZAMA ERNESTO MAYOLO";"2526";17/09/2014 06:00:00 a.m.;17/09/2014 02:00:00 p.m.;Trabajo;"antiguedad";10/09/2014 02:30:53 p.m.
+"GONGORA LIZAMA ERNESTO MAYOLO";"2526";23/09/2014 12:00:00 p.m.;23/09/2014 02:00:00 p.m.;Enfermedad;"pase";25/09/2014 12:45:24 p.m.
+"RAMIREZ PEÑA CARLOS SATURNINO";"2734";23/09/2014 09:05:00 a.m.;23/09/2014 11:15:00 a.m.;Otros;"personal";07/10/2014 09:48:19 a.m.
+"RAMIREZ PEÑA CARLOS SATURNINO";"2734";24/09/2014;24/09/2014 11:59:00 p.m.;Otros;"personal";07/10/2014 09:45:19 a.m.
+"RAMIREZ PEÑA CARLOS SATURNINO";"2734";27/09/2014;27/09/2014 11:59:00 p.m.;Otros;"personal";07/10/2014 09:45:19 a.m.
+"RAMIREZ PEÑA CARLOS SATURNINO";"2734";28/09/2014;28/09/2014 11:59:00 p.m.;Otros;"personal";07/10/2014 09:45:19 a.m.
+"RAMIREZ PEÑA CARLOS SATURNINO";"2734";29/09/2014;29/09/2014 11:59:00 p.m.;Otros;"personal";07/10/2014 09:45:19 a.m.
+"RAMIREZ PEÑA CARLOS SATURNINO";"2734";30/09/2014;30/09/2014 11:59:00 p.m.;Otros;"personal";07/10/2014 09:45:19 a.m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";18/09/2014 07:00:00 a.m.;18/09/2014 08:00:00 p.m.;Trabajo;"gestion ambiental";02/09/2014 07:23:55 p.m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";23/09/2014 10:50:00 a.m.;23/09/2014 11:40:00 a.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"NOVELO CAMARA JULIO ENRIQUE";"2891";25/09/2014 07:00:00 a.m.;25/09/2014 08:00:00 p.m.;Trabajo;"gestion ambiental";02/09/2014 07:30:09 p.m.
+"NOVELO CAMARA JULIO ENRIQUE";"2891";26/09/2014 05:10:00 p.m.;26/09/2014 05:50:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"ANCONA CORREA FLOR SILVESTRE";"2941";17/09/2014;17/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:19:45 a.m.
+"ANCONA CORREA FLOR SILVESTRE";"2941";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 02:38:04 p.m.
+"ANCONA CORREA FLOR SILVESTRE";"2941";19/09/2014;19/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 02:38:04 p.m.
+"AVILA ALCOCER DIANELA JOSELINE";"3056";23/09/2014 12:00:00 p.m.;23/09/2014 03:00:00 p.m.;Otros;"personal maestria";03/10/2014 05:07:30 p.m.
+"OJEDA CASTELLANOS MARTIN";"3154";19/09/2014 06:20:00 p.m.;19/09/2014 08:30:00 p.m.;Enfermedad;"constancia";22/09/2014 12:50:56 p.m.
+"TUN PECH LEIDY CATALINA";"3203";25/09/2014 02:00:00 p.m.;25/09/2014 03:00:00 p.m.;Trabajo;"cambio horario";07/10/2014 11:05:18 a.m.
+"TUN PECH LEIDY CATALINA";"3203";30/09/2014 02:00:00 p.m.;30/09/2014 03:00:00 p.m.;Trabajo;"modificacion de horario";07/10/2014 11:06:49 a.m.
+"LEON DURAN PATRICIA DEL CARMEN";"3519";17/09/2014 12:00:00 p.m.;17/09/2014 03:00:00 p.m.;Trabajo;"compensacion";19/09/2014 10:26:16 a.m.
+"LEON DURAN PATRICIA DEL CARMEN";"3519";29/09/2014 12:00:00 p.m.;29/09/2014 01:00:00 p.m.;Trabajo;"compensacion de horas";03/10/2014 04:45:38 p.m.
+"PINO MEDINA MIRIAM";"3841";24/09/2014 05:00:00 p.m.;24/09/2014 06:30:00 p.m.;Trabajo;"modificaion de horario";03/10/2014 05:31:20 p.m.
+"PINO MEDINA MIRIAM";"3841";29/09/2014 02:00:00 p.m.;29/09/2014 03:30:00 p.m.;Trabajo;"junta SIGA";03/10/2014 04:16:34 p.m.
+"PINO MEDINA MIRIAM";"3841";30/09/2014 02:00:00 p.m.;30/09/2014 04:00:00 p.m.;Trabajo;"junta CAE";03/10/2014 04:17:13 p.m.
+"CHIM QUINTAL SILVIA PATRICIA";"3938";18/09/2014 05:50:00 p.m.;18/09/2014 06:40:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"CHIM QUINTAL SILVIA PATRICIA";"3938";30/09/2014;30/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";03/10/2014 03:42:02 p.m.
+"REJON VILLANUEVA OLIVIA";"421";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 01:18:16 p.m.
+"REJON VILLANUEVA OLIVIA";"421";19/09/2014;19/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 01:18:16 p.m.
+"REJON VILLANUEVA OLIVIA";"421";22/09/2014;22/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 12:00:50 p.m.
+"REJON VILLANUEVA OLIVIA";"421";30/09/2014 11:30:00 a.m.;30/09/2014 02:30:00 p.m.;Trabajo;"comision";10/10/2014 11:07:00 a.m.
+"ANCONA ANCONA FLOR DE ACACIA";"430";26/09/2014 03:00:00 p.m.;26/09/2014 04:40:00 p.m.;Enfermedad;"constancia";03/10/2014 03:47:34 p.m.
+"COLLI GONZALEZ GUADALUPE";"431";17/09/2014 07:30:00 a.m.;17/09/2014 03:30:00 p.m.;Trabajo;"antiguedad";10/09/2014 03:28:11 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";17/09/2014;17/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:49 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:49 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";19/09/2014;19/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:49 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";20/09/2014;20/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:50 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";21/09/2014;21/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:50 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";22/09/2014;22/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:50 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";23/09/2014;23/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:50 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";24/09/2014;24/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:50 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";25/09/2014;25/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:50 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";26/09/2014;26/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:50 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";27/09/2014;27/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:50 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";28/09/2014;28/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:50 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";29/09/2014;29/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:50 p.m.
+"YAMA MANRIQUE ROSAURA DE LA C.";"6252";30/09/2014;30/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por embarazo";22/09/2014 01:56:50 p.m.
+"CAAMAL MÁRMOL VERÓNICA MARGARITA";"6312";22/09/2014;22/09/2014 11:59:00 p.m.;Trabajo;"CAMBIO DE HORARIO POR EXAMENES";22/09/2014 02:40:32 p.m.
+"CAAMAL MÁRMOL VERÓNICA MARGARITA";"6312";23/09/2014;23/09/2014 11:59:00 p.m.;Trabajo;"CAMBIO DE HORARIO POR EXAMENES";22/09/2014 02:40:32 p.m.
+"CAAMAL MÁRMOL VERÓNICA MARGARITA";"6312";24/09/2014;24/09/2014 11:59:00 p.m.;Trabajo;"CAMBIO DE HORARIO POR EXAMENES";22/09/2014 02:40:32 p.m.
+"CAAMAL MÁRMOL VERÓNICA MARGARITA";"6312";25/09/2014;25/09/2014 11:59:00 p.m.;Trabajo;"CAMBIO DE HORARIO POR EXAMENES";22/09/2014 02:40:32 p.m.
+"CAAMAL MÁRMOL VERÓNICA MARGARITA";"6312";26/09/2014;26/09/2014 11:59:00 p.m.;Trabajo;"CAMBIO DE HORARIO POR EXAMENES";22/09/2014 02:40:32 p.m.
+"CAAMAL MÁRMOL VERÓNICA MARGARITA";"6312";29/09/2014 01:30:00 p.m.;29/09/2014 03:00:00 p.m.;Trabajo;"cambio de horario";10/10/2014 11:15:28 a.m.
+"CAAMAL MÁRMOL VERÓNICA MARGARITA";"6312";30/09/2014 01:30:00 p.m.;30/09/2014 03:00:00 p.m.;Trabajo;"cambio d hrs";10/10/2014 11:15:54 a.m.
+"GONZÁLEZ PAVÍA IRENE DEL SOCORRO";"6556";30/09/2014 07:00:00 a.m.;30/09/2014 09:50:00 a.m.;Enfermedad;"constancia";03/10/2014 03:37:40 p.m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";22/09/2014;22/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:42:05 a.m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";23/09/2014;23/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:42:05 a.m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";24/09/2014;24/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:42:05 a.m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";25/09/2014;25/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:42:05 a.m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";26/09/2014;26/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:42:05 a.m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";27/09/2014;27/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:42:05 a.m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";28/09/2014;28/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:42:05 a.m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";29/09/2014;29/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:42:05 a.m.
+"AGUILAR ORTIZ PERLA GABRIELA";"6741";30/09/2014;30/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:42:05 a.m.
+"KOYOC NOH ÁNGEL FRANCISCO";"6827";18/09/2014 05:00:00 p.m.;18/09/2014 09:30:00 p.m.;Trabajo;"juegos deportivos";10/09/2014 02:32:28 p.m.
+"KOYOC NOH ÁNGEL FRANCISCO";"6827";19/09/2014 07:00:00 a.m.;19/09/2014 10:00:00 a.m.;Trabajo;"comision INEGI";22/09/2014 02:39:11 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";17/09/2014;17/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";19/09/2014;19/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";20/09/2014;20/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";21/09/2014;21/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";22/09/2014;22/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";23/09/2014;23/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";24/09/2014;24/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";25/09/2014;25/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";26/09/2014;26/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";27/09/2014;27/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";28/09/2014;28/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";29/09/2014;29/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"RUBIO ESCALANTE SANDY MERCEDES";"6877";30/09/2014;30/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";04/09/2014 06:14:32 p.m.
+"CRIOLLO ACHACH CINTHYA BADIA";"6881";25/09/2014;25/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:55:42 a.m.
+"CRIOLLO ACHACH CINTHYA BADIA";"6881";26/09/2014;26/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:55:42 a.m.
+"CRIOLLO ACHACH CINTHYA BADIA";"6881";27/09/2014;27/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:55:42 a.m.
+"CRIOLLO ACHACH CINTHYA BADIA";"6881";28/09/2014;28/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:55:42 a.m.
+"CRIOLLO ACHACH CINTHYA BADIA";"6881";29/09/2014;29/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:55:42 a.m.
+"CRIOLLO ACHACH CINTHYA BADIA";"6881";30/09/2014;30/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";10/10/2014 10:55:42 a.m.
+"YAM RODRIGUEZ MIGUEL ANGEL";"7105";17/09/2014 03:00:00 p.m.;17/09/2014 09:00:00 p.m.;Trabajo;"modificaion de horario";03/10/2014 04:31:40 p.m.
+"YAM RODRIGUEZ MIGUEL ANGEL";"7105";23/09/2014;23/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";03/10/2014 03:51:50 p.m.
+"ECHANOVE VARGUEZ ALVARO";"7128";18/09/2014 03:00:00 p.m.;18/09/2014 06:30:00 p.m.;Trabajo;"comision";25/09/2014 02:13:32 p.m.
+"ECHANOVE VARGUEZ ALVARO";"7128";20/09/2014 11:45:00 a.m.;20/09/2014 01:45:00 p.m.;Trabajo;"comision";25/09/2014 02:18:32 p.m.
+"ECHANOVE VARGUEZ ALVARO";"7128";26/09/2014 02:27:00 p.m.;26/09/2014 05:00:00 p.m.;Trabajo;"torneo universitario";03/10/2014 04:28:10 p.m.
+"MOO TUN ANGELICA";"7276";26/09/2014 06:30:00 p.m.;26/09/2014 07:30:00 p.m.;Trabajo;"compensacion de horas";07/10/2014 10:01:10 a.m.
+"PUC VÁZQUEZ MIGUEL ÁNGEL";"7376";18/09/2014 02:00:00 p.m.;18/09/2014 03:30:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"PUC VÁZQUEZ MIGUEL ÁNGEL";"7376";22/09/2014 03:20:00 p.m.;22/09/2014 05:10:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"PUC VÁZQUEZ MIGUEL ÁNGEL";"7376";23/09/2014 04:50:00 p.m.;23/09/2014 05:50:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"PUC VÁZQUEZ MIGUEL ÁNGEL";"7376";29/09/2014 06:30:00 p.m.;29/09/2014 08:00:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"PUC VÁZQUEZ MIGUEL ÁNGEL";"7376";30/09/2014 02:00:00 p.m.;30/09/2014 03:30:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"CANO BLANCO MARILU";"7474";17/09/2014;17/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:14:50 a.m.
+"CANO BLANCO MARILU";"7474";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:14:50 a.m.
+"CANO BLANCO MARILU";"7474";22/09/2014 11:25:00 a.m.;22/09/2014 03:30:00 p.m.;Enfermedad;"pase";25/09/2014 11:37:23 a.m.
+"CONCHA CANUL ELY FABIOLA";"7589";17/09/2014;17/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 01:33:34 p.m.
+"CONCHA CANUL ELY FABIOLA";"7589";25/09/2014 09:00:00 a.m.;25/09/2014 10:30:00 a.m.;Enfermedad;"constancia";25/09/2014 11:41:05 a.m.
+"CUTZ UCAN MIGUEL ANGEL";"7615";18/09/2014 01:00:00 p.m.;18/09/2014 02:00:00 p.m.;Trabajo;"permiso";19/09/2014 11:34:41 a.m.
+"CUTZ UCAN MIGUEL ANGEL";"7615";22/09/2014 08:00:00 a.m.;22/09/2014 10:30:00 a.m.;Enfermedad;"constancia";25/09/2014 12:43:35 p.m.
+"MANRIQUE PEREZ CAROLINA ELIZABETH";"7619";25/09/2014 08:00:00 a.m.;25/09/2014 11:00:00 a.m.;Trabajo;"desayuno orientadores tec monterrey";03/10/2014 01:55:42 p.m.
+"MOO TUN FIDEL ABRAHAM";"7674";22/09/2014 10:20:00 a.m.;22/09/2014 12:05:00 p.m.;Enfermedad;"constancia";25/09/2014 02:21:04 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";17/09/2014;17/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";03/10/2014 03:43:03 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";18/09/2014;18/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";19/09/2014;19/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";20/09/2014;20/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";21/09/2014;21/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";22/09/2014;22/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";23/09/2014;23/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";24/09/2014;24/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";25/09/2014;25/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";26/09/2014;26/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";27/09/2014;27/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";28/09/2014;28/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";29/09/2014;29/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"ZAPATA COCOM SILVIA EMILY";"7693";30/09/2014;30/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario por necesidades del departamento de secretaia admin.";10/10/2014 03:19:32 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";17/09/2014;17/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";19/09/2014;19/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";20/09/2014;20/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";21/09/2014;21/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";22/09/2014;22/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";23/09/2014;23/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";24/09/2014;24/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";25/09/2014;25/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";26/09/2014;26/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";27/09/2014;27/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";28/09/2014;28/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";29/09/2014;29/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"LIZCANO MENDOZA VERONICA";"7732";30/09/2014;30/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";07/08/2014 04:58:54 p.m.
+"GONGORA MARQUEZ ELIOZABETH";"7841";18/09/2014 10:00:00 a.m.;18/09/2014 11:30:00 a.m.;Otros;"cita con el pediatra";24/09/2014 10:37:32 a.m.
+"GONGORA MARQUEZ ELIOZABETH";"7841";19/09/2014 04:00:00 p.m.;19/09/2014 06:00:00 p.m.;Trabajo;"modificacion de horario";24/09/2014 10:36:49 a.m.
+"GONGORA MARQUEZ ELIOZABETH";"7841";26/09/2014 04:00:00 p.m.;26/09/2014 06:00:00 p.m.;Trabajo;"modificaion de horario";03/10/2014 04:14:54 p.m.
+"GONGORA MARQUEZ ELIOZABETH";"7841";29/09/2014 04:00:00 p.m.;29/09/2014 06:00:00 p.m.;Trabajo;"modificaion de horario";03/10/2014 04:15:17 p.m.
+"GONGORA MARQUEZ ELIOZABETH";"7841";30/09/2014 05:00:00 p.m.;30/09/2014 06:00:00 p.m.;Trabajo;"junta departamento";07/10/2014 11:00:37 a.m.
+"KU ERGUERA JUAN ROMAN";"7965";17/09/2014 03:32:00 p.m.;17/09/2014 04:08:00 p.m.;Trabajo;"comision";19/09/2014 01:49:28 p.m.
+"KU ERGUERA JUAN ROMAN";"7965";18/09/2014 03:00:00 p.m.;18/09/2014 03:32:00 p.m.;Trabajo;"comision";22/09/2014 07:47:41 a.m.
+"KU ERGUERA JUAN ROMAN";"7965";18/09/2014 06:54:00 p.m.;18/09/2014 07:28:00 p.m.;Trabajo;"COMISION";22/09/2014 03:23:37 p.m.
+"KU ERGUERA JUAN ROMAN";"7965";19/09/2014 04:28:00 p.m.;19/09/2014 05:04:00 p.m.;Trabajo;"comision";22/09/2014 02:31:59 p.m.
+"KU ERGUERA JUAN ROMAN";"7965";20/09/2014 11:00:00 a.m.;20/09/2014 03:00:00 p.m.;Otros;"personal";22/09/2014 02:30:41 p.m.
+"KU ERGUERA JUAN ROMAN";"7965";24/09/2014 03:44:00 p.m.;24/09/2014 05:01:00 p.m.;Trabajo;"documentos prepa 1 (comision)";03/10/2014 04:33:12 p.m.
+"KU ERGUERA JUAN ROMAN";"7965";25/09/2014 07:05:00 p.m.;25/09/2014 09:20:00 p.m.;Trabajo;"evento alumnos (comision)";03/10/2014 04:36:19 p.m.
+"KU ERGUERA JUAN ROMAN";"7965";29/09/2014 04:10:00 p.m.;29/09/2014 05:36:00 p.m.;Trabajo;"comision";07/10/2014 10:09:28 a.m.
+"SERRANO ZOZAYA ELSI MARIA";"8022";26/09/2014 03:00:00 p.m.;26/09/2014 05:00:00 p.m.;Trabajo;"dia economico";09/10/2014 12:03:19 p.m.
+"ALFARO CORREA ERICK ADÁN";"8455";18/09/2014 10:50:00 a.m.;18/09/2014 11:40:00 a.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"ARANDA GAMBOA EFRAIN";"8468";29/09/2014 02:30:00 p.m.;29/09/2014 05:30:00 p.m.;Trabajo;"comision";25/09/2014 02:14:22 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";17/09/2014 08:38:00 a.m.;17/09/2014 09:25:00 a.m.;Trabajo;"comision";22/09/2014 08:24:50 a.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";17/09/2014 11:47:00 a.m.;17/09/2014 01:33:00 p.m.;Trabajo;"comicion";19/09/2014 11:09:05 a.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";17/09/2014 03:12:00 p.m.;17/09/2014 03:33:00 p.m.;Trabajo;"comicion";19/09/2014 11:09:44 a.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";18/09/2014 09:02:00 a.m.;18/09/2014 09:54:00 a.m.;Trabajo;"comision";19/09/2014 11:10:51 a.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";18/09/2014 01:36:00 p.m.;18/09/2014 03:05:00 p.m.;Trabajo;"comision";22/09/2014 08:05:47 a.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";19/09/2014 07:34:00 a.m.;19/09/2014 10:20:00 a.m.;Trabajo;"comision";22/09/2014 08:04:27 a.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";19/09/2014 11:05:00 a.m.;19/09/2014 01:14:00 p.m.;Trabajo;"comision";22/09/2014 08:03:21 a.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";19/09/2014 02:18:00 p.m.;19/09/2014 03:17:00 p.m.;Trabajo;"documentos prepa1";25/09/2014 02:17:23 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";20/09/2014 09:17:00 a.m.;20/09/2014 10:13:00 a.m.;Trabajo;"carga de combustible";25/09/2014 02:16:18 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";22/09/2014 09:06:00 a.m.;22/09/2014 11:11:00 a.m.;Trabajo;"comision";25/09/2014 02:15:09 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";23/09/2014 08:55:00 a.m.;23/09/2014 09:55:00 a.m.;Trabajo;"comision directora";10/10/2014 11:13:56 a.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";23/09/2014 11:07:00 a.m.;23/09/2014 01:15:00 p.m.;Trabajo;"3 hermanos y comision";10/10/2014 11:12:23 a.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";24/09/2014 11:29:00 a.m.;24/09/2014 01:47:00 p.m.;Trabajo;"compras";10/10/2014 11:11:24 a.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";25/09/2014 10:09:00 a.m.;25/09/2014 11:56:00 a.m.;Trabajo;"comision museo maya";03/10/2014 04:39:33 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";29/09/2014 08:35:00 a.m.;29/09/2014 09:33:00 a.m.;Trabajo;"comision directora";03/10/2014 04:40:28 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";29/09/2014 10:25:00 a.m.;29/09/2014 11:24:00 a.m.;Trabajo;"comision direccion diligencias";03/10/2014 04:41:24 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";30/09/2014 08:10:00 a.m.;30/09/2014 09:05:00 a.m.;Trabajo;"comision directora";03/10/2014 04:42:17 p.m.
+"FLORES RODRIGUEZ ALFONSO";"8523";30/09/2014 11:19:00 a.m.;30/09/2014 01:44:00 p.m.;Trabajo;"comision";03/10/2014 04:42:53 p.m.
+"CARRILLO KUMUL RAFAEL ANTONIO";"8667";20/09/2014 07:00:00 a.m.;20/09/2014 08:30:00 a.m.;Trabajo;"comision inegi";03/10/2014 04:48:46 p.m.
+"ESPINOSA CERVERA ALEJANDRA";"8692";22/09/2014 02:30:00 p.m.;22/09/2014 04:00:00 p.m.;Enfermedad;"constancia";03/10/2014 03:40:59 p.m.
+"BAQUEDANO TORRES DARCET ESPERANZA";"8762";22/09/2014;22/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario";10/10/2014 11:19:22 a.m.
+"BAQUEDANO TORRES DARCET ESPERANZA";"8762";23/09/2014;23/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario";10/10/2014 11:19:22 a.m.
+"BAQUEDANO TORRES DARCET ESPERANZA";"8762";24/09/2014;24/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario";10/10/2014 11:19:22 a.m.
+"BAQUEDANO TORRES DARCET ESPERANZA";"8762";25/09/2014;25/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario";10/10/2014 11:19:22 a.m.
+"BAQUEDANO TORRES DARCET ESPERANZA";"8762";26/09/2014;26/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario";10/10/2014 11:19:22 a.m.
+"BAQUEDANO TORRES DARCET ESPERANZA";"8762";27/09/2014;27/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario";10/10/2014 11:19:22 a.m.
+"BAQUEDANO TORRES DARCET ESPERANZA";"8762";28/09/2014;28/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario";10/10/2014 11:19:22 a.m.
+"BAQUEDANO TORRES DARCET ESPERANZA";"8762";29/09/2014;29/09/2014 11:59:00 p.m.;Trabajo;"cambio de horario";10/10/2014 11:19:22 a.m.
+"DUARTE CEBALLOS ARTURO";"8808";17/09/2014 11:40:00 a.m.;17/09/2014 01:00:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"DIAZ PUC GUADALUPE";"8826";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:15:59 a.m.
+"CHAN POOL ANTONIO";"8978";17/09/2014 06:30:00 a.m.;17/09/2014 08:30:00 a.m.;Enfermedad;"constancia";18/09/2014 07:20:00 a.m.
+"CERVERA ARGÁEZ GABRIELA";"8990";22/09/2014 09:10:00 a.m.;22/09/2014 10:10:00 a.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"CERVERA ARGÁEZ GABRIELA";"8990";26/09/2014 02:00:00 p.m.;26/09/2014 03:20:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"NOVELO COVIÁN BEATRIZ EUGENIA";"9033";24/09/2014;24/09/2014 11:59:00 p.m.;Enfermedad;"gestion de calidad educativa";25/09/2014 12:46:46 p.m.
+"NOVELO COVIÁN BEATRIZ EUGENIA";"9033";25/09/2014;25/09/2014 11:59:00 p.m.;Enfermedad;"gestion de calidad educativa";25/09/2014 12:46:46 p.m.
+"NOVELO COVIÁN BEATRIZ EUGENIA";"9033";26/09/2014;26/09/2014 11:59:00 p.m.;Enfermedad;"gestion de calidad educativa";25/09/2014 12:46:46 p.m.
+"OJEDA ROSADO ALVA PAMELA";"9107";30/09/2014 12:30:00 p.m.;30/09/2014 02:00:00 p.m.;Otros;"cuestiones personales";03/10/2014 01:56:36 p.m.
+"CENTENO ALCOCER GABRIELA";"9108";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 01:12:15 p.m.
+"EROSA ESQUIVEL CARLOS JOSE";"9127";29/09/2014 06:30:00 p.m.;29/09/2014 09:00:00 p.m.;Trabajo;"junta del SIGA";03/10/2014 02:30:27 p.m.
+"MENDICUTI MARTIN GLORIA MARIANA";"9138";22/09/2014 06:00:00 p.m.;22/09/2014 08:00:00 p.m.;Trabajo;"modificaion de horario";03/10/2014 05:09:22 p.m.
+"MENDICUTI MARTIN GLORIA MARIANA";"9138";25/09/2014 07:00:00 a.m.;25/09/2014 10:25:00 a.m.;Trabajo;"comision";03/10/2014 05:12:20 p.m.
+"MENDICUTI MARTIN GLORIA MARIANA";"9138";29/09/2014 06:00:00 p.m.;29/09/2014 08:00:00 p.m.;Trabajo;"junta SIGA";07/10/2014 10:57:10 a.m.
+"MENDICUTI MARTIN GLORIA MARIANA";"9138";30/09/2014 04:30:00 p.m.;30/09/2014 05:30:00 p.m.;Trabajo;"junta CAE";07/10/2014 10:58:49 a.m.
+"TRICHAN TORAYA NAZARENA";"9255";18/09/2014 06:00:00 p.m.;18/09/2014 07:00:00 p.m.;Trabajo;"cambio de horario";03/10/2014 04:11:27 p.m.
+"TRICHAN TORAYA NAZARENA";"9255";19/09/2014 04:00:00 p.m.;19/09/2014 07:00:00 p.m.;Trabajo;"modificaion de horario";03/10/2014 04:18:30 p.m.
+"TRICHAN TORAYA NAZARENA";"9255";26/09/2014 04:00:00 p.m.;26/09/2014 07:00:00 p.m.;Trabajo;"modificaion de horario";03/10/2014 04:19:05 p.m.
+"TRICHAN TORAYA NAZARENA";"9255";29/09/2014 04:00:00 p.m.;29/09/2014 07:00:00 p.m.;Trabajo;"modificaion de horario";03/10/2014 04:19:32 p.m.
+"TRICHAN TORAYA NAZARENA";"9255";30/09/2014;30/09/2014 11:59:00 p.m.;Trabajo;"platicas de educacion integral";10/10/2014 11:05:26 a.m.
+"MARTINEZ SABIDO HEVERT ISAAC";"9267";22/09/2014 03:30:00 p.m.;22/09/2014 04:50:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"MARTINEZ SABIDO HEVERT ISAAC";"9267";24/09/2014 04:50:00 p.m.;24/09/2014 05:50:00 p.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"EROSA ESQUIVEL GLORIA MARIA";"9419";23/09/2014;23/09/2014 11:59:00 p.m.;Otros;"personal teleton";11/08/2014 02:44:13 p.m.
+"EROSA ESQUIVEL GLORIA MARIA";"9419";24/09/2014;24/09/2014 11:59:00 p.m.;Otros;"personal teleton";11/08/2014 02:44:13 p.m.
+"EROSA ESQUIVEL GLORIA MARIA";"9419";29/09/2014 02:00:00 p.m.;29/09/2014 04:59:00 p.m.;Trabajo;"recuperacion de horas";03/10/2014 04:12:01 p.m.
+"COUOH CASTAÑEDA ETZIGUERI GPE.";"9421";18/09/2014;18/09/2014 11:59:00 p.m.;Trabajo;"coloquio de sexualidades";18/09/2014 07:44:10 a.m.
+"COUOH CASTAÑEDA ETZIGUERI GPE.";"9421";19/09/2014;19/09/2014 11:59:00 p.m.;Trabajo;"coloquio de sexualidades";18/09/2014 07:44:10 a.m.
+"COUOH CASTAÑEDA ETZIGUERI GPE.";"9421";23/09/2014 06:34:00 p.m.;23/09/2014 08:00:00 p.m.;Enfermedad;"pase";07/10/2014 11:23:53 a.m.
+"PENICHE HELGUERA MARISOL";"949";17/09/2014 10:50:00 a.m.;17/09/2014 11:40:00 a.m.;Horarios Quincenales;"Descarga quincenal";11/09/2014
+"PAT COCOM VICENTE DE JESUS";"9737";17/09/2014 07:00:00 a.m.;17/09/2014 01:00:00 p.m.;Otros;"cambio de horario";24/09/2014 10:38:38 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";17/09/2014;17/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 11:01:29 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";18/09/2014;18/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";19/09/2014 11:01:29 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";19/09/2014;19/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:18:36 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";20/09/2014;20/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:18:36 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";21/09/2014;21/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:18:36 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";22/09/2014;22/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:18:36 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";23/09/2014;23/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:18:36 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";24/09/2014;24/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:18:36 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";25/09/2014;25/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad";22/09/2014 08:18:36 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";26/09/2014;26/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:56:56 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";27/09/2014;27/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:56:56 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";28/09/2014;28/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:56:56 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";29/09/2014;29/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:56:56 a.m.
+"MENDEZ VILLANUEVA ROSAURA GERALDINE";"9959";30/09/2014;30/09/2014 11:59:00 p.m.;Enfermedad;"incapacidad por maternidad";10/10/2014 10:56:56 a.m.
+"BURGOS BRAGA DIANA MELISSA";"9964";26/09/2014 06:00:00 p.m.;26/09/2014 08:00:00 p.m.;Trabajo;"junta del SIGA";03/10/2014 01:53:55 p.m.
+"BURGOS BRAGA DIANA MELISSA";"9964";29/09/2014 06:00:00 p.m.;29/09/2014 08:00:00 p.m.;Trabajo;"junta del SIGA";03/10/2014 01:54:35 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";18/09/2014 03:00:00 p.m.;18/09/2014 07:00:00 p.m.;Trabajo;"educacion integral";22/09/2014 02:35:26 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";19/09/2014 05:00:00 p.m.;19/09/2014 07:00:00 p.m.;Trabajo;"devolucion de horas";03/10/2014 04:29:45 p.m.
+"ZAPATA GUEMEZ CLAUDIA ANGELICA";"9977";30/09/2014 05:00:00 p.m.;30/09/2014 07:00:00 p.m.;Trabajo;"modificacion de horario CAE";07/10/2014 09:57:20 a.m.
