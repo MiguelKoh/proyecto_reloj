@@ -265,16 +265,16 @@ while ($registro=mysqli_fetch_array($resultadoSearch))
          </th>            
       <th bgcolor="<?PHP echo $bg;?>">
       <a href="mant_empleados.php?idEmp=<?php echo $registro['idEmp'] ?>">
-        <img src="imagen/editarempleado.png" alt="¡EDITAR REGISTRO!" width="16" height="16" border="0" />
+        <img src="imagen/editarempleado.png" title="Editar Registro" alt="¡EDITAR REGISTRO!" width="16" height="16" border="0" />
       </a> 
       <a href="reporte_permisos_empleados.php?idEmp=<?php echo $registro['idEmp'] ?>">
-        <img src="imagen/permiso.gif" alt="¡CONSULTAR PERMISOS!" width="25" height="25" border="0" />
+        <img src="imagen/permiso.gif" title="Consultar Permisos" alt="¡CONSULTAR PERMISOS!" width="25" height="25" border="0" />
       </a>
       <a href="reporte_horarios_empleados.php?idEmp=<?php echo $registro['idEmp'] ?>">
-        <img src="imagen/horario.gif" alt="¡CONSULTAR HORARIOS!" width="20" height="20" border="0" />
+        <img src="imagen/horario.gif" title="Consultar Horarios" alt="¡CONSULTAR HORARIOS!" width="20" height="20" border="0" />
       </a> 
       <a href="checadas.php?idEmp=<?php echo $registro['idEmp'] ?>">
-        <img src="imagen/excel.gif" alt="¡CONSULTAR REGISTROS!" width="20" height="20" border="0" />
+        <img src="imagen/excel.gif" title="Consultar Registros" alt="¡CONSULTAR REGISTROS!" width="20" height="20" border="0" />
       </a>       
           </th>
         </tr>  
