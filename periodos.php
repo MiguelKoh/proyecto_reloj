@@ -55,7 +55,7 @@ $(document).ready(function(){
                             Inicio
                         </a>
                     </li>
-                    <li>
+                    <li class="FondoNav">
                         <a href="listar_catalogos.php">Catálogos</a>
                     </li>
                     <li>

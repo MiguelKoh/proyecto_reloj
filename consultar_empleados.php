@@ -108,7 +108,7 @@ if (($myData[1][2]) and (strlen($myData[4][1]) < 1)) {$shr = 1;}
                 <li>
                     <a href="listar_catalogos.php">Catálogos</a>
                 </li>
-                <li>
+                <li class="FondoNav">
                     <a href="consultar_empleados.php">Empleados</a>
                 </li>
                 <li>

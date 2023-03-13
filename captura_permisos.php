@@ -177,7 +177,7 @@
                 <li>
                     <a href="reporte_horarios.php">Horarios</a>
                 </li>
-                <li>
+                <li class="FondoNav">
                     <a href="captura_permisos.php">Permisos</a>
                 </li>
                 <li>

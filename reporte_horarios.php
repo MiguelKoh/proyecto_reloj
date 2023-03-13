@@ -75,7 +75,7 @@
                 <li>
                     <a href="consultar_empleados.php">Empleados</a>
                 </li>
-                <li>
+                <li class="FondoNav">
                     <a href="reporte_horarios.php">Horarios</a>
                 </li>
                 <li>

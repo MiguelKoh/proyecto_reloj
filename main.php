@@ -97,7 +97,7 @@ global $fechaInicio,$fechaFin;
                 <li>
                     <a href="importar.php">Entradas/Salidas</a>
                 </li>
-                <li>
+                <li class="FondoNav">
                     <a href="main.php">Reportes</a>
                 </li>
                 <li>

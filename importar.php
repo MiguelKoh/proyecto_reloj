@@ -85,7 +85,7 @@
                 <li>
                     <a href="captura_permisos.php">Permisos</a>
                 </li>
-                <li>
+                <li class="FondoNav">
                     <a href="importar.php">Entradas/Salidas</a>
                 </li>
                 <li>

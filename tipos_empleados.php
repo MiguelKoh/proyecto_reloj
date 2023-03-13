@@ -89,7 +89,7 @@ if (!empty($_GET['idTipo'])&& !empty($_GET['accion']) && $_GET['accion']=='borra
                         Inicio
                     </a>
                 </li>
-                <li>
+                <li class="FondoNav">
                     <a href="listar_catalogos.php">Catálogos</a>
                 </li>
                 <li>
