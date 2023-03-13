@@ -30,7 +30,7 @@
 			<!-- vinculo a bootstrap -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <!-- Temas-->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
 <!-- se vincula al hoja de estilo para definir el aspecto del formulario de login-->  
 <style type="text/css">
 
@@ -148,14 +148,14 @@ body{
 		<div id="Contenedor"><!--Inicio contenedor-->
 
 			<div class="Icon">
-						<img src="imagen/LOGO_PREPA.png" id="logoLogin">
+						<img src="imagen/LOGO_PREPA.png" id="logoLogin" class="mb-2">
 						<!--Icono de usuario-->
 			</div>
 
 			<div class="ContentForm" class="row">
 		 		
-				<form action="login.php" method="post" name="FormEntrar">
-		 			<p class="h5 mb-2">Iniciar sesion</p>
+				<form action="login.php" method="post" name="FormEntrar" class="px-3">
+		 			<p class="h5 mb-3">Iniciar sesion</p>
 		 			<div class="input-group input-group-lg">
 
 						<span class="input-group-addon" id="sizing-addon1"><i class="glyphicon glyphicon-user"></i></span>
@@ -168,7 +168,7 @@ body{
 				  <input type="password" name="contra" class="form-control" placeholder="******" aria-describedby="sizing-addon1" required>
 			</div>
 				<br>
-				<button class="btn btn-lg btn-primary btn-block btn-signin" id="IngresoLog" type="submit">Entrar</button>
+				<button class="btn btn-lg btn-primary w-100" id="IngresoLog" type="submit">Entrar</button>
 				
 		 		</form>
 		 

@@ -32,7 +32,7 @@
         <div id="sidebar-wrapper">
                 <img src="assets/img/logo_uady-gray.png" alt="Mountain View" style="margin-left:-4px;width:170px;height:auto;">
             <ul class="sidebar-nav">
-                <li class="sidebar-brand">
+                <li class="sidebar-brand FondoNav">
                     <a href="index.php">Inicio</a>
                 </li>
                 <li>
