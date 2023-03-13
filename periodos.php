@@ -17,6 +17,7 @@ $cn = ConectaBD();
     <!-- Bootstrap core CSS -->
     <link class="bootstrap" href="assets/vendor/bootstrap/bootstrap_5.0/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+    
     <!--Plugins css-->
     <link href="assets/plugins/animatecss/animate.min.css" rel="stylesheet">
     <link href="assets/plugins/sweetAlert2/dist/sweetalert2.min.css" rel="stylesheet">
@@ -80,9 +81,11 @@ $(document).ready(function(){
 </style>
 <h3><b>Periodos</b></h3>
    <!-- Button Modal Agregar-->
-<buton type="button" class="btn btn-secondary">
-  <a href= listar_catalogos.php class="colorA"> Regresar</a>
-</buton>
+
+<a href="listar_catalogos.php" class="btn btn-secondary">Regresar</a>
+<button type="button" class="btn btn-default" aria-label="Left Align">
+  <span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+</button>
 
 <button type="button" id="btnAgregar_periodo" class="btn btn-primary btn_agregar" data-bs-toggle="modal" data-bs-target="#modalAgregarperiodo">
   Nuevo

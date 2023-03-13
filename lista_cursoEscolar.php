@@ -72,7 +72,8 @@ $cn = ConectaBD();
 
 <h3><b>Curso Escolar</b></h3>
    <!-- Button Modal Agregar-->
-<button type="button" id="btnAgregar_cursoEscolar" class="btn btn-primary btn_agregar" data-bs-toggle="modal" data-bs-target="#modalAgregarCurso">
+   <a href="listar_catalogos.php" class="btn btn-secondary">Regresar</a>
+   <button type="button" id="btnAgregar_cursoEscolar" class="btn btn-primary btn_agregar" data-bs-toggle="modal" data-bs-target="#modalAgregarCurso">
   Nuevo
 </button>
 

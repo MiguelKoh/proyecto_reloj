@@ -116,6 +116,8 @@ if (!empty($_GET['idTipo'])&& !empty($_GET['accion']) && $_GET['accion']=='borra
 
     <section>
     <!-- Button trigger modal -->
+
+    <a href="listar_catalogos.php" class="btn btn-secondary">Regresar</a>
 <button type="button" class="btn btn-primary btn_agregar" data-bs-toggle="modal" data-bs-target="#modalRegistro">
   Nuevo
 </button>

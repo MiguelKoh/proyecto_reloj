@@ -72,7 +72,8 @@ $cn = ConectaBD();
 
 <h3><b>Semestres</b></h3>
    <!-- Button Modal Agregar-->
-<button type="button" id="btnAgregar_semestre" class="btn btn-primary btn_agregar" data-bs-toggle="modal" data-bs-target="#modalAgregarSemetre">
+   <a href="listar_catalogos.php" class="btn btn-secondary">Regresar</a>
+   <button type="button" id="btnAgregar_semestre" class="btn btn-primary btn_agregar" data-bs-toggle="modal" data-bs-target="#modalAgregarSemetre">
   Nuevo
 </button>
 

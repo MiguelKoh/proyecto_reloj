@@ -22,6 +22,7 @@ error_reporting(-1);
     <!-- Custom styles for this template -->
     <link href="assets/css/simple-sidebar.css" rel="stylesheet">
     <link href="assets/css/styles.css" rel="stylesheet">
+	<link class="bootstrap" href="assets/vendor/bootstrap/bootstrap_5.0/css/bootstrap.min.css" rel="stylesheet">
 
 	
 	<script src="http://code.jquery.com/jquery-1.9.0.min.js"></script>
@@ -153,7 +154,7 @@ error_reporting(-1);
 		  
 	</head>
     <body>
-
+		
     <div class="global-wrap">
           
          <div id="wrapper">
@@ -196,11 +197,13 @@ error_reporting(-1);
                 //////////////START PAGE CONTENT/////////
                 ////////////////////////////////////-->
                 <div style="margin-left: -80px">
+					
                 <table style="text-align:center;background-color: white" width="90%" border="0">
             <tr>
                 <td align="center">
                                          
                             <tr >
+								<td><a href="listar_catalogos.php" class="btn btn-secondary">Regresar</a></td>
                                 <td colspan="4" style="text-align:center;vertical-align:middle;"><h2><b>Alta de Eventos</b></h2></td>
                             </tr>
                             <tr>
