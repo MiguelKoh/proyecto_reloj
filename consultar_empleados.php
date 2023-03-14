@@ -97,7 +97,7 @@ if (($myData[1][2]) and (strlen($myData[4][1]) < 1)) {$shr = 1;}
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
 
-              <img src="assets/img/logo_uady-gray.png" alt="Mountain View" style="margin-left:-4px;width:170px;height:auto;">
+              <img src="assets/img/uady_logo.png" alt="Mountain View" class="logoUady">
 
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">

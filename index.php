@@ -13,7 +13,7 @@
     <!-- Bootstrap core CSS -->
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <!-- Custom styles for this template -->
     <link href="assets/css/simple-sidebar.css" rel="stylesheet">
     <link href="assets/css/styles.css" rel="stylesheet">
@@ -22,6 +22,12 @@
 
 
 <body>
+    <style>
+        body{
+            background-image:url("assets/img/fondoUV.png")
+            
+        }
+    </style>
 
     <div class="global-wrap">
 
@@ -30,7 +36,7 @@
 
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
-                <img src="assets/img/logo_uady-gray.png" alt="Mountain View" style="margin-left:-4px;width:170px;height:auto;">
+                <img src="assets/img/logo-uady-blanco.png" alt="Mountain View" class="logoUady">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand FondoNav">
                     <a href="index.php">Inicio</a>
@@ -123,7 +129,7 @@
     <script>
         $(function(){
             $("#includedHeader").load("templates/header/header.html"); 
-            $("#includedFooter").load("templates/footer/footer.html"); 
+            
         });
 
         window.onload=function(e) {
