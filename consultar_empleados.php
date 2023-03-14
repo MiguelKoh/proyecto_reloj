@@ -56,6 +56,7 @@ if (($myData[1][2]) and (strlen($myData[4][1]) < 1)) {$shr = 1;}
     <meta name="description" content="App Reloj">
     <meta name="author" content="Reloj">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon_uady.ico">
 
     <!-- Bootstrap core CSS -->
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -97,7 +98,7 @@ if (($myData[1][2]) and (strlen($myData[4][1]) < 1)) {$shr = 1;}
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
 
-              <img src="assets/img/uady_logo.png" alt="Mountain View" class="logoUady">
+        <img src="assets/img/logo-uady-blanco.png" alt="Mountain View" class="logoUady">
 
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">

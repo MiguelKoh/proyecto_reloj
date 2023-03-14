@@ -74,3 +74,9 @@
 .editar_elemento{
     cursor:pointer;
 }
+
+body{
+    background-image:url("../img/fondoUV.png");
+    background-color:rgba(218, 230, 229, 1);
+    
+}

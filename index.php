@@ -9,7 +9,7 @@
     <meta name="description" content="App Reloj">
     <meta name="author" content="Reloj">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon_uady.ico">
     <!-- Bootstrap core CSS -->
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
@@ -22,13 +22,8 @@
 
 
 <body>
-    <style>
-        body{
-            background-image:url("assets/img/fondoUV.png")
-            
-        }
-    </style>
-
+    
+    
     <div class="global-wrap">
 
 
@@ -69,46 +64,6 @@
         <!-- Page Content -->
         <div id="page-content-wrapper">
             <div class="container-fluid">
-
-                <!-- //////////////////////////////////
-                //////////////START PAGE CONTENT/////////
-                ////////////////////////////////////-->
-                <div style="margin-left: -80px">
-
-                   <table border="0" style="text-align:center;background-color: white" width="100%">
-
-            <tr>
-                <td style="width:10%">
-
-                </td>
-                <td align="left">
-                    <table width="100%" cellpadding="1" cellspacing="1" border="0">
-                    <!--Menu.php -->
-                        <form action="Menu.php" method="post" id="Menu" >
-                                <tr>
-                                    <td>&nbsp;</td>
-                                </tr> 
-                                <tr>
-                                    <td>&nbsp;</td>
-                                </tr>                             
-                                <tr>
-                                    <td align="center"><h3> Control de Asistencias V2.0 </h3></td>                
-                                </tr>
-                                <tr>
-                                    <td>&nbsp;</td>
-                                </tr> 
-           
-
-                        </form>
-                    </table> 
-                </td>
-            </tr>
-        </table>
-                </div>   
-
-                 <!-- //////////////////////////////////
-                //////////////END PAGE CONTENT/////////
-                ////////////////////////////////////-->
 
                 <div id="includedFooter"></div>
             </div>

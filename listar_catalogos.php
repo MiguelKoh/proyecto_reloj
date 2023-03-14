@@ -19,7 +19,7 @@ global $fechaInicio,$fechaFin;
     <!-- Bootstrap core CSS -->
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
-
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon_uady.ico">
     <!-- Custom styles for this template -->
     <link href="assets/css/simple-sidebar.css" rel="stylesheet">
     <link href="assets/css/styles.css" rel="stylesheet">
@@ -34,7 +34,7 @@ global $fechaInicio,$fechaFin;
 
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
-            <img src="assets/img/logo_uady-gray.png" alt="Mountain View" style="margin-left:-4px;width:170px;height:auto;">
+            <img src="assets/img/logo-uady-blanco.png" alt="Mountain View" class="logoUady">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
                     <a href="index.php">
@@ -138,17 +138,8 @@ global $fechaInicio,$fechaFin;
     <script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
     
     <script>
-        $(function(){
-            $("#includedHeader").load("templates/header/header.html"); 
-            $("#includedContent").load("assets/prueba.html"); 
-            $("#includedFooter").load("templates/footer/footer.html"); 
-        });
-
             $("#wrapper").toggleClass("toggled");
 
-        function test (a){
-            document.getElementById("profesorid").value=a;
-        }
     </script>
     
 </body>

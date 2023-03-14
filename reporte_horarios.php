@@ -23,7 +23,7 @@
     <meta name="description" content="App Reloj">
     <meta name="author" content="Reloj">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon_uady.ico">
     <!-- Bootstrap core CSS -->
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
@@ -62,7 +62,7 @@
 
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
-            <img src="assets/img/logo_uady-gray.png" alt="Mountain View" style="margin-left:-4px;width:170px;height:auto;">
+        <img src="assets/img/logo-uady-blanco.png" alt="Mountain View" class="logoUady">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
                     <a href="index.php">
