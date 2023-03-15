@@ -74,8 +74,8 @@ body {
     text-decoration: none;
     color: #999999;
     width: 100%;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-start;
+    padding-left: 50px;
     
 }
 
@@ -96,7 +96,7 @@ body {
 
 .sidebar-nav > .sidebar-brand {
     height: 45px;
-    font-size: 18px;
+    /*font-size: 18px;*/
     line-height: 45px;
 }
 
@@ -127,7 +127,7 @@ body {
         width: 0;
     }
     #wrapper.toggled #sidebar-wrapper {
-        width: 200px;
+        width: 235px;
     }
     #page-content-wrapper {
         padding: 20px;
@@ -146,11 +146,16 @@ body {
         justify-content: center;
         align-items: center;
         width: 100%;
-        padding-left:15px;
-        padding-right: 15px;
+        padding-left:30px;
+        padding-right: 30px;
         padding-top: 20px;
         padding-bottom: 20px;
     }
+    .iconoSalir::after{
+        content: "\f08b"!important;
+    }
+
+
 
 
 }
