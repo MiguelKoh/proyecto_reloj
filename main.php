@@ -297,17 +297,9 @@ global $fechaInicio,$fechaFin;
     <script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
     
     <script>
-        $(function(){
-            $("#includedHeader").load("templates/header/header.html"); 
-            $("#includedContent").load("assets/prueba.html"); 
-            $("#includedFooter").load("templates/footer/footer.html"); 
-        });
-
             $("#wrapper").toggleClass("toggled");
 
-        function test (a){
-            document.getElementById("profesorid").value=a;
-        }
+       
     </script>
     
 </body>
