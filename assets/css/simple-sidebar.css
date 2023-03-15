@@ -3,7 +3,7 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)
  */
-
+ * {margin: 0;padding: 0;font-family:Helvetica, Arial, Tahoma, sans-serif;}
 body {
     overflow-x: hidden;
 }
@@ -155,7 +155,7 @@ body {
         content: "\f08b"!important;
     }
 
-
+    
 
 
 }

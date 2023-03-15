@@ -16,13 +16,16 @@ $cn = ConectaBD();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap core CSS -->
     <link class="bootstrap" href="assets/vendor/bootstrap/bootstrap_5.0/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+    
     <!--Plugins css-->
     <link href="assets/plugins/animatecss/animate.min.css" rel="stylesheet">
     <link href="assets/plugins/sweetAlert2/dist/sweetalert2.min.css" rel="stylesheet">
     <!--Hoja de estilos -->
     <link href="assets/css/simple-sidebar.css" rel="stylesheet">
     <link href="assets/css/styles.css" rel="stylesheet"> 
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-************" crossorigin="anonymous" />
+    <link href="assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
     <!--JQUERY-->
     <script src="assets/vendor/jquery/jquery.js"></script>
     
@@ -40,34 +43,113 @@ $cn = ConectaBD();
          <div id="wrapper"> <!--INICIO WRAPPER-->
 
         <!-- Sidebar -->
-            <div id="sidebar-wrapper">
-                <img src="assets/img/logo_uady-gray.png" alt="Mountain View" style="margin-left:-4px;width:170px;height:auto;">
-                <ul class="sidebar-nav">
-                    <li class="sidebar-brand">
-                        <a href="index.php">
-                            Inicio
-                        </a>
-                    </li>
-                    <li class="FondoNav">
-                        <a href="listar_catalogos.php">Catálogos</a>
-                    </li>
-                    <li>
-                        <a href="consultar_empleados.php">Empleados</a>
-                    </li>
-                    <li>
-                        <a href="reporte_horarios.php">Horarios</a>
-                    </li>
-                    <li>
-                        <a href="captura_permisos.php">Permisos</a>
-                    </li>
-                    <li>
-                        <a href="importar.php">Entradas/Salidas</a>
-                    </li>
-                    <li>
-                        <a href="main.php">Reportes</a>
-                    </li>
-                </ul>
-            </div> <!-- /#sidebar-wrapper -->
+        <div id="sidebar-wrapper">
+                <img src="assets/img/logo-uady-blanco.png" alt="Mountain View" class="logoUady">
+            <ul class="sidebar-nav">
+                
+             <!-- Inicio -->
+             <li>
+                <div>
+                  <a href="index.php">
+                  <div>
+                    <span><i class="fas fa-house-user"></i></i></span>
+                    <span>Inicio</span>
+                  </div>  
+                   </a>
+                </div>
+                </li>
+                
+               
+                <!-- Catalogos -->
+                <li class="FondoNav">
+                <div>
+                  <a href="listar_catalogos.php">
+                  <div>
+                    <span><i class="fas fa-th-list"></i></i></span>
+                    <span>Catalogos</span>
+                  </div>  
+                   </a>
+                </div>
+                </li>
+                
+                <!-- Empleados -->
+                <li>
+                <div>
+                  <a href="consultar_empleados.php">
+                  <div>
+                    <span><i class="fas fa-users"></i></span>
+                    <span>Empleados</span>
+                  </div>  
+                   </a>
+                </div>
+                </li>
+                
+                
+                
+                <!-- Horarios -->
+                <li>
+                <div>
+                  <a href="reporte_horarios.php">
+                  <div>
+                    <span><i class="fas fa-clock"></i></span>
+                    <span>Horarios</span>
+                  </div>  
+                   </a>
+                </div>
+                </li>
+                
+                <!-- Permisos -->
+                <li>
+                <div>
+                  <a href="captura_permisos.php">
+                  <div>
+                    <span><i class="fas fa-key"></i></span>
+                    <span>Permisos</span>
+                  </div>  
+                   </a>
+                </div>
+                </li>
+                
+                <!-- Entradas/Salidas -->
+                <li>
+                <div>
+                  <a href="importar.php">
+                  <div>
+                    <span><i class="fas fa-sign-in-alt"></i></span>
+                    <span>Entradas/Salidas</span>
+                  </div>  
+                   </a>
+                </div>
+                </li>
+
+                <!-- Reportes -->
+                <li>
+                <div>
+                  <a href="main.php">
+                  <div>
+                    <span><i class="fas fa-check-square"></i></span>
+                    <span>Reportes</span>
+                  </div>  
+                   </a>
+                </div>
+                </li>
+                
+                <!-- Salir -->
+                <li>
+                <div>
+                  <a href="login.php">
+                  <div>
+                    <span><i class="icon fa fa-sign-out fa-fw" aria-hidden="true"></i></span>
+                    <span>Salir</span>
+                  </div>  
+                   </a>
+                </div> 
+            </li>
+            
+        
+        </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
 <!-- webpage content -->
 
 <h3><b>Curso Escolar</b></h3>

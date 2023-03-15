@@ -49,11 +49,13 @@
 #Contenedor{
 	width: 400px;
 	margin: 50px auto;
-	background-color: #F3EDED;
-        border: 1px solid #ECE8E8;
+	background-color: #FFF;
+    border: 1px solid #ECE8E8;
 	height: 400px;
 	border-radius:8px;
 	padding: 0px 9px 0px 9px;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+
 }
  
 /**
@@ -71,8 +73,8 @@
  * color de fuente blanco,un tamaño de fuente 50px y texto centrado.
  */
 .Icon{
-     margin-top: 10px;
-     margin-bottom:10px; 
+     padding-top: 10px;
+     padding-bottom:10px; 
      color: #FFF;
      font-size: 50px;
      text-align: center;
@@ -172,7 +174,7 @@
 				  <input type="password" name="contra" class="form-control" placeholder="******" aria-describedby="sizing-addon1" required>
 			</div>
 				<br>
-				<button class="btn btn-lg btn-primary w-100" id="IngresoLog" type="submit">Entrar</button>
+				<button class="btn btn-lg btn-primary w-100" id="IngresoLog" type="submit">Iniciar sesión</button>
 				
 		 		</form>
 		 

@@ -19,11 +19,15 @@ global $fechaInicio,$fechaFin;
 
     <!-- Bootstrap core CSS -->
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
-
+    
     <!-- Custom styles for this template -->
     <link href="assets/css/simple-sidebar.css" rel="stylesheet">
     <link href="assets/css/styles.css" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-************" crossorigin="anonymous" />
+    <link href="assets/vendor/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+
       
        <!-- <link href="css/estilos.css" rel="stylesheet" type="text/css"/> -->
         <link rel="stylesheet" type="text/css" href="select_dependientes.css">
@@ -76,35 +80,110 @@ global $fechaInicio,$fechaFin;
 
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
-        <img src="assets/img/logo-uady-blanco.png" alt="Mountain View" class="logoUady">
+                <img src="assets/img/logo-uady-blanco.png" alt="Mountain View" class="logoUady">
             <ul class="sidebar-nav">
-                <li class="sidebar-brand">
-                    <a href="index.php">
-                        Inicio
-                    </a>
+                
+             <!-- Inicio -->
+             <li>
+                <div>
+                  <a href="index.php">
+                  <div>
+                    <span><i class="fas fa-house-user"></i></i></span>
+                    <span>Inicio</span>
+                  </div>  
+                   </a>
+                </div>
                 </li>
+                
+               
+                <!-- Catalogos -->
                 <li>
-                    <a href="listar_catalogos.php">Catálogos</a>
+                <div>
+                  <a href="listar_catalogos.php">
+                  <div>
+                    <span><i class="fas fa-th-list"></i></i></span>
+                    <span>Catalogos</span>
+                  </div>  
+                   </a>
+                </div>
                 </li>
+                
+                <!-- Empleados -->
                 <li>
-                    <a href="consultar_empleados.php">Empleados</a>
+                <div>
+                  <a href="consultar_empleados.php">
+                  <div>
+                    <span><i class="fas fa-users"></i></span>
+                    <span>Empleados</span>
+                  </div>  
+                   </a>
+                </div>
                 </li>
+                
+                
+                
+                <!-- Horarios -->
                 <li>
-                    <a href="reporte_horarios.php">Horarios</a>
+                <div>
+                  <a href="reporte_horarios.php">
+                  <div>
+                    <span><i class="fas fa-clock"></i></span>
+                    <span>Horarios</span>
+                  </div>  
+                   </a>
+                </div>
                 </li>
+                
+                <!-- Permisos -->
                 <li>
-                    <a href="captura_permisos.php">Permisos</a>
+                <div>
+                  <a href="captura_permisos.php">
+                  <div>
+                    <span><i class="fas fa-key"></i></span>
+                    <span>Permisos</span>
+                  </div>  
+                   </a>
+                </div>
                 </li>
+                
+                <!-- Entradas/Salidas -->
                 <li>
-                    <a href="importar.php">Entradas/Salidas</a>
+                <div>
+                  <a href="importar.php">
+                  <div>
+                    <span><i class="fas fa-sign-in-alt"></i></span>
+                    <span>Entradas/Salidas</span>
+                  </div>  
+                   </a>
+                </div>
                 </li>
+
+                <!-- Reportes -->
                 <li class="FondoNav">
-                    <a href="main.php">Reportes</a>
+                <div>
+                  <a href="main.php">
+                  <div>
+                    <span><i class="fas fa-check-square"></i></span>
+                    <span>Reportes</span>
+                  </div>  
+                   </a>
+                </div>
                 </li>
+                
+                <!-- Salir -->
                 <li>
-                    <a href="login.php">Salir</a>
-                </li>
-            </ul>
+                <div>
+                  <a href="login.php">
+                  <div>
+                    <span><i class="icon fa fa-sign-out fa-fw" aria-hidden="true"></i></span>
+                    <span>Salir</span>
+                  </div>  
+                   </a>
+                </div> 
+            </li>
+            
+        
+        </ul>
         </div>
         <!-- /#sidebar-wrapper -->
 
