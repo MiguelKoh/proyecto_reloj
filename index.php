@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Control de Asistencias v2.0</title>
+    <title>Control de Asistencias v2.00</title>
     <!-- meta info -->
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <meta name="keywords" content="Aid wear" />
