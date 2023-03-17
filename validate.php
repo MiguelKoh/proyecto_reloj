@@ -2,7 +2,7 @@
 session_start();
 $host=$_SERVER['HTTP_HOST'];
 $uri=$_SERVER['REQUEST_URI'];
-$raiz="http://".$host."/Reloj/";
+$raiz="http://".$host."/proyecto_reloj/";
 
 
 if (($_SESSION['Access']) and ($_SESSION['idUsuario'] <> "")) {

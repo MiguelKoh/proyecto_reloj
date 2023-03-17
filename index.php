@@ -130,7 +130,7 @@
                 <!-- Salir -->
                 <li>
                 <div>
-                  <a href="login.php">
+                  <a href="salir.php">
                   <div>
                     <span><i class="icon fa fa-sign-out fa-fw" aria-hidden="true"></i></span>
                     <span>Salir</span>

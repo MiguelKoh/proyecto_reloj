@@ -358,13 +358,13 @@
                             </tr>
                             <tr>
                                 <td>&nbsp;</td>
-                                <td><b>Horario teorico vigente del 
+                                <td><b> 
                                     <?php
                                     if ($idEmp!=null){
                                         $horario = obtenerHorarioTeorico($idEmp);  
                                         $desc_semestre = $horario[0];
                                         $total = $horario[1];
-                                        echo $desc_semestre;
+                                        echo "Horario vigente del ",$desc_semestre;
                                         
                                         for ($a = 2; $a<= $total; $a++){
                                     ?></b>
