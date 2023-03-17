@@ -301,6 +301,7 @@
                             <tr>
                               <td align="right"><b>Departamento: </b></td>
                                 <td> 
+                                    
                                     <select name="idDepto" id="idDepto" onChange="javascript:submit()">
                                       <?php 
                                            $SQLp="SELECT * FROM departamento ORDER BY Nombre";
@@ -308,19 +309,22 @@
                                       ?>
                                       <option value="0">Seleccione un departamento</option>
                                       <?php 
+                                          
                                           while( $rsA=mysqli_fetch_array($queryA) ) { 
                                               if ($idDepto == $rsA["idDepto"]) {
-                                                  $selected = " selected";
+                                                  $selected = "selected";
                                                   } 
                                               else {
                                                   $selected = "";
                                                   } 
                                       ?>
+                                      
                                       <option value="<?php echo $rsA["idDepto"]; ?>"<?php echo $selected;?>>
                                           <?php echo utf8_encode($rsA["Nombre"]);?>                
                                       </option>
                                       <?php } mysqli_free_result($queryA);?>
                                     </select>
+                                
                                 </td>
                                
                             </tr>
@@ -356,7 +360,7 @@
                                 <td>&nbsp;</td>
                                 <td><b>Horario teorico vigente del 
                                     <?php
-                                    if (isset($idEmp)){
+                                    if ($idEmp!=null){
                                         $horario = obtenerHorarioTeorico($idEmp);  
                                         $desc_semestre = $horario[0];
                                         $total = $horario[1];
@@ -377,6 +381,12 @@
                                     <?php
                                         }
                                     }
+                                    
+
+                                    
+                                    
+
+                            
                                     ?>             
                             <tr>
                                 <td align="right"><b>Fecha/Hora inicio:</b></td>
