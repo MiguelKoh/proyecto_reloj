@@ -28,12 +28,20 @@
 
 
 <body>
-<div id="sidebar-wrapper">
+    
+    
+    <div class="global-wrap">
+
+
+        <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
                 <img src="assets/img/logo-uady-blanco.png" alt="Mountain View" class="logoUady">
             <ul class="sidebar-nav">
                 
              <!-- Inicio -->
-             <li class="FondoNav">
+             <li>
                 <div>
                   <a href="index.php">
                   <div>
@@ -72,7 +80,7 @@
                 
                 
                 <!-- Horarios -->
-                <li>
+                <li class="FondoNav">
                 <div>
                   <a href="reporte_horarios.php">
                   <div>
@@ -122,7 +130,7 @@
                 <!-- Salir -->
                 <li>
                 <div>
-                  <a href="login.php">
+                  <a href="salir.php">
                   <div>
                     <span><i class="icon fa fa-sign-out fa-fw" aria-hidden="true"></i></span>
                     <span>Salir</span>
@@ -134,8 +142,79 @@
         
         </ul>
         </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+
+        
+        
+
+        <!-- /#page-content-wrapper -->
+
+      
+       
+    <div class="row d-flex justify-content-center">
+      <div class="col-lg-7 bg-light mt-5">
+        <h2 class="d-flex justify-content-center mb-4 mt-4">Consultar / Eliminar horarios de empleado</h2>
+        <form>
+          <div class="form-group">
+          <label for="exampleFormControlSelect1">Departamento</label>
+          <select class="form-control" id="departamento">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+          </select>
+         </div>
+
+         <div class="form-group">
+          <label for="exampleFormControlSelect1">Empleado</label>
+          <select class="form-control" id="exampleFormControlSelect1">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+          </select>
+         </div>
+
+         <div class="form-group">
+          <label for="exampleFormControlSelect1">Curso escolar</label>
+          <select class="form-control" id="exampleFormControlSelect1">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+          </select>
+         </div>
+
+         <div class="form-group">
+          <label for="exampleFormControlSelect1">Semestre</label>
+          <select class="form-control" id="exampleFormControlSelect1">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+          </select>
+         </div>
+
+
+        </form>
+        
+      </div>
+      
+
+
+    </div>
+
+
+
+    </div>
     
-    
+    </div >
 
     <!-- Scripts queries -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

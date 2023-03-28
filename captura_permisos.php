@@ -308,6 +308,7 @@
                                            $queryA = mysqli_query($cn,$SQLp);
                                       ?>
                                       <option value="0">Seleccione un departamento</option>
+                                      
                                       <?php 
                                           
                                           while( $rsA=mysqli_fetch_array($queryA) ) { 
