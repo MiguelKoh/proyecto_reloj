@@ -276,6 +276,7 @@
                             </tr>
                             <tr>
                                 <td align="right"><b>Semestre:</b></td>
+                  
                                 <td><label>
                                        <?php 
                                             
@@ -299,14 +300,22 @@
                                   <?php } else { ?>
                                  <p> N/A</p>  
                                   <?php } ?>
-                                </td>                                
+                                </td>  
                             </tr>                             
                             <tr>
+                            <td><input type="button" value="Consultar" name="consultar" onclick="mostrarHorarios()"></td> 
+                            
+              
+                            
+                    
                                 <td>&nbsp;</td>
                             </tr>
- 
+                             <tr>
+                             
+                             </tr> 
+
                             <?php
-                                if(isset($_POST['buscaHorarios']) || (isset($idSemestre) && $idSemestre>0)){
+                                if(isset($_POST['buscaHorarios']) || isset($idSemestre) && $idSemestre>0){
                                     //* validaciones    
                                         //*obtengo la lista de los permisos que capturados en la fecha seleccionada*
                                         $sente = "SELECT idhorario,idemp,date(fecha_ini) as fecha_ini,date(fecha_fin) as fecha_fin,".
@@ -356,12 +365,15 @@
                                         </tr>";
                                     }
                                      ?>
+                                     
                                 </table>
                             <?php
                                    }      
-                              }                            
+                              }
+                                                         
                             ?>                
-                        </form>
+                        
+                      </form>
                     </table>                
                 </td>            
             </tr>
