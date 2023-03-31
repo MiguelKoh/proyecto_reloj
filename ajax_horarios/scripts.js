@@ -1,19 +1,21 @@
 function modificarPregunta(){
 	$(document).ready(function(){
-		var id_semestre=$("#id_preguntaM").val();
-        var id_empleado=$("#id_preguntaM").val();
+		var id_semestre=$("#idSemestre").val();
+        var id_empleado=$("#idEmp").val();
 
-		var datos={"id_semestre":id_semestre,
-        "id_empleado":id_empleado};
+		var datos={
+        "id_semestre":id_semestre,
+        "id_empleado":id_empleado
+        };
 		//Función de ajax
 		$.ajax({
-			url:"./tablaHorarios.php",
+			url:"tablaHorarios.php",
 			dataType:"json",
 			type:"get",
 			data:datos,
 			success:function(datos){
 				if(datos.respuesta=="ok"){
-					$("#tablaPreguntas").html(datos.html);
+					$("#tablaHorarios").html(datos.html);
 				}//Fin del if
 				//console.log(datos);
 			},

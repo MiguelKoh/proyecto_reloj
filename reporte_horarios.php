@@ -256,7 +256,8 @@
                                     <select name="idCurso" id="idCurso" onChange="javascript:submit()">
                                       <option value="0"<?php if ($idCurso == 0) {echo " selected";}?>>Seleccione un curso</option>
                                       <?php 
-                                           $SQLp = "SELECT idcurso,descripcion FROM curso_escolar";
+                                           $SQLp = "SELECT * FROM `curso_escolar`WHERE idcurso > 8 ORDER BY idcurso ASC;
+                                           ";
                                            $queryA = mysqli_query($cn,$SQLp);
                                       ?>
                                       <?php 
@@ -318,11 +319,11 @@
                                 if(isset($_POST['buscaHorarios']) || isset($idSemestre) && $idSemestre>0){
                                     //* validaciones    
                                         //*obtengo la lista de los permisos que capturados en la fecha seleccionada*
-                                        $sente = "SELECT idhorario,idemp,date(fecha_ini) as fecha_ini,date(fecha_fin) as fecha_fin,".
+                                       /* $sente = "SELECT idhorario,idemp,date(fecha_ini) as fecha_ini,date(fecha_fin) as fecha_fin,".
                                                  "dia_semana,hora_ini,hora_fin,idsemestre ".
                                                  "FROM horarios_semestre where idsemestre = " . $idSemestre .
                                                  " and idemp = " . $idEmp . 
-                                                 " order by dia_semana, hora_ini";      
+                                                 " order by dia_semana, hora_ini";  */
                                         $sente = "SELECT a.id as idhorario,a.idEmp,a.fecha_ini,a.fecha_fin,a.id_dia as dia_semana,".
                                                 "a.hora_ini,a.hora_fin,".
                                                 "a.id_semestre as idsemestre,a.semana_descarga,a.id_tipo_empleado," .
