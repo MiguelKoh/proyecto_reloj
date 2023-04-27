@@ -256,7 +256,8 @@
                                     <select name="idCurso" id="idCurso" onChange="javascript:submit()">
                                       <option value="0"<?php if ($idCurso == 0) {echo " selected";}?>>Seleccione un curso</option>
                                       <?php 
-                                           $SQLp = "SELECT idcurso,descripcion FROM curso_escolar";
+                                           $SQLp = "SELECT * FROM `curso_escolar` WHERE idcurso > 8 ORDER BY idcurso ASC";
+              
                                            $queryA = mysqli_query($cn,$SQLp);
                                       ?>
                                       <?php 
@@ -303,11 +304,7 @@
                                 </td>  
                             </tr>                             
                             <tr>
-                            <td><input type="button" value="Consultar" name="consultar" onclick="mostrarHorarios()"></td> 
-                            
-              
-                            
-                    
+                             
                                 <td>&nbsp;</td>
                             </tr>
                              <tr>
