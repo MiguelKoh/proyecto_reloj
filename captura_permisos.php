@@ -554,7 +554,7 @@
     <script>
         $(function(){
             $("#includedHeader").load("templates/header/header.html"); 
-            $("#includedFooter").load("templates/footer/footer.html"); 
+            
         });
 
         

@@ -266,7 +266,7 @@
         $(function(){
             $("#includedHeader").load("templates/header/header.html"); 
             $("#includedContent").load("assets/prueba.html"); 
-            $("#includedFooter").load("templates/footer/footer.html"); 
+            
         });
 
       

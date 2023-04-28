@@ -149,7 +149,8 @@
             <div class="container-fluid">
 
                 <div id="includedFooter"></div>
-            </div>
+                <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 600px; height: 620px; display: block; flex-grow: 1;" title="Twitter Timeline" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fface.uady&tabs=timeline&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId=111744868937106"></iframe>            
+              </div>
         </div>
         <!-- /#page-content-wrapper -->
 
