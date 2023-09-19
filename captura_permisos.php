@@ -528,9 +528,13 @@
                                     
                                 </td>                          
                             </tr>
+                            
                                 
                         </form>
-                    </table>                
+                    </table>  
+                    <div id="permisosGuardados">
+                        
+                    </div> 
                 </div>   
 
                  <!-- //////////////////////////////////
