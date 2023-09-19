@@ -34,7 +34,7 @@ function calcular_tiempo_trasnc($hora1,$hora2){
     $total_minutos_trasncurridos = $total_minutos_trasncurridos[1]-$total_minutos_trasncurridos[2]; 
     
     if($total_minutos_trasncurridos<=59) 
-        return abs(($total_minutos_trasncurridos.' Minutos')); 
+        return abs(($total_minutos_trasncurridos)); 
     
     elseif($total_minutos_trasncurridos>59){ 
         $hora_transcurrida = round($total_minutos_trasncurridos/60); 

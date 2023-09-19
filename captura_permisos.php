@@ -86,6 +86,8 @@
                     $result = mysqli_query($cn,$sente) ;                        
 
                 }
+               //echo $hora_salida;
+            
                 echo '<script>alert ("Los permisos se grabaron correctamente")</script>';
 
                 $idDepto = "";
@@ -107,7 +109,6 @@
     }
       
   
-    
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -524,6 +525,7 @@
                             <tr  align="center">
                                 <td>
                                     <input type="submit" name="grabarPermisos" id="grabarPermisos" value="GUARDAR"></td>
+                                    <input type="button" id="btnSave" value="save">
                                 </td>                          
                             </tr>
                                 
@@ -544,6 +546,10 @@
    
     </div>
 
+ 
+
+
+    <script src="script-permisos.js"></script>
     <!-- Scripts queries -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
      <!-- Bootstrap core JavaScript -->

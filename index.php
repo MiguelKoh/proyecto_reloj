@@ -136,7 +136,7 @@
                     <span>Salir</span>
                   </div>  
                    </a>
-                </div> 
+        u        </div> 
             </li>
             
         
@@ -147,7 +147,11 @@
         <!-- Page Content -->
         <div id="page-content-wrapper">
             <div class="container-fluid">
-
+              <div class="row">
+              <div class="col-12">
+              <img src="imagen/ems_uady.jpg" class="w-75 mt-5">
+              </div>
+              </div>
                 <div id="includedFooter"></div>
               </div>
         </div>
