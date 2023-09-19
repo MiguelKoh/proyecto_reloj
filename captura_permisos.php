@@ -524,8 +524,8 @@
                             </tr>
                             <tr  align="center">
                                 <td>
-                                    <input type="submit" name="grabarPermisos" id="grabarPermisos" value="GUARDAR"></td>
-                                    <input type="button" id="btnSave" value="save">
+                                    <input type="button" id="grabarPermisos" value="GUARDAR"></td>
+                                    
                                 </td>                          
                             </tr>
                                 
@@ -548,10 +548,12 @@
 
  
 
-
-    <script src="script-permisos.js"></script>
-    <!-- Scripts queries -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="script-permisos.js"></script>
+    
+
+    <!-- Scripts queries -->
+    
      <!-- Bootstrap core JavaScript -->
     <script src="assets/vendor/jquery/jquery.min.js"></script>
     <script src="assets/vendor/popper/popper.min.js"></script>

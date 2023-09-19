@@ -4,18 +4,17 @@
     include("funciones_reloj.php");
     $cn = ConectaBD();
     
-    $idDepto = 28;
-    $idEmp = 9280 ;
-    $fechaInicio ="2023-09-18";
-    $fechaFin ="2023-09-18";
-    $horaInicio ="08";
-    $horaFin ="16";
-    $minInicio ="0";
-    $minFin="0";
-    $tipoPermiso ="1";
-    $descPermiso ="prueba";
-    
-    //$idDepto = isset($_POST['idTamano']) ? $_POST['idTamano'] : ""; 
+    $idDepto = $_GET['idDepto'];
+    $idEmp =$_GET['idEmp'];
+    $fechaInicio = $_GET['fechaInicio'];
+    $fechaFin = $_GET['fechaFin'];
+    $horaInicio = $_GET['horaInicio'];
+    $horaFin =$_GET['horaFin'];
+    $minInicio = $_GET['minInicio'];
+    $minFin= $_GET['minFin'];
+    $tipoPermiso =$_GET['tipoPermiso'];
+    $descPermiso =$_GET['descPermiso'];
+
                 
                 if ($minInicio == "0"){
                     $minInicio = "00";
@@ -84,37 +83,34 @@
                                       
 
 
-                            if($numreg>0) {
-
-                              while ($row = mysqli_fetch_array($result)){
-
-                                        $separar =  explode('/',$row['fechaIni']);
-
-                                           $dia = $separar[0];
-                                           $mes = $separar[1];
-                                           $anio = $separar[2];
-                                           $dia_semana = diaSemana($anio,$mes,$dia);
-                                           $nombre_dia = nombre_dia ($dia_semana);
+                    if ($numreg > 0) {
+                               $resultados = array();
+                               while ($row = mysqli_fetch_array($result)) {
+                                   $separar = explode('/', $row['fechaIni']);
+                                   $dia = $separar[0];
+                                   $mes = $separar[1];
+                                   $anio = $separar[2];
+                                   $dia_semana = diaSemana($anio, $mes, $dia);
+                                   $nombre_dia = nombre_dia($dia_semana);
 
                                    $item = array(
+                                       'fecha' => $row['fechaIni'],
+                                       'dia' => $nombre_dia,
+                                       'hora_inicio' => $row['horaIni'],
+                                       'hora_fin' => $row['horaFin'],
+                                       'tipo_permiso' => $row['tipo'],
+                                       'motivo' => utf8_encode($row['motivo']),
+                                       'Minutos' => $row['minutosDiarios']
+                                   );
 
-                                        'fecha' => $row['fechaIni'],
-                                        'dia' => $nombre_dia,
-                                        'hora_inicio' =>$row['horaIni'] ,
-                                        'hora_fin' => $row['horaFin'],
-                                        'tipo_permiso' => $row['tipo'],
-                                        'motivo'=>utf8_encode($row['motivo']),
-                                        'Minutos'=>$row['minutosDiarios']
-                                    );
+                                   $resultados[] = $item;
+                               }
 
-
-                                        }
-                                    echo json_encode($item); 
-
-}else{
-    echo "no hay registros";
+    echo json_encode($resultados);
+} else {
+    // Si no hay registros, devolver un objeto JSON vacío
+    echo json_encode(array());
 }
-
 
 
   
