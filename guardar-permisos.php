@@ -62,6 +62,7 @@
                     $dia = $separar[2];
                     $nva_fecha = $dia."/".$mes."/".$año;   
 
+                    date_default_timezone_set('America/Mexico_City');
                    
                     //grabo informacion de permisos en tabla
                      $sente = "INSERT INTO permisos (idEmp,fechaIni,horaIni,fechaFin,horaFin,tipo,motivo,horaCaptura,minutosDiarios,idperiodo) ".
@@ -108,7 +109,7 @@
 
     echo json_encode($resultados);
 } else {
-    // Si no hay registros, devolver un objeto JSON vacío
+   
     echo json_encode(array());
 }
 

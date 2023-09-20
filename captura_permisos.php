@@ -531,7 +531,27 @@
                             
                                 
                         </form>
-                    </table>  
+                    </table>
+                    
+                    <style>
+                    #permisosGuardados{
+                        margin-top: 20px;
+                    }
+
+                    .tablaPermisos{
+                        width: 70%;
+                        text-align: center;
+                    }
+
+                    .tablaPermisos th {
+                        background-color: #000;
+                        color: #fff;
+                        text-align: center;
+                    }
+
+
+                    </style>  
+                    
                     <div id="permisosGuardados">
                         
                     </div> 
