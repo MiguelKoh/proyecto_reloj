@@ -40,11 +40,32 @@ const obtenerPermisos = async (idDepto, idEmpleado, fechaInicio, fechaFin, horaI
     let divPermisos = document.getElementById("permisosGuardados");
     
     // Crear la tabla
-    let tablaHTML = '<table border="1" class="tablaPermisos"><tr><th>Fecha</th><th>Día</th><th>Hora Inicio</th><th>Hora Fin</th><th>Tipo de Permiso</th><th>Motivo</th><th>Minutos</th></tr>';
-
+    
+    let tablaHTML = '<table border="1" class="tablaPermisos">' +
+                '<tr>' +
+                '<th>Fecha</th>' +
+                '<th>Día</th>' +
+                '<th>Hora Inicio</th>' +
+                '<th>Hora Fin</th>' +
+                '<th>Tipo de Permiso</th>' +
+                '<th>Motivo</th>' +
+                '<th>Minutos</th>' +
+                '<th>Eliminar</th>' +
+                '</tr>';
     
     respuesta.forEach((permiso) => {
-      tablaHTML += `<tr><td>${permiso.fecha}</td><td>${permiso.dia}</td><td>${permiso.hora_inicio}</td><td>${permiso.hora_fin}</td><td>${permiso.tipo_permiso}</td><td>${permiso.motivo}</td><td>${permiso.Minutos}</td></tr>`;
+      
+      tablaHTML += 
+     `<tr>
+      <td>${permiso.fecha}</td>
+      <td>${permiso.dia}</td>
+      <td>${permiso.hora_inicio}</td>
+      <td>${permiso.hora_fin}</td>
+      <td>${permiso.tipo_permiso}</td>
+      <td>${permiso.motivo}</td>
+      <td>${permiso.Minutos}</td>
+      <td><img src='imagen/deletepermiso.gif'</td>
+      </tr>`;
     });
 
     tablaHTML += '</table>';

@@ -249,6 +249,8 @@ function cant_minutos($idemp, $reinicio_contador_minutos, $id_periodo){
     return $cant_minutos;
 	
 }
+
+
 function hayParcial($fecha){
     //$fechaini,$fechafin
     //verifica si la quincena esta en un periodo parcial y aplica consideraciones
@@ -662,28 +664,21 @@ function obtener_semestre ($fecha){
             return $dias;
     }    
     
-  function aumenta_o_quita_dias_fecha($fecha,$ndias)
-  {
-    $separar = explode ('-',$fecha);
-    $año = $separar[0];
-    $mes = $separar[1];
-    $dia = $separar[2];
-    
-    //queda en formato aaaa-mm-dd
-    $nueva = mktime(0,0,0, $mes,$dia,$año) + $ndias * 24 * 60 * 60;
-    $nuevafecha=date("Y-m-d",$nueva);    
-    
-    //cambiando el formato para que sea dd/mm/aaaa
-  /*  $separar = explode("-",$nuevafecha);
+  function aumenta_o_quita_dias_fecha($fecha, $ndias)
+{
+    $separar = explode('-', $fecha);
     $año = $separar[0];
     $mes = $separar[1];
     $dia = $separar[2];
 
-    $nuevafecha = $dia."/".$mes."/".$año;
- */   
-    return $nuevafecha;
+    // Crea un nuevo timestamp agregando los días deseados
+    $nueva = mktime(0, 0, 0, $mes, $dia + $ndias, $año);
     
-  }
+    // Formatea el nuevo timestamp como una fecha en formato "Y-m-d"
+    $nuevafecha = date("Y-m-d", $nueva);
+
+    return $nuevafecha;
+}
   
   function convertir_hora_12_a_24($hora){
       //llega formato de 01:05 p.m.
