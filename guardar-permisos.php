@@ -3,7 +3,7 @@
     include('conex.php'); 
     include("funciones_reloj.php");
     $cn = ConectaBD();
-    /*
+    
     $idDepto = $_GET['idDepto'];
     $idEmp =$_GET['idEmp'];
     $fechaInicio = $_GET['fechaInicio'];
@@ -15,8 +15,8 @@
     $tipoPermiso =$_GET['tipoPermiso'];
     $descPermiso =$_GET['descPermiso'];
 
-    */
-
+    
+/*
     $idDepto = 28;
     $idEmp = 9280;
     $fechaInicio ="2023-09-18";
@@ -27,6 +27,7 @@
     $minFin="0";
     $tipoPermiso ="1";
     $descPermiso ="prueba";
+    */
 
                 if ($minInicio == "0"){
                     $minInicio = "00";
